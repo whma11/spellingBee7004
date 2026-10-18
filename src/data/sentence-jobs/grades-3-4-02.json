@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 301,
+    "word": "ledge",
+    "sentence1": "A robin sat on the window ledge and sang.",
+    "sentence2": "We placed the plant on a high kitchen ledge."
+  },
+  {
+    "id": 302,
+    "word": "length",
+    "sentence1": "The teacher measured the length of our paper airplanes.",
+    "sentence2": "Mom cut the ribbon to the right length for the gift."
+  },
+  {
+    "id": 303,
+    "word": "lens",
+    "sentence1": "Dad cleaned the camera lens before the nature hike.",
+    "sentence2": "The science kit came with a small lens for looking closer."
+  },
+  {
+    "id": 304,
+    "word": "leotard",
+    "sentence1": "She pulled on a blue leotard before dance class.",
+    "sentence2": "My friend packed a clean leotard for the school show."
+  },
+  {
+    "id": 305,
+    "word": "leverage",
+    "sentence1": "We used a stick for leverage to lift the heavy box.",
+    "sentence2": "Good footing gives you leverage when you kick a ball."
+  },
+  {
+    "id": 306,
+    "word": "lifesaver",
+    "sentence1": "A bright lifesaver hung by the pool for safety.",
+    "sentence2": "Grandma called the kind neighbor a real lifesaver today."
+  },
+  {
+    "id": 307,
+    "word": "light-footed",
+    "sentence1": "The light-footed deer stepped quietly through the woods.",
+    "sentence2": "Our light-footed cat never wakes us in the morning."
+  },
+  {
+    "id": 308,
+    "word": "likely",
+    "sentence1": "It is likely to rain during our picnic this afternoon.",
+    "sentence2": "The coach said we are likely to win if we pass more."
+  },
+  {
+    "id": 309,
+    "word": "limited",
+    "sentence1": "The bakery had a limited number of warm muffins left.",
+    "sentence2": "Recess time is limited when we have a school assembly."
+  },
+  {
+    "id": 310,
+    "word": "linger",
+    "sentence1": "We like to linger at the park after soccer practice.",
+    "sentence2": "The smell of cookies will linger in the kitchen all evening."
+  },
+  {
+    "id": 311,
+    "word": "liquid",
+    "sentence1": "Juice is a liquid, but ice is a solid.",
+    "sentence2": "The recipe said to add one cup of liquid slowly."
+  },
+  {
+    "id": 312,
+    "word": "liven",
+    "sentence1": "Colorful balloons will liven the room for the party.",
+    "sentence2": "A funny song helped liven our long car trip."
+  },
+  {
+    "id": 313,
+    "word": "lobby",
+    "sentence1": "We waited in the hotel lobby for our cousins.",
+    "sentence2": "The school play posters hung in the main lobby."
+  },
+  {
+    "id": 314,
+    "word": "lonesome",
+    "sentence1": "The lonesome puppy cheered up when we came home.",
+    "sentence2": "I felt lonesome until my friend sat beside me."
+  },
+  {
+    "id": 315,
+    "word": "longhorn",
+    "sentence1": "A longhorn stood in the shade on the Texas ranch.",
+    "sentence2": "We saw a huge longhorn statue outside the museum."
+  },
+  {
+    "id": 316,
+    "word": "loyal",
+    "sentence1": "My loyal dog waits by the door every afternoon.",
+    "sentence2": "A loyal friend saved me a seat on the bus."
+  },
+  {
+    "id": 317,
+    "word": "luggage",
+    "sentence1": "We packed our luggage the night before the trip.",
+    "sentence2": "Dad lifted the heavy luggage into the car trunk."
+  },
+  {
+    "id": 318,
+    "word": "luminous",
+    "sentence1": "The luminous moon lit the backyard after dinner.",
+    "sentence2": "Her luminous painting glowed with bright yellow paint."
+  },
+  {
+    "id": 319,
+    "word": "lumpish",
+    "sentence1": "The lumpish puppy tripped over its own floppy ears.",
+    "sentence2": "He felt lumpish after sitting still through the long movie."
+  },
+  {
+    "id": 320,
+    "word": "machine",
+    "sentence1": "The washing machine hummed in the laundry room.",
+    "sentence2": "Our class watched a machine print the school newspaper."
+  },
+  {
+    "id": 321,
+    "word": "maddening",
+    "sentence1": "The maddening drip of the faucet kept me awake.",
+    "sentence2": "It was maddening to lose my pencil right before the test."
+  },
+  {
+    "id": 322,
+    "word": "magnet",
+    "sentence1": "A magnet stuck all the paper clips to the fridge.",
+    "sentence2": "We used a magnet to find tiny nails in the grass."
+  },
+  {
+    "id": 323,
+    "word": "magnify",
+    "sentence1": "This glass will magnify the tiny ant on the leaf.",
+    "sentence2": "The teacher used a tool to magnify words on the board."
+  },
+  {
+    "id": 324,
+    "word": "majesty",
+    "sentence1": "The book showed the majesty of snowy mountain peaks.",
+    "sentence2": "We stood quietly before the majesty of the huge waterfall."
+  },
+  {
+    "id": 325,
+    "word": "manifest",
+    "sentence1": "Her joy began to manifest when she saw the puppy.",
+    "sentence2": "Kindness can manifest in a simple note to a friend."
+  },
+  {
+    "id": 326,
+    "word": "manual",
+    "sentence1": "Dad read the manual before fixing the leaky sink.",
+    "sentence2": "The class followed a manual to build the model rocket."
+  },
+  {
+    "id": 327,
+    "word": "marmalade",
+    "sentence1": "I spread orange marmalade on my warm toast.",
+    "sentence2": "Grandma jars homemade marmalade every winter for breakfast."
+  },
+  {
+    "id": 328,
+    "word": "massive",
+    "sentence1": "A massive pumpkin sat on the farm wagon.",
+    "sentence2": "The team cheered as the massive banner went up."
+  },
+  {
+    "id": 329,
+    "word": "mature",
+    "sentence1": "The mature apple tree gave us plenty of fruit.",
+    "sentence2": "She made a mature choice and shared the last cookie."
+  },
+  {
+    "id": 330,
+    "word": "measure",
+    "sentence1": "Please measure the flour before we mix the cake.",
+    "sentence2": "We had to measure the hallway for the class mural."
+  },
+  {
+    "id": 331,
+    "word": "meddle",
+    "sentence1": "Please do not meddle with my puzzle pieces.",
+    "sentence2": "I try not to meddle in my brother's card game."
+  },
+  {
+    "id": 332,
+    "word": "medical",
+    "sentence1": "The school nurse keeps a medical kit in her office.",
+    "sentence2": "Dad packed a small medical bag for our camping trip."
+  },
+  {
+    "id": 333,
+    "word": "medley",
+    "sentence1": "The choir sang a medley of cheerful holiday songs.",
+    "sentence2": "Mom made a fruit medley with berries and melon."
+  },
+  {
+    "id": 334,
+    "word": "mentality",
+    "sentence1": "A kind mentality helps our team stay calm after a loss.",
+    "sentence2": "The teacher praised our helpful mentality during group work."
+  },
+  {
+    "id": 335,
+    "word": "mercy",
+    "sentence1": "The story hero showed mercy to the lost kitten.",
+    "sentence2": "Grandma showed mercy and let us keep the extra cookie."
+  },
+  {
+    "id": 336,
+    "word": "mermaid",
+    "sentence1": "The picture book showed a mermaid sitting on a rock.",
+    "sentence2": "My sister dressed as a mermaid for the school play."
+  },
+  {
+    "id": 337,
+    "word": "metric",
+    "sentence1": "We used a metric ruler to measure the plant.",
+    "sentence2": "The recipe listed sugar in metric grams this time."
+  },
+  {
+    "id": 338,
+    "word": "migration",
+    "sentence1": "Bird migration takes many geese south for winter.",
+    "sentence2": "Our class made a map of butterfly migration routes."
+  },
+  {
+    "id": 339,
+    "word": "mineral",
+    "sentence1": "Salt is a mineral we use in the kitchen.",
+    "sentence2": "The science table held a shiny mineral from the creek."
+  },
+  {
+    "id": 340,
+    "word": "minus",
+    "sentence1": "Ten minus four equals six on the chalkboard.",
+    "sentence2": "My snack count is six minus the apple I shared."
+  },
+  {
+    "id": 341,
+    "word": "mission",
+    "sentence1": "Our class mission was to clean the playground.",
+    "sentence2": "The scouts had a mission to deliver food boxes."
+  },
+  {
+    "id": 342,
+    "word": "misspell",
+    "sentence1": "I did not misspell my friend's name on the card.",
+    "sentence2": "Please check so you do not misspell the street name."
+  },
+  {
+    "id": 343,
+    "word": "misuse",
+    "sentence1": "Do not misuse the glue during art class.",
+    "sentence2": "Dad said we must never misuse the kitchen tools."
+  },
+  {
+    "id": 344,
+    "word": "modern",
+    "sentence1": "The library has a modern room for quiet reading.",
+    "sentence2": "Our modern oven beeps when the pizza is ready."
+  },
+  {
+    "id": 345,
+    "word": "modest",
+    "sentence1": "She gave a modest smile after winning the race.",
+    "sentence2": "We live in a modest house with a big backyard."
+  },
+  {
+    "id": 346,
+    "word": "muffler",
+    "sentence1": "He wrapped a warm muffler around his neck.",
+    "sentence2": "The old car needed a new muffler before the trip."
+  },
+  {
+    "id": 347,
+    "word": "multiply",
+    "sentence1": "We will multiply these numbers during math today.",
+    "sentence2": "Rabbits can multiply quickly in a quiet garden."
+  },
+  {
+    "id": 348,
+    "word": "municipal",
+    "sentence1": "The municipal pool opens after the last school day.",
+    "sentence2": "A municipal truck watered the flowers on Main Street."
+  },
+  {
+    "id": 349,
+    "word": "mushroom",
+    "sentence1": "A small mushroom grew under the oak tree.",
+    "sentence2": "Mom sliced a mushroom for the pizza topping."
+  },
+  {
+    "id": 350,
+    "word": "mystify",
+    "sentence1": "The magic trick will mystify the whole class.",
+    "sentence2": "Dark clouds can mystify us before a sudden storm."
+  },
+  {
+    "id": 351,
+    "word": "myth",
+    "sentence1": "We read a myth about a clever fox and stars.",
+    "sentence2": "That old myth said a rainbow hid a pot of gold."
+  },
+  {
+    "id": 352,
+    "word": "nap",
+    "sentence1": "The baby took a short nap after lunch.",
+    "sentence2": "Our cat found a sunny nap spot on the sofa."
+  },
+  {
+    "id": 353,
+    "word": "national",
+    "sentence1": "We sang the national song at the school assembly.",
+    "sentence2": "The park is a national treasure for hikers and birds."
+  },
+  {
+    "id": 354,
+    "word": "nature",
+    "sentence1": "We studied nature on the trail behind the school.",
+    "sentence2": "I love the quiet sounds of nature at the lake."
+  },
+  {
+    "id": 355,
+    "word": "navigate",
+    "sentence1": "We used a map to navigate through the park trails.",
+    "sentence2": "Dad let me help navigate on the way to grandma."
+  },
+  {
+    "id": 356,
+    "word": "neat",
+    "sentence1": "Please keep your desk neat before we line up.",
+    "sentence2": "She made a neat stack of pancakes for breakfast."
+  },
+  {
+    "id": 357,
+    "word": "necessary",
+    "sentence1": "A raincoat is necessary on this wet morning.",
+    "sentence2": "Sleep is necessary if you want energy for soccer."
+  },
+  {
+    "id": 358,
+    "word": "needless",
+    "sentence1": "Extra worry is needless when we have a plan.",
+    "sentence2": "The long line felt needless because the shop was empty."
+  },
+  {
+    "id": 359,
+    "word": "nephew",
+    "sentence1": "Uncle Ben took his nephew to the ball game.",
+    "sentence2": "My nephew helped me water the garden tomatoes."
+  },
+  {
+    "id": 360,
+    "word": "neutral",
+    "sentence1": "The referee stayed neutral during the close soccer game.",
+    "sentence2": "I picked a neutral shirt that matches any pants."
+  },
+  {
+    "id": 361,
+    "word": "nibble",
+    "sentence1": "The rabbit began to nibble the garden lettuce.",
+    "sentence2": "I like to nibble crackers while I read."
+  },
+  {
+    "id": 362,
+    "word": "nickname",
+    "sentence1": "My nickname at home is Sunny because I smile.",
+    "sentence2": "The team gave our pitcher a funny nickname."
+  },
+  {
+    "id": 363,
+    "word": "ninth",
+    "sentence1": "She finished in ninth place at the track meet.",
+    "sentence2": "My ninth birthday cake had extra chocolate frosting."
+  },
+  {
+    "id": 364,
+    "word": "noel",
+    "sentence1": "We sang a joyful noel at the winter concert.",
+    "sentence2": "The choir ended with a soft noel by candlelight."
+  },
+  {
+    "id": 365,
+    "word": "nonbiting",
+    "sentence1": "The guide said these are nonbiting flies near the lake.",
+    "sentence2": "We were glad the insects were the nonbiting kind."
+  },
+  {
+    "id": 366,
+    "word": "nonstick",
+    "sentence1": "Eggs slide easily from the nonstick pan this morning.",
+    "sentence2": "Mom bought a nonstick skillet for Saturday pancakes."
+  },
+  {
+    "id": 367,
+    "word": "normally",
+    "sentence1": "We normally walk to school when the weather is nice.",
+    "sentence2": "Dinner is normally ready right after soccer practice."
+  },
+  {
+    "id": 368,
+    "word": "northward",
+    "sentence1": "Geese flew northward when the days grew warmer.",
+    "sentence2": "Our bus turned northward toward the soccer fields."
+  },
+  {
+    "id": 369,
+    "word": "nosy",
+    "sentence1": "The nosy puppy peeked into every grocery bag.",
+    "sentence2": "A nosy squirrel watched us eat lunch outside."
+  },
+  {
+    "id": 370,
+    "word": "notation",
+    "sentence1": "Music notation tells us which notes to play.",
+    "sentence2": "The teacher used notation to mark our science steps."
+  },
+  {
+    "id": 371,
+    "word": "notepad",
+    "sentence1": "I wrote the grocery list on a small notepad.",
+    "sentence2": "She kept a notepad in her backpack for ideas."
+  },
+  {
+    "id": 372,
+    "word": "nourish",
+    "sentence1": "Fresh fruit and milk nourish us after a long day.",
+    "sentence2": "Rain and sunlight nourish the garden vegetables well."
+  },
+  {
+    "id": 373,
+    "word": "novice",
+    "sentence1": "I am a novice at ice skating, but I try.",
+    "sentence2": "The novice baker still made tasty muffins today."
+  },
+  {
+    "id": 374,
+    "word": "nudging",
+    "sentence1": "The puppy kept nudging my hand for another treat.",
+    "sentence2": "My friend was nudging me to join the game."
+  },
+  {
+    "id": 375,
+    "word": "numb",
+    "sentence1": "My fingers felt numb after playing in the snow.",
+    "sentence2": "Sitting too long made my foot feel numb."
+  },
+  {
+    "id": 376,
+    "word": "nursemaid",
+    "sentence1": "In the story, a kind nursemaid watched the children.",
+    "sentence2": "The play had a nursemaid who sang a quiet song."
+  },
+  {
+    "id": 377,
+    "word": "nutmeg",
+    "sentence1": "Mom sprinkled nutmeg on the warm apple pie.",
+    "sentence2": "A pinch of nutmeg made the oatmeal smell cozy."
+  },
+  {
+    "id": 378,
+    "word": "nuzzle",
+    "sentence1": "The horse likes to nuzzle my pocket for carrots.",
+    "sentence2": "Our kitten will nuzzle my cheek when it wakes."
+  },
+  {
+    "id": 379,
+    "word": "obedient",
+    "sentence1": "The obedient dog sat when Dad called his name.",
+    "sentence2": "An obedient helper passed out papers for the teacher."
+  },
+  {
+    "id": 380,
+    "word": "oboe",
+    "sentence1": "She played the oboe in the school band.",
+    "sentence2": "The oboe made a warm sound during the concert."
+  },
+  {
+    "id": 381,
+    "word": "obsess",
+    "sentence1": "Try not to obsess over one missed basketball shot.",
+    "sentence2": "I can obsess about a puzzle until every piece fits."
+  },
+  {
+    "id": 382,
+    "word": "obstruct",
+    "sentence1": "Please do not obstruct the hallway with backpacks.",
+    "sentence2": "Fallen branches can obstruct the path after a storm."
+  },
+  {
+    "id": 383,
+    "word": "October",
+    "sentence1": "We pick pumpkins in October at the nearby farm.",
+    "sentence2": "Our school carnival is always held in October."
+  },
+  {
+    "id": 384,
+    "word": "oddity",
+    "sentence1": "The striped tomato was an oddity at the farm stand.",
+    "sentence2": "That rock shape was an oddity we found by the creek."
+  },
+  {
+    "id": 385,
+    "word": "offend",
+    "sentence1": "I did not mean to offend my friend with the joke.",
+    "sentence2": "Loud talking may offend people in the quiet library."
+  },
+  {
+    "id": 386,
+    "word": "oiliest",
+    "sentence1": "That was the oiliest slice of pizza on the plate.",
+    "sentence2": "After bike repair, his hands were the oiliest of all."
+  },
+  {
+    "id": 387,
+    "word": "ointment",
+    "sentence1": "Mom put ointment on my scraped knee after recess.",
+    "sentence2": "The nurse used ointment for the dry patch on my arm."
+  },
+  {
+    "id": 388,
+    "word": "okra",
+    "sentence1": "Grandma fried crisp okra for our Sunday family dinner.",
+    "sentence2": "We picked green okra from the garden this morning."
+  },
+  {
+    "id": 389,
+    "word": "onion",
+    "sentence1": "Dad chopped an onion for the taco night.",
+    "sentence2": "The soup needed one more onion and a carrot."
+  },
+  {
+    "id": 390,
+    "word": "onlooker",
+    "sentence1": "An onlooker clapped as we finished the school race.",
+    "sentence2": "Every onlooker smiled at the puppy in the parade."
+  },
+  {
+    "id": 391,
+    "word": "onstage",
+    "sentence1": "She felt brave once she stepped onstage for the play.",
+    "sentence2": "The choir stood onstage in matching blue shirts."
+  },
+  {
+    "id": 392,
+    "word": "oozy",
+    "sentence1": "The oozy mud grabbed our boots by the creek.",
+    "sentence2": "Warm chocolate made an oozy mess on the spoon."
+  },
+  {
+    "id": 393,
+    "word": "opera",
+    "sentence1": "We watched a short opera about a friendly bird.",
+    "sentence2": "Grandma plays opera music while she bakes bread."
+  },
+  {
+    "id": 394,
+    "word": "operation",
+    "sentence1": "The doctor said the operation would help her knee.",
+    "sentence2": "Our class operation was to plant trees by the track."
+  },
+  {
+    "id": 395,
+    "word": "opt",
+    "sentence1": "I will opt for apple slices instead of chips.",
+    "sentence2": "Many kids opt to play soccer after school."
+  },
+  {
+    "id": 396,
+    "word": "oral",
+    "sentence1": "We have an oral report about weather tomorrow.",
+    "sentence2": "The dentist checked my oral health after I brushed."
+  },
+  {
+    "id": 397,
+    "word": "orangeade",
+    "sentence1": "Ice cold orangeade tasted perfect after the hike.",
+    "sentence2": "The picnic cooler held orangeade and cheese sandwiches."
+  },
+  {
+    "id": 398,
+    "word": "order",
+    "sentence1": "Please line up in order by your first names.",
+    "sentence2": "We will order pizza for the team party."
+  },
+  {
+    "id": 399,
+    "word": "organized",
+    "sentence1": "Her organized backpack made morning rush much easier.",
+    "sentence2": "An organized pantry helps us find the cereal fast."
+  },
+  {
+    "id": 400,
+    "word": "ornament",
+    "sentence1": "I hung a shiny ornament on the holiday tree.",
+    "sentence2": "The class made a paper ornament for each family."
+  },
+  {
+    "id": 401,
+    "word": "otherwise",
+    "sentence1": "Wear your coat, otherwise you will get chilly.",
+    "sentence2": "Stir the soup, otherwise it may stick to the pot."
+  },
+  {
+    "id": 402,
+    "word": "ouch",
+    "sentence1": "I said ouch when the soccer ball bumped my arm.",
+    "sentence2": "My little brother yelled ouch after the cold splash."
+  },
+  {
+    "id": 403,
+    "word": "ourselves",
+    "sentence1": "We made sandwiches for ourselves after the game.",
+    "sentence2": "The scouts set up the tent by ourselves."
+  },
+  {
+    "id": 404,
+    "word": "outdated",
+    "sentence1": "That outdated map did not show the new park.",
+    "sentence2": "Mom donated the outdated coats to a clothing drive."
+  },
+  {
+    "id": 405,
+    "word": "outerwear",
+    "sentence1": "Hang your wet outerwear on the hooks by the door.",
+    "sentence2": "Warm outerwear is needed for the snowy field trip."
+  },
+  {
+    "id": 406,
+    "word": "outward",
+    "sentence1": "The flower petals opened outward toward the sun.",
+    "sentence2": "She turned the chair outward so we could talk."
+  },
+  {
+    "id": 407,
+    "word": "overture",
+    "sentence1": "The band played a bright overture before the play.",
+    "sentence2": "A short overture welcomed families into the concert hall."
+  },
+  {
+    "id": 408,
+    "word": "owlish",
+    "sentence1": "His owlish glasses made him look extra thoughtful.",
+    "sentence2": "The child gave an owlish blink in the bright library."
+  },
+  {
+    "id": 409,
+    "word": "ozone",
+    "sentence1": "Our science book explained how ozone helps the sky.",
+    "sentence2": "We learned ozone is a gas high above Earth."
+  },
+  {
+    "id": 410,
+    "word": "pageant",
+    "sentence1": "The school pageant told the story of our town.",
+    "sentence2": "She wore a handmade crown in the spring pageant."
+  },
+  {
+    "id": 411,
+    "word": "palace",
+    "sentence1": "The story castle had a palace with golden doors.",
+    "sentence2": "We built a sand palace near the water."
+  },
+  {
+    "id": 412,
+    "word": "pantry",
+    "sentence1": "The cereal is on the middle pantry shelf.",
+    "sentence2": "We found extra napkins in the classroom pantry."
+  },
+  {
+    "id": 413,
+    "word": "parallel",
+    "sentence1": "Draw two parallel lines on your math paper.",
+    "sentence2": "The train tracks run parallel beside the river."
+  },
+  {
+    "id": 414,
+    "word": "parasite",
+    "sentence1": "A parasite can live on a plant or animal.",
+    "sentence2": "The science video showed a tiny parasite on a leaf."
+  },
+  {
+    "id": 415,
+    "word": "parchment",
+    "sentence1": "The class wrote a treaty on fake parchment paper.",
+    "sentence2": "Grandma lined the pan with parchment before baking cookies."
+  },
+  {
+    "id": 416,
+    "word": "partake",
+    "sentence1": "Please partake in the fruit salad at lunch.",
+    "sentence2": "We will partake in the neighborhood cleanup on Saturday."
+  },
+  {
+    "id": 417,
+    "word": "partnership",
+    "sentence1": "Our science partnership built a strong paper bridge.",
+    "sentence2": "The bakery and farm formed a partnership for fresh eggs."
+  },
+  {
+    "id": 418,
+    "word": "passport",
+    "sentence1": "Mom packed her passport for the family trip.",
+    "sentence2": "We saw a sample passport in our geography lesson."
+  },
+  {
+    "id": 419,
+    "word": "pastry",
+    "sentence1": "The warm pastry was filled with sweet apples.",
+    "sentence2": "Our class baked a cheese pastry for the food fair."
+  },
+  {
+    "id": 420,
+    "word": "peach",
+    "sentence1": "I packed a ripe peach in my lunchbox.",
+    "sentence2": "The orchard peach tasted sweet after the long walk."
+  },
+  {
+    "id": 421,
+    "word": "pedigree",
+    "sentence1": "The puppy paper showed its pedigree from two farms.",
+    "sentence2": "Our book had the pedigree of a famous racehorse."
+  },
+  {
+    "id": 422,
+    "word": "perfume",
+    "sentence1": "Grandma's light perfume smelled like garden roses after rain.",
+    "sentence2": "The flower shop had a perfume of fresh lilies."
+  },
+  {
+    "id": 423,
+    "word": "perhaps",
+    "sentence1": "Mom said perhaps we can visit the zoo after lunch.",
+    "sentence2": "The coach said perhaps we will try a new play."
+  },
+  {
+    "id": 424,
+    "word": "perplex",
+    "sentence1": "Hard riddles can perplex even the fastest readers.",
+    "sentence2": "The missing sock seemed to perplex the whole family."
+  },
+  {
+    "id": 425,
+    "word": "petrify",
+    "sentence1": "Minerals can petrify wood over a very long time.",
+    "sentence2": "The science display showed how waters can petrify a tree."
+  },
+  {
+    "id": 426,
+    "word": "pheasant",
+    "sentence1": "A colorful pheasant walked along the field edge.",
+    "sentence2": "We spotted a pheasant hiding in the tall grass."
+  },
+  {
+    "id": 427,
+    "word": "photocopy",
+    "sentence1": "Please make a photocopy of the permission form.",
+    "sentence2": "The librarian made a photocopy of the map for us."
+  },
+  {
+    "id": 428,
+    "word": "phrase",
+    "sentence1": "Circle the phrase that tells when the story happens.",
+    "sentence2": "Mom used a kind phrase to cheer me up."
+  },
+  {
+    "id": 429,
+    "word": "pitiful",
+    "sentence1": "The pitiful wilted plant perked up after watering.",
+    "sentence2": "He gave a pitiful sigh when the cookies were gone."
+  },
+  {
+    "id": 430,
+    "word": "pledge",
+    "sentence1": "We say the pledge each morning in class.",
+    "sentence2": "I made a pledge to walk the dog every day."
+  },
+  {
+    "id": 431,
+    "word": "portrait",
+    "sentence1": "She painted a portrait of her smiling grandma.",
+    "sentence2": "Our class portrait hangs in the school hallway."
+  },
+  {
+    "id": 432,
+    "word": "position",
+    "sentence1": "My soccer position is next to the goal.",
+    "sentence2": "Please move your chair to a better position."
+  },
+  {
+    "id": 433,
+    "word": "positive",
+    "sentence1": "Keep a positive attitude during the hard math page.",
+    "sentence2": "Dad stayed positive even when the car needed a wash."
+  },
+  {
+    "id": 434,
+    "word": "postage",
+    "sentence1": "We needed extra postage for the thick envelope.",
+    "sentence2": "The class bought postage to mail thank-you notes."
+  },
+  {
+    "id": 435,
+    "word": "prairie",
+    "sentence1": "Tall grass covered the prairie as far as we could see.",
+    "sentence2": "A hawk circled above the wide prairie at sunset."
+  },
+  {
+    "id": 436,
+    "word": "precious",
+    "sentence1": "The baby bird looked precious in its tiny nest.",
+    "sentence2": "Grandma's precious recipe card still has chocolate stains."
+  },
+  {
+    "id": 437,
+    "word": "priest",
+    "sentence1": "The kind priest waved to children after the service.",
+    "sentence2": "In the story, a priest helped travelers find water."
+  },
+  {
+    "id": 438,
+    "word": "primary",
+    "sentence1": "Red is a primary color we mix in art.",
+    "sentence2": "Our primary job today is to clean the classroom."
+  },
+  {
+    "id": 439,
+    "word": "primitive",
+    "sentence1": "We built a primitive shelter with sticks and leaves.",
+    "sentence2": "The museum showed primitive tools from long ago."
+  },
+  {
+    "id": 440,
+    "word": "project",
+    "sentence1": "Our science project is a model of the water cycle.",
+    "sentence2": "We will project the slides onto the classroom wall."
+  },
+  {
+    "id": 441,
+    "word": "prowl",
+    "sentence1": "The cat likes to prowl around the garden at dusk.",
+    "sentence2": "Fireflies seem to prowl above the grass after dark."
+  },
+  {
+    "id": 442,
+    "word": "prune",
+    "sentence1": "Dad will prune the rose bushes this weekend.",
+    "sentence2": "I packed a sweet prune in my lunch for snack."
+  },
+  {
+    "id": 443,
+    "word": "purebred",
+    "sentence1": "The farm has a purebred pony with a shiny coat.",
+    "sentence2": "Our book showed a purebred dog at the county fair."
+  },
+  {
+    "id": 444,
+    "word": "quantity",
+    "sentence1": "We need a large quantity of cups for the picnic.",
+    "sentence2": "The recipe asks for a small quantity of salt."
+  },
+  {
+    "id": 445,
+    "word": "quarter",
+    "sentence1": "I found a shiny quarter under the sofa cushion.",
+    "sentence2": "The game starts in the first quarter after lunch."
+  },
+  {
+    "id": 446,
+    "word": "queasy",
+    "sentence1": "The twisting ride made me feel a little queasy.",
+    "sentence2": "I felt queasy after eating too much popcorn."
+  },
+  {
+    "id": 447,
+    "word": "queen",
+    "sentence1": "The class play had a kind queen in a gold cape.",
+    "sentence2": "A queen bee lives in the center of the hive."
+  },
+  {
+    "id": 448,
+    "word": "quench",
+    "sentence1": "Cold water can quench your thirst after recess.",
+    "sentence2": "We used sand to quench the tiny campfire."
+  },
+  {
+    "id": 449,
+    "word": "quibbling",
+    "sentence1": "Stop the quibbling and just share the crayons.",
+    "sentence2": "Their quibbling about seats made the bus ride noisy."
+  },
+  {
+    "id": 450,
+    "word": "quid",
+    "sentence1": "In England, a snack might cost one quid.",
+    "sentence2": "Grandpa said a quid is like a British dollar."
+  },
+  {
+    "id": 451,
+    "word": "quill",
+    "sentence1": "The old desk held a feather quill and ink.",
+    "sentence2": "The museum showed a porcupine quill behind glass."
+  },
+  {
+    "id": 452,
+    "word": "quite",
+    "sentence1": "The soup was quite hot, so we waited.",
+    "sentence2": "She was quite proud of her science poster."
+  },
+  {
+    "id": 453,
+    "word": "quiz",
+    "sentence1": "We have a short math quiz after lunch.",
+    "sentence2": "Dad gave us a fun quiz about animal sounds."
+  },
+  {
+    "id": 454,
+    "word": "quota",
+    "sentence1": "Each scout had a quota of ten bags to recycle.",
+    "sentence2": "The class met its quota of canned food gifts."
+  },
+  {
+    "id": 455,
+    "word": "radiant",
+    "sentence1": "Her radiant smile lit up the whole classroom.",
+    "sentence2": "The radiant sunrise made the lake look gold."
+  },
+  {
+    "id": 456,
+    "word": "radio",
+    "sentence1": "We heard the game on the kitchen radio.",
+    "sentence2": "The class radio played quiet music during art."
+  },
+  {
+    "id": 457,
+    "word": "ragweed",
+    "sentence1": "Dad sneezed when he walked past the ragweed.",
+    "sentence2": "We learned ragweed pollen can make eyes itchy."
+  },
+  {
+    "id": 458,
+    "word": "rainbow",
+    "sentence1": "A bright rainbow arched over the wet playground.",
+    "sentence2": "We painted a rainbow on the cafeteria mural."
+  },
+  {
+    "id": 459,
+    "word": "raspberry",
+    "sentence1": "I picked a ripe raspberry from the backyard bush.",
+    "sentence2": "The yogurt had a swirl of raspberry jam."
+  },
+  {
+    "id": 460,
+    "word": "razor",
+    "sentence1": "Dad keeps his razor on the bathroom shelf.",
+    "sentence2": "The art teacher used a safety razor to trim paper."
+  },
+  {
+    "id": 461,
+    "word": "readable",
+    "sentence1": "Please make your handwriting readable on the form.",
+    "sentence2": "This big-print book is readable even in dim light."
+  },
+  {
+    "id": 462,
+    "word": "reckless",
+    "sentence1": "The reckless running in the hall can cause a fall.",
+    "sentence2": "The reckless bike turn made the coach blow the whistle."
+  },
+  {
+    "id": 463,
+    "word": "recollect",
+    "sentence1": "I cannot recollect where I left my lunchbox.",
+    "sentence2": "Grandma can recollect stories from her first school."
+  },
+  {
+    "id": 464,
+    "word": "recycle",
+    "sentence1": "Please recycle the empty bottles after the party.",
+    "sentence2": "Our class will recycle paper every Friday morning."
+  },
+  {
+    "id": 465,
+    "word": "regional",
+    "sentence1": "We sang a regional song from our home state.",
+    "sentence2": "The regional fair had the biggest pumpkins around."
+  },
+  {
+    "id": 466,
+    "word": "register",
+    "sentence1": "Please register for the summer swim lessons today.",
+    "sentence2": "The cash register beeped as we paid for bread."
+  },
+  {
+    "id": 467,
+    "word": "regularly",
+    "sentence1": "We regularly water the classroom plants on Mondays.",
+    "sentence2": "She brushes her dog regularly after long dusty walks."
+  },
+  {
+    "id": 468,
+    "word": "religion",
+    "sentence1": "Our class learned that religion is important to many families.",
+    "sentence2": "The museum room showed items from more than one religion."
+  },
+  {
+    "id": 469,
+    "word": "remarkable",
+    "sentence1": "The remarkable rainbow lasted almost the whole recess.",
+    "sentence2": "Grandma told a remarkable story about her first bicycle."
+  },
+  {
+    "id": 470,
+    "word": "remedy",
+    "sentence1": "Honey tea is a home remedy for a sore throat.",
+    "sentence2": "A quiet rest was the best remedy after the long game."
+  },
+  {
+    "id": 471,
+    "word": "reminder",
+    "sentence1": "Mom left a reminder on the fridge about library books.",
+    "sentence2": "The bell is a reminder to line up for lunch."
+  },
+  {
+    "id": 472,
+    "word": "rescue",
+    "sentence1": "Firefighters came to rescue the kitten from the tree.",
+    "sentence2": "Our club held a rescue drive for the animal shelter."
+  },
+  {
+    "id": 473,
+    "word": "resident",
+    "sentence1": "Every resident of our street got a parade flyer.",
+    "sentence2": "A new resident joined our class from another town."
+  },
+  {
+    "id": 474,
+    "word": "respond",
+    "sentence1": "Please respond to the teacher when she calls your name.",
+    "sentence2": "The puppy will respond if you hold out a treat."
+  },
+  {
+    "id": 475,
+    "word": "retired",
+    "sentence1": "My retired grandpa now reads to kids at school.",
+    "sentence2": "The retired racehorse lives on a quiet farm."
+  },
+  {
+    "id": 476,
+    "word": "retrieve",
+    "sentence1": "The dog can retrieve the ball from the pond.",
+    "sentence2": "Please retrieve your jacket from the lost-and-found box."
+  },
+  {
+    "id": 477,
+    "word": "revenge",
+    "sentence1": "The team wanted a friendly revenge in the next game.",
+    "sentence2": "In the cartoon, the mouse planned a silly revenge with cheese."
+  },
+  {
+    "id": 478,
+    "word": "reward",
+    "sentence1": "A sticker was my reward for a tidy desk.",
+    "sentence2": "The lost dog's owner offered a reward of treats."
+  },
+  {
+    "id": 479,
+    "word": "rookie",
+    "sentence1": "The rookie pitcher threw a careful first strike.",
+    "sentence2": "I felt like a rookie on my first day of band."
+  },
+  {
+    "id": 480,
+    "word": "rotate",
+    "sentence1": "Please rotate the crops in the school garden.",
+    "sentence2": "We rotate classroom jobs every Monday before lunch."
+  },
+  {
+    "id": 481,
+    "word": "rotten",
+    "sentence1": "The rotten apple went into the compost bin.",
+    "sentence2": "A rotten board on the dock needed a new nail."
+  },
+  {
+    "id": 482,
+    "word": "rouge",
+    "sentence1": "The actor dabbed rouge on her cheeks for the play.",
+    "sentence2": "Mom used a tiny bit of rouge for the photo."
+  },
+  {
+    "id": 483,
+    "word": "ruddy",
+    "sentence1": "His ruddy cheeks glowed after the cold soccer game.",
+    "sentence2": "The ruddy sunset made the barn look warm."
+  },
+  {
+    "id": 484,
+    "word": "rush",
+    "sentence1": "Do not rush through your homework tonight, please.",
+    "sentence2": "We had to rush to catch the school bus."
+  },
+  {
+    "id": 485,
+    "word": "ruthless",
+    "sentence1": "The ruthless wind blew every leaf off our tree.",
+    "sentence2": "A ruthless rain soaked the picnic before we ate."
+  },
+  {
+    "id": 486,
+    "word": "salmon",
+    "sentence1": "We baked salmon with lemon for Friday family dinner.",
+    "sentence2": "A salmon swam upstream in the nature video."
+  },
+  {
+    "id": 487,
+    "word": "sane",
+    "sentence1": "After a quiet rest, I felt sane and ready again.",
+    "sentence2": "A good night of sleep helped him stay sane and calm."
+  },
+  {
+    "id": 488,
+    "word": "sawdust",
+    "sentence1": "Soft sawdust covered the floor of the wood shop.",
+    "sentence2": "The hamster cage needed fresh sawdust this morning."
+  },
+  {
+    "id": 489,
+    "word": "seamstress",
+    "sentence1": "A skilled seamstress hemmed my costume for the play.",
+    "sentence2": "The seamstress at the shop fixed the torn pocket."
+  },
+  {
+    "id": 490,
+    "word": "security",
+    "sentence1": "A security guard smiled and waved us into the museum.",
+    "sentence2": "We turned on the porch security light at dusk."
+  },
+  {
+    "id": 491,
+    "word": "sentence",
+    "sentence1": "I wrote a long sentence about my weekend trip.",
+    "sentence2": "My story began with a short sentence about rain."
+  },
+  {
+    "id": 492,
+    "word": "service",
+    "sentence1": "The bus service stops right by our school.",
+    "sentence2": "We did a service project by cleaning the park."
+  },
+  {
+    "id": 493,
+    "word": "shirttail",
+    "sentence1": "He tucked his shirttail in before the school photo.",
+    "sentence2": "A muddy shirttail hung out after the puddle jump."
+  },
+  {
+    "id": 494,
+    "word": "shortening",
+    "sentence1": "Mom added shortening to make the pie crust flaky.",
+    "sentence2": "The recipe called for one cup of shortening."
+  },
+  {
+    "id": 495,
+    "word": "sincere",
+    "sentence1": "Her sincere apology made our friendship feel strong again.",
+    "sentence2": "A sincere thank-you note made Grandma smile at once."
+  },
+  {
+    "id": 496,
+    "word": "skeleton",
+    "sentence1": "The science room has a skeleton model of a body.",
+    "sentence2": "We built a leaf skeleton display after the rain."
+  },
+  {
+    "id": 497,
+    "word": "sketch",
+    "sentence1": "I made a quick sketch of the oak tree.",
+    "sentence2": "The coach drew a sketch of our soccer play."
+  },
+  {
+    "id": 498,
+    "word": "snobbish",
+    "sentence1": "The snobbish character in the book learned to share.",
+    "sentence2": "Do not be snobbish about who sits at lunch."
+  },
+  {
+    "id": 499,
+    "word": "snoopy",
+    "sentence1": "Our snoopy cat opens every closet door at home.",
+    "sentence2": "A snoopy raccoon checked our picnic basket at dusk."
+  },
+  {
+    "id": 500,
+    "word": "snorkel",
+    "sentence1": "I used a snorkel to see fish near the reef.",
+    "sentence2": "The pool class learned how a snorkel works."
+  },
+  {
+    "id": 501,
+    "word": "soothing",
+    "sentence1": "Soft music had a soothing effect after the test.",
+    "sentence2": "A soothing cup of cocoa warmed us after sledding."
+  },
+  {
+    "id": 502,
+    "word": "sourdough",
+    "sentence1": "Mom baked sourdough bread for our Saturday breakfast.",
+    "sentence2": "The bakery smell of sourdough filled the whole street."
+  },
+  {
+    "id": 503,
+    "word": "spinach",
+    "sentence1": "I hid spinach under the cheese on my pizza.",
+    "sentence2": "The garden spinach looked dark green after the rain."
+  },
+  {
+    "id": 504,
+    "word": "sponge",
+    "sentence1": "Wipe the table with a clean sponge, please.",
+    "sentence2": "A sea sponge sat in the tide pool display."
+  },
+  {
+    "id": 505,
+    "word": "sponsor",
+    "sentence1": "A local shop will sponsor our soccer jerseys.",
+    "sentence2": "Each class needs a sponsor for the food drive."
+  },
+  {
+    "id": 506,
+    "word": "stardom",
+    "sentence1": "She dreamed of stardom after the school play.",
+    "sentence2": "Sudden stardom did not change the kind singer."
+  },
+  {
+    "id": 507,
+    "word": "strawberry",
+    "sentence1": "I picked a ripe strawberry from the garden row.",
+    "sentence2": "The smoothie needed one more strawberry and some ice."
+  },
+  {
+    "id": 508,
+    "word": "struggle",
+    "sentence1": "I had a struggle with the last math problem.",
+    "sentence2": "The puppy had a struggle pulling off its wet sock."
+  },
+  {
+    "id": 509,
+    "word": "suddenly",
+    "sentence1": "The sun came out suddenly after the rain.",
+    "sentence2": "We stopped suddenly when a squirrel crossed the path."
+  },
+  {
+    "id": 510,
+    "word": "suggest",
+    "sentence1": "Please suggest a book about space travel today.",
+    "sentence2": "I suggest we pack extra water for the hike."
+  },
+  {
+    "id": 511,
+    "word": "superb",
+    "sentence1": "The superb catch won the baseball game for us.",
+    "sentence2": "Grandma made a superb peach cobbler for dessert."
+  },
+  {
+    "id": 512,
+    "word": "surprising",
+    "sentence1": "The surprising gift made my little brother smile.",
+    "sentence2": "A surprising rainbow appeared after the short storm."
+  },
+  {
+    "id": 513,
+    "word": "swoop",
+    "sentence1": "We watched a bird swoop down for a crumb.",
+    "sentence2": "The kite seemed to swoop over the soccer field."
+  },
+  {
+    "id": 514,
+    "word": "symbol",
+    "sentence1": "A heart is a symbol of kindness on our poster.",
+    "sentence2": "The flag is a symbol we honor at the assembly."
+  },
+  {
+    "id": 515,
+    "word": "system",
+    "sentence1": "Our recycling system has bins for paper and plastic.",
+    "sentence2": "The school computer system was back after lunch."
+  },
+  {
+    "id": 516,
+    "word": "tantrum",
+    "sentence1": "The toddler's tantrum ended after a quiet snack.",
+    "sentence2": "A tantrum will not help us solve the puzzle."
+  },
+  {
+    "id": 517,
+    "word": "tattered",
+    "sentence1": "He still loves his tattered blanket from preschool.",
+    "sentence2": "A tattered flag was replaced before the parade."
+  },
+  {
+    "id": 518,
+    "word": "technical",
+    "sentence1": "A technical problem paused the class video briefly.",
+    "sentence2": "Dad used technical tools to fix the leaky faucet."
+  },
+  {
+    "id": 519,
+    "word": "temperature",
+    "sentence1": "The nurse checked my temperature with a small thermometer.",
+    "sentence2": "The soup temperature was too hot, so we waited."
+  },
+  {
+    "id": 520,
+    "word": "tempting",
+    "sentence1": "Those warm cookies looked tempting on the counter.",
+    "sentence2": "A tempting puddle almost made us jump in."
+  },
+  {
+    "id": 521,
+    "word": "terrace",
+    "sentence1": "We ate dinner on the terrace behind the house.",
+    "sentence2": "Flowers lined the school terrace before the concert."
+  },
+  {
+    "id": 522,
+    "word": "textbook",
+    "sentence1": "I left my science textbook on the kitchen table.",
+    "sentence2": "The library textbook had a map of the rivers."
+  },
+  {
+    "id": 523,
+    "word": "t hemselves",
+    "sentence1": "The kids made sandwiches for t hemselves after school.",
+    "sentence2": "The players set goals for t hemselves before the game."
+  },
+  {
+    "id": 524,
+    "word": "thermos",
+    "sentence1": "Hot cocoa stayed warm in my red thermos.",
+    "sentence2": "Dad packed a thermos of soup for the hike."
+  },
+  {
+    "id": 525,
+    "word": "thrifty",
+    "sentence1": "A thrifty shopper uses coupons at the store.",
+    "sentence2": "Being thrifty helped us save for a new ball."
+  },
+  {
+    "id": 526,
+    "word": "thriller",
+    "sentence1": "We read a mild thriller about a missing bicycle.",
+    "sentence2": "The movie club picked a fun thriller with a puzzle."
+  },
+  {
+    "id": 527,
+    "word": "throat",
+    "sentence1": "Warm tea soothed my throat after the concert.",
+    "sentence2": "He cleared his throat before the class poem."
+  },
+  {
+    "id": 528,
+    "word": "tickling",
+    "sentence1": "The grass was tickling my ankles in the yard.",
+    "sentence2": "My baby sister started tickling my arm during the movie."
+  },
+  {
+    "id": 529,
+    "word": "toaster",
+    "sentence1": "The toaster popped up two golden slices of bread.",
+    "sentence2": "Please unplug the toaster after breakfast is done."
+  },
+  {
+    "id": 530,
+    "word": "tornado",
+    "sentence1": "Our class learned how a tornado forms over warm land.",
+    "sentence2": "The weather map showed a tornado watch for the plains."
+  },
+  {
+    "id": 531,
+    "word": "toughen",
+    "sentence1": "Extra practice will toughen our team before the meet.",
+    "sentence2": "Cold mornings toughen the seedlings in the garden."
+  },
+  {
+    "id": 532,
+    "word": "trampoline",
+    "sentence1": "We jumped on the trampoline until dinner time.",
+    "sentence2": "The gym class used a small trampoline for warm-ups."
+  },
+  {
+    "id": 533,
+    "word": "transmit",
+    "sentence1": "Radios can transmit messages across the whole town.",
+    "sentence2": "Bees transmit pollen from one flower to another."
+  },
+  {
+    "id": 534,
+    "word": "tremor",
+    "sentence1": "A small tremor shook the water in our glasses.",
+    "sentence2": "Excitement sent a tremor through the cheering crowd."
+  },
+  {
+    "id": 535,
+    "word": "triumph",
+    "sentence1": "Crossing the finish line felt like a real triumph.",
+    "sentence2": "Baking the cake without help was her triumph."
+  },
+  {
+    "id": 536,
+    "word": "trivial",
+    "sentence1": "Losing one crayon is a trivial problem at school.",
+    "sentence2": "We skipped the trivial details and started the game."
+  },
+  {
+    "id": 537,
+    "word": "trouble",
+    "sentence1": "I got in trouble for leaving my bike in the rain.",
+    "sentence2": "The recipe said the dough might give you trouble."
+  },
+  {
+    "id": 538,
+    "word": "tundra",
+    "sentence1": "Few trees grow on the cold tundra plains.",
+    "sentence2": "Our book showed animals that live on the tundra."
+  },
+  {
+    "id": 539,
+    "word": "twiddle",
+    "sentence1": "I began to twiddle my thumbs during the long wait.",
+    "sentence2": "He likes to twiddle a pencil when he thinks."
+  },
+  {
+    "id": 540,
+    "word": "twig",
+    "sentence1": "A tiny bird carried a twig to its nest.",
+    "sentence2": "I snapped a dry twig on the hiking path."
+  },
+  {
+    "id": 541,
+    "word": "twirl",
+    "sentence1": "The dancer began to twirl in her shiny skirt.",
+    "sentence2": "Autumn leaves twirl down when the cool wind blows."
+  },
+  {
+    "id": 542,
+    "word": "twister",
+    "sentence1": "The weather report mentioned a twister far from town.",
+    "sentence2": "We played a silly twister game with colored dots."
+  },
+  {
+    "id": 543,
+    "word": "ultraviolet",
+    "sentence1": "The sun's ultraviolet light can fade a poster.",
+    "sentence2": "The science lamp used ultraviolet light to check stamps."
+  },
+  {
+    "id": 544,
+    "word": "umbrella",
+    "sentence1": "I shared my umbrella on the walk home.",
+    "sentence2": "A red umbrella stood by the soccer bench."
+  },
+  {
+    "id": 545,
+    "word": "umpire",
+    "sentence1": "The umpire called the runner safe at first.",
+    "sentence2": "Our neighbor is an umpire for the Saturday games."
+  },
+  {
+    "id": 546,
+    "word": "umpteen",
+    "sentence1": "I have asked umpteen times for my library book.",
+    "sentence2": "We tried umpteen toppings on the homemade pizza."
+  },
+  {
+    "id": 547,
+    "word": "unchain",
+    "sentence1": "Please unchain the gate so the goats can graze.",
+    "sentence2": "The story hero had to unchain the garden swing."
+  },
+  {
+    "id": 548,
+    "word": "underneath",
+    "sentence1": "The kitten hid underneath the porch steps at dusk.",
+    "sentence2": "I found my shoe underneath the pile of coats."
+  },
+  {
+    "id": 549,
+    "word": "uneasy",
+    "sentence1": "I felt uneasy before my first piano recital.",
+    "sentence2": "The dark clouds made our picnic group uneasy."
+  },
+  {
+    "id": 550,
+    "word": "unfasten",
+    "sentence1": "Please unfasten your seat belt after we park.",
+    "sentence2": "I had to unfasten the stubborn lunchbox clip."
+  },
+  {
+    "id": 551,
+    "word": "unison",
+    "sentence1": "The class read the poem in unison today.",
+    "sentence2": "Crickets seemed to chirp in unison after sunset."
+  },
+  {
+    "id": 552,
+    "word": "unlawful",
+    "sentence1": "Littering on the trail is unlawful in our park.",
+    "sentence2": "The sign said it is unlawful to pick those flowers."
+  },
+  {
+    "id": 553,
+    "word": "unpack",
+    "sentence1": "We will unpack the groceries after the store trip.",
+    "sentence2": "Please unpack your backpack and hang up your coat."
+  },
+  {
+    "id": 554,
+    "word": "unreal",
+    "sentence1": "The double rainbow looked almost unreal after the storm.",
+    "sentence2": "That catch seemed unreal to everyone in the stands."
+  },
+  {
+    "id": 555,
+    "word": "unscramble",
+    "sentence1": "We had to unscramble the mixed-up story sentences.",
+    "sentence2": "I like to unscramble word puzzles in the Sunday paper."
+  },
+  {
+    "id": 556,
+    "word": "unusual",
+    "sentence1": "An unusual bird landed on our backyard feeder.",
+    "sentence2": "She wore an unusual hat to the school parade."
+  },
+  {
+    "id": 557,
+    "word": "upturn",
+    "sentence1": "An upturn in the path led us to the lookout.",
+    "sentence2": "The team saw an upturn after extra passing practice."
+  },
+  {
+    "id": 558,
+    "word": "urgent",
+    "sentence1": "The nurse had an urgent call from the office.",
+    "sentence2": "Watering the dry garden felt urgent this afternoon."
+  },
+  {
+    "id": 559,
+    "word": "useless",
+    "sentence1": "A pen with no ink is useless for homework.",
+    "sentence2": "The broken zipper made the coat almost useless."
+  },
+  {
+    "id": 560,
+    "word": "usher",
+    "sentence1": "An usher led us to our concert seats.",
+    "sentence2": "I will usher guests into the class play."
+  },
+  {
+    "id": 561,
+    "word": "utterly",
+    "sentence1": "We were utterly soaked after the sudden rain.",
+    "sentence2": "The puzzle was utterly finished before I went to bed."
+  },
+  {
+    "id": 562,
+    "word": "vacation",
+    "sentence1": "Our summer vacation will include a trip to the lake.",
+    "sentence2": "The teacher took a short vacation during the break."
+  },
+  {
+    "id": 563,
+    "word": "valentine",
+    "sentence1": "I made a valentine with glitter and red paper.",
+    "sentence2": "My friend left a kind valentine in my cubby."
+  },
+  {
+    "id": 564,
+    "word": "valley",
+    "sentence1": "Fog filled the valley early in the morning.",
+    "sentence2": "Our picnic spot sat in a green valley."
+  },
+  {
+    "id": 565,
+    "word": "vanilla",
+    "sentence1": "I chose vanilla ice cream after the ball game.",
+    "sentence2": "The cupcakes needed one extra spoon of vanilla."
+  },
+  {
+    "id": 566,
+    "word": "vapor",
+    "sentence1": "Steam vapor rose from the hot soup bowl.",
+    "sentence2": "Morning vapor hung over the quiet pond at dawn."
+  },
+  {
+    "id": 567,
+    "word": "various",
+    "sentence1": "We tried various toppings on the homemade pizza.",
+    "sentence2": "The garden grows various herbs beside the path."
+  },
+  {
+    "id": 568,
+    "word": "veggie",
+    "sentence1": "I packed a veggie wrap in my lunchbox.",
+    "sentence2": "The garden veggie soup warmed us after raking."
+  },
+  {
+    "id": 569,
+    "word": "vehicle",
+    "sentence1": "A school vehicle picked us up for the field trip.",
+    "sentence2": "Every vehicle must stop at the painted crosswalk."
+  },
+  {
+    "id": 570,
+    "word": "velvet",
+    "sentence1": "She wore a velvet bow in her hair.",
+    "sentence2": "The pillow felt like soft velvet on the couch."
+  },
+  {
+    "id": 571,
+    "word": "verb",
+    "sentence1": "Circle the verb in each classroom story sentence.",
+    "sentence2": "Jump is a verb that shows an action."
+  },
+  {
+    "id": 572,
+    "word": "vibrant",
+    "sentence1": "The mural used vibrant colors from the art closet.",
+    "sentence2": "A vibrant sunset painted the sky after dinner."
+  },
+  {
+    "id": 573,
+    "word": "view",
+    "sentence1": "We had a clear view of the parade from our porch.",
+    "sentence2": "The hilltop view showed the whole soccer field."
+  },
+  {
+    "id": 574,
+    "word": "villain",
+    "sentence1": "The play villain learned to be kind at the end.",
+    "sentence2": "In the cartoon, the villain just stole pies."
+  },
+  {
+    "id": 575,
+    "word": "violence",
+    "sentence1": "Our class talked about why violence never solves a problem.",
+    "sentence2": "The movie we picked had no violence at all."
+  },
+  {
+    "id": 576,
+    "word": "visor",
+    "sentence1": "She pulled down the visor when the sun got bright.",
+    "sentence2": "The baseball player wore a visor in the heat."
+  },
+  {
+    "id": 577,
+    "word": "vocal",
+    "sentence1": "She is very vocal about recycling at school.",
+    "sentence2": "The choir teacher praised his clear vocal sound."
+  },
+  {
+    "id": 578,
+    "word": "voltage",
+    "sentence1": "Dad said the battery voltage was too low.",
+    "sentence2": "Our science kit measured voltage with a small meter."
+  },
+  {
+    "id": 579,
+    "word": "vulture",
+    "sentence1": "A vulture circled high above the dry field.",
+    "sentence2": "The zoo vulture sat quietly on a wooden perch."
+  },
+  {
+    "id": 580,
+    "word": "waist",
+    "sentence1": "The rope around my waist kept me safe on the wall.",
+    "sentence2": "She tied a yellow sash around her waist for the dance."
+  },
+  {
+    "id": 581,
+    "word": "wallet",
+    "sentence1": "Dad found his wallet under the car seat.",
+    "sentence2": "I keep a tiny wallet in my backpack pocket."
+  },
+  {
+    "id": 582,
+    "word": "warthog",
+    "sentence1": "The zoo warthog rooted in the dirt for snacks.",
+    "sentence2": "Our book showed a warthog family near a water hole."
+  },
+  {
+    "id": 583,
+    "word": "wasp",
+    "sentence1": "A wasp hovered near the picnic lemonade jug.",
+    "sentence2": "We watched a wasp gather wood for its nest."
+  },
+  {
+    "id": 584,
+    "word": "watermelon",
+    "sentence1": "We shared cold watermelon after the baseball game.",
+    "sentence2": "A huge watermelon grew in our backyard garden."
+  },
+  {
+    "id": 585,
+    "word": "westerly",
+    "sentence1": "A westerly breeze pushed our kite toward the trees.",
+    "sentence2": "Ships sailed on a westerly course in the story."
+  },
+  {
+    "id": 586,
+    "word": "windshield",
+    "sentence1": "Raindrops covered the windshield on the way to school.",
+    "sentence2": "Dad cleaned the windshield before our road trip."
+  },
+  {
+    "id": 587,
+    "word": "wisdom",
+    "sentence1": "Grandma's wisdom helped us plant the tomato garden.",
+    "sentence2": "The coach shared wisdom about being a kind teammate."
+  },
+  {
+    "id": 588,
+    "word": "withdrawal",
+    "sentence1": "Mom made a withdrawal at the bank for groceries.",
+    "sentence2": "His quiet withdrawal from the noisy game was fine."
+  },
+  {
+    "id": 589,
+    "word": "wreckage",
+    "sentence1": "After the storm, we saw wreckage from a fallen shed.",
+    "sentence2": "The beach wreckage was mostly driftwood and seaweed."
+  },
+  {
+    "id": 590,
+    "word": "wrongful",
+    "sentence1": "Taking a seat without asking felt wrongful to her.",
+    "sentence2": "The story ended when the wrongful blame was cleared."
+  },
+  {
+    "id": 591,
+    "word": "wry",
+    "sentence1": "Dad gave a wry smile when the cake leaned sideways.",
+    "sentence2": "She made a wry joke about the upside-down map."
+  },
+  {
+    "id": 592,
+    "word": "xerography",
+    "sentence1": "The office used xerography to copy our class newsletter.",
+    "sentence2": "We learned xerography is a way to copy papers."
+  },
+  {
+    "id": 593,
+    "word": "xylem",
+    "sentence1": "Water travels through xylem inside a plant stem.",
+    "sentence2": "Our science diagram labeled the xylem in a tree."
+  },
+  {
+    "id": 594,
+    "word": "yearly",
+    "sentence1": "The fair is a yearly treat for our town.",
+    "sentence2": "We have a yearly checkup at the dentist."
+  },
+  {
+    "id": 595,
+    "word": "yonder",
+    "sentence1": "Look at the barn yonder across the green field.",
+    "sentence2": "The trail ends at yonder hill by the lake."
+  },
+  {
+    "id": 596,
+    "word": "youngster",
+    "sentence1": "The youngster held the puppy with both hands.",
+    "sentence2": "Every youngster on the team got a turn to bat."
+  },
+  {
+    "id": 597,
+    "word": "yourself",
+    "sentence1": "Please pour yourself a cup of water after recess.",
+    "sentence2": "Give yourself time to finish the puzzle tonight."
+  },
+  {
+    "id": 598,
+    "word": "youth",
+    "sentence1": "The youth soccer league meets at the park.",
+    "sentence2": "She spent her youth on a farm with horses."
+  },
+  {
+    "id": 599,
+    "word": "zippy",
+    "sentence1": "The zippy little car beeped in the parade.",
+    "sentence2": "I like zippy music when I tidy my room."
+  },
+  {
+    "id": 600,
+    "word": "zookeeper",
+    "sentence1": "The zookeeper fed the giraffes fresh leafy branches.",
+    "sentence2": "A kind zookeeper answered our class questions about otters."
+  }
+]
