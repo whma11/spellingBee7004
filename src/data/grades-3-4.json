@@ -1,0 +1,4810 @@
+[
+  {
+    "id": 1,
+    "word": "ability",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell ability after you hear it, without looking at any letters.",
+    "sentence2": "A second example used ability so the meaning would stay clear."
+  },
+  {
+    "id": 2,
+    "word": "aboveground",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said aboveground slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps aboveground in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 3,
+    "word": "absolute",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, absolute is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word absolute."
+  },
+  {
+    "id": 4,
+    "word": "absorb",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used absorb in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear absorb one more time."
+  },
+  {
+    "id": 5,
+    "word": "adapt",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write adapt neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of adapt."
+  },
+  {
+    "id": 6,
+    "word": "address",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes address, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes address in ordinary classroom talk."
+  },
+  {
+    "id": 7,
+    "word": "adobe",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named adobe, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats adobe without showing it on the screen."
+  },
+  {
+    "id": 8,
+    "word": "adventure",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word adventure and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for adventure before you pick up your pencil."
+  },
+  {
+    "id": 9,
+    "word": "affectionate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell affectionate after you hear it, without looking at any letters.",
+    "sentence2": "A second example used affectionate so the meaning would stay clear."
+  },
+  {
+    "id": 10,
+    "word": "against",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said against slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps against in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 11,
+    "word": "agitate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, agitate is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word agitate."
+  },
+  {
+    "id": 12,
+    "word": "airplane",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used airplane in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear airplane one more time."
+  },
+  {
+    "id": 13,
+    "word": "album",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write album neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of album."
+  },
+  {
+    "id": 14,
+    "word": "alligator",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes alligator, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes alligator in ordinary classroom talk."
+  },
+  {
+    "id": 15,
+    "word": "allspice",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named allspice, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats allspice without showing it on the screen."
+  },
+  {
+    "id": 16,
+    "word": "allusion",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word allusion and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for allusion before you pick up your pencil."
+  },
+  {
+    "id": 17,
+    "word": "almost",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell almost after you hear it, without looking at any letters.",
+    "sentence2": "A second example used almost so the meaning would stay clear."
+  },
+  {
+    "id": 18,
+    "word": "aloha",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said aloha slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps aloha in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 19,
+    "word": "alternate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, alternate is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word alternate."
+  },
+  {
+    "id": 20,
+    "word": "amber",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used amber in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear amber one more time."
+  },
+  {
+    "id": 21,
+    "word": "ancestor",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write ancestor neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of ancestor."
+  },
+  {
+    "id": 22,
+    "word": "annoy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes annoy, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes annoy in ordinary classroom talk."
+  },
+  {
+    "id": 23,
+    "word": "appear",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named appear, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats appear without showing it on the screen."
+  },
+  {
+    "id": 24,
+    "word": "appetite",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word appetite and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for appetite before you pick up your pencil."
+  },
+  {
+    "id": 25,
+    "word": "appoint",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell appoint after you hear it, without looking at any letters.",
+    "sentence2": "A second example used appoint so the meaning would stay clear."
+  },
+  {
+    "id": 26,
+    "word": "arrive",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said arrive slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps arrive in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 27,
+    "word": "article",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, article is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word article."
+  },
+  {
+    "id": 28,
+    "word": "aspirin",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used aspirin in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear aspirin one more time."
+  },
+  {
+    "id": 29,
+    "word": "assign",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write assign neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of assign."
+  },
+  {
+    "id": 30,
+    "word": "astonish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes astonish, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes astonish in ordinary classroom talk."
+  },
+  {
+    "id": 31,
+    "word": "atmosphere",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named atmosphere, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats atmosphere without showing it on the screen."
+  },
+  {
+    "id": 32,
+    "word": "auction",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word auction and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for auction before you pick up your pencil."
+  },
+  {
+    "id": 33,
+    "word": "autograph",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell autograph after you hear it, without looking at any letters.",
+    "sentence2": "A second example used autograph so the meaning would stay clear."
+  },
+  {
+    "id": 34,
+    "word": "average",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said average slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps average in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 35,
+    "word": "babble",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, babble is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word babble."
+  },
+  {
+    "id": 36,
+    "word": "backpack",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used backpack in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear backpack one more time."
+  },
+  {
+    "id": 37,
+    "word": "bait",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write bait neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of bait."
+  },
+  {
+    "id": 38,
+    "word": "balance",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes balance, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes balance in ordinary classroom talk."
+  },
+  {
+    "id": 39,
+    "word": "ballad",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named ballad, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats ballad without showing it on the screen."
+  },
+  {
+    "id": 40,
+    "word": "bark",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word bark and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for bark before you pick up your pencil."
+  },
+  {
+    "id": 41,
+    "word": "barrel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell barrel after you hear it, without looking at any letters.",
+    "sentence2": "A second example used barrel so the meaning would stay clear."
+  },
+  {
+    "id": 42,
+    "word": "bashful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said bashful slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps bashful in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 43,
+    "word": "beefy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, beefy is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word beefy."
+  },
+  {
+    "id": 44,
+    "word": "beeper",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used beeper in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear beeper one more time."
+  },
+  {
+    "id": 45,
+    "word": "beige",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write beige neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of beige."
+  },
+  {
+    "id": 46,
+    "word": "betray",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes betray, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes betray in ordinary classroom talk."
+  },
+  {
+    "id": 47,
+    "word": "billion",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named billion, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats billion without showing it on the screen."
+  },
+  {
+    "id": 48,
+    "word": "biology",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word biology and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for biology before you pick up your pencil."
+  },
+  {
+    "id": 49,
+    "word": "bison",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell bison after you hear it, without looking at any letters.",
+    "sentence2": "A second example used bison so the meaning would stay clear."
+  },
+  {
+    "id": 50,
+    "word": "blame",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said blame slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps blame in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 51,
+    "word": "blazing",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, blazing is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word blazing."
+  },
+  {
+    "id": 52,
+    "word": "blemish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used blemish in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear blemish one more time."
+  },
+  {
+    "id": 53,
+    "word": "blender",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write blender neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of blender."
+  },
+  {
+    "id": 54,
+    "word": "blockage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes blockage, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes blockage in ordinary classroom talk."
+  },
+  {
+    "id": 55,
+    "word": "blush",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named blush, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats blush without showing it on the screen."
+  },
+  {
+    "id": 56,
+    "word": "boring",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word boring and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for boring before you pick up your pencil."
+  },
+  {
+    "id": 57,
+    "word": "bossy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell bossy after you hear it, without looking at any letters.",
+    "sentence2": "A second example used bossy so the meaning would stay clear."
+  },
+  {
+    "id": 58,
+    "word": "bracelet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said bracelet slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps bracelet in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 59,
+    "word": "bravery",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, bravery is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word bravery."
+  },
+  {
+    "id": 60,
+    "word": "bristle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used bristle in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear bristle one more time."
+  },
+  {
+    "id": 61,
+    "word": "broaden",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write broaden neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of broaden."
+  },
+  {
+    "id": 62,
+    "word": "bronco",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes bronco, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes bronco in ordinary classroom talk."
+  },
+  {
+    "id": 63,
+    "word": "brother",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named brother, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats brother without showing it on the screen."
+  },
+  {
+    "id": 64,
+    "word": "budget",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word budget and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for budget before you pick up your pencil."
+  },
+  {
+    "id": 65,
+    "word": "built-in",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell built-in after you hear it, without looking at any letters.",
+    "sentence2": "A second example used built-in so the meaning would stay clear."
+  },
+  {
+    "id": 66,
+    "word": "business",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said business slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps business in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 67,
+    "word": "cabinet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, cabinet is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word cabinet."
+  },
+  {
+    "id": 68,
+    "word": "calm",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used calm in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear calm one more time."
+  },
+  {
+    "id": 69,
+    "word": "capsule",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write capsule neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of capsule."
+  },
+  {
+    "id": 70,
+    "word": "capture",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes capture, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes capture in ordinary classroom talk."
+  },
+  {
+    "id": 71,
+    "word": "careful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named careful, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats careful without showing it on the screen."
+  },
+  {
+    "id": 72,
+    "word": "carrier",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word carrier and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for carrier before you pick up your pencil."
+  },
+  {
+    "id": 73,
+    "word": "category",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell category after you hear it, without looking at any letters.",
+    "sentence2": "A second example used category so the meaning would stay clear."
+  },
+  {
+    "id": 74,
+    "word": "cater",
+    "altSpellings": [],
+    "note": "provide food",
+    "sentence1": "Spell cater in this sense: provide food.",
+    "sentence2": "Do not confuse it with a look-alike; this cater is the provide food meaning."
+  },
+  {
+    "id": 75,
+    "word": "catwalk",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, catwalk is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word catwalk."
+  },
+  {
+    "id": 76,
+    "word": "ceiling",
+    "altSpellings": [],
+    "note": "upper part of a room",
+    "sentence1": "Spell ceiling in this sense: upper part of a room.",
+    "sentence2": "Do not confuse it with a look-alike; this ceiling is the upper part of a room meaning."
+  },
+  {
+    "id": 77,
+    "word": "celebrate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write celebrate neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of celebrate."
+  },
+  {
+    "id": 78,
+    "word": "central",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes central, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes central in ordinary classroom talk."
+  },
+  {
+    "id": 79,
+    "word": "century",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named century, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats century without showing it on the screen."
+  },
+  {
+    "id": 80,
+    "word": "chapel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word chapel and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for chapel before you pick up your pencil."
+  },
+  {
+    "id": 81,
+    "word": "choice",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell choice after you hear it, without looking at any letters.",
+    "sentence2": "A second example used choice so the meaning would stay clear."
+  },
+  {
+    "id": 82,
+    "word": "chrome",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said chrome slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps chrome in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 83,
+    "word": "circuit",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, circuit is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word circuit."
+  },
+  {
+    "id": 84,
+    "word": "citrus",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used citrus in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear citrus one more time."
+  },
+  {
+    "id": 85,
+    "word": "climate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write climate neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of climate."
+  },
+  {
+    "id": 86,
+    "word": "clumsy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes clumsy, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes clumsy in ordinary classroom talk."
+  },
+  {
+    "id": 87,
+    "word": "comical",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named comical, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats comical without showing it on the screen."
+  },
+  {
+    "id": 88,
+    "word": "commotion",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word commotion and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for commotion before you pick up your pencil."
+  },
+  {
+    "id": 89,
+    "word": "computer",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell computer after you hear it, without looking at any letters.",
+    "sentence2": "A second example used computer so the meaning would stay clear."
+  },
+  {
+    "id": 90,
+    "word": "conceal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said conceal slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps conceal in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 91,
+    "word": "concept",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, concept is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word concept."
+  },
+  {
+    "id": 92,
+    "word": "continue",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used continue in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear continue one more time."
+  },
+  {
+    "id": 93,
+    "word": "contrary",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write contrary neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of contrary."
+  },
+  {
+    "id": 94,
+    "word": "copy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes copy, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes copy in ordinary classroom talk."
+  },
+  {
+    "id": 95,
+    "word": "country",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named country, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats country without showing it on the screen."
+  },
+  {
+    "id": 96,
+    "word": "cranberry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word cranberry and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for cranberry before you pick up your pencil."
+  },
+  {
+    "id": 97,
+    "word": "create",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell create after you hear it, without looking at any letters.",
+    "sentence2": "A second example used create so the meaning would stay clear."
+  },
+  {
+    "id": 98,
+    "word": "creepy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said creepy slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps creepy in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 99,
+    "word": "crowd",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, crowd is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word crowd."
+  },
+  {
+    "id": 100,
+    "word": "curious",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used curious in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear curious one more time."
+  },
+  {
+    "id": 101,
+    "word": "curve",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write curve neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of curve."
+  },
+  {
+    "id": 102,
+    "word": "custard",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes custard, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes custard in ordinary classroom talk."
+  },
+  {
+    "id": 103,
+    "word": "dandruff",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named dandruff, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats dandruff without showing it on the screen."
+  },
+  {
+    "id": 104,
+    "word": "deaden",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word deaden and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for deaden before you pick up your pencil."
+  },
+  {
+    "id": 105,
+    "word": "decency",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell decency after you hear it, without looking at any letters.",
+    "sentence2": "A second example used decency so the meaning would stay clear."
+  },
+  {
+    "id": 106,
+    "word": "decimal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said decimal slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps decimal in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 107,
+    "word": "decorate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, decorate is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word decorate."
+  },
+  {
+    "id": 108,
+    "word": "defeat",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used defeat in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear defeat one more time."
+  },
+  {
+    "id": 109,
+    "word": "denim",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write denim neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of denim."
+  },
+  {
+    "id": 110,
+    "word": "density",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes density, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes density in ordinary classroom talk."
+  },
+  {
+    "id": 111,
+    "word": "dependable",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named dependable, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats dependable without showing it on the screen."
+  },
+  {
+    "id": 112,
+    "word": "describe",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word describe and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for describe before you pick up your pencil."
+  },
+  {
+    "id": 113,
+    "word": "design",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell design after you hear it, without looking at any letters.",
+    "sentence2": "A second example used design so the meaning would stay clear."
+  },
+  {
+    "id": 114,
+    "word": "detour",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said detour slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps detour in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 115,
+    "word": "develop",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, develop is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word develop."
+  },
+  {
+    "id": 116,
+    "word": "diamond",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used diamond in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear diamond one more time."
+  },
+  {
+    "id": 117,
+    "word": "dignity",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write dignity neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of dignity."
+  },
+  {
+    "id": 118,
+    "word": "dinner",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes dinner, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes dinner in ordinary classroom talk."
+  },
+  {
+    "id": 119,
+    "word": "dinosaur",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named dinosaur, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats dinosaur without showing it on the screen."
+  },
+  {
+    "id": 120,
+    "word": "direction",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word direction and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for direction before you pick up your pencil."
+  },
+  {
+    "id": 121,
+    "word": "dishonest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell dishonest after you hear it, without looking at any letters.",
+    "sentence2": "A second example used dishonest so the meaning would stay clear."
+  },
+  {
+    "id": 122,
+    "word": "dissolve",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said dissolve slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps dissolve in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 123,
+    "word": "donate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, donate is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word donate."
+  },
+  {
+    "id": 124,
+    "word": "doodle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used doodle in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear doodle one more time."
+  },
+  {
+    "id": 125,
+    "word": "dose",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write dose neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of dose."
+  },
+  {
+    "id": 126,
+    "word": "dragonfly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes dragonfly, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes dragonfly in ordinary classroom talk."
+  },
+  {
+    "id": 127,
+    "word": "dream",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named dream, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats dream without showing it on the screen."
+  },
+  {
+    "id": 128,
+    "word": "drench",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word drench and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for drench before you pick up your pencil."
+  },
+  {
+    "id": 129,
+    "word": "dribble",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell dribble after you hear it, without looking at any letters.",
+    "sentence2": "A second example used dribble so the meaning would stay clear."
+  },
+  {
+    "id": 130,
+    "word": "drover",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said drover slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps drover in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 131,
+    "word": "duet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, duet is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word duet."
+  },
+  {
+    "id": 132,
+    "word": "dusk",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used dusk in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear dusk one more time."
+  },
+  {
+    "id": 133,
+    "word": "earmuff",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write earmuff neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of earmuff."
+  },
+  {
+    "id": 134,
+    "word": "earthly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes earthly, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes earthly in ordinary classroom talk."
+  },
+  {
+    "id": 135,
+    "word": "easiest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named easiest, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats easiest without showing it on the screen."
+  },
+  {
+    "id": 136,
+    "word": "eclipse",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word eclipse and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for eclipse before you pick up your pencil."
+  },
+  {
+    "id": 137,
+    "word": "economy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell economy after you hear it, without looking at any letters.",
+    "sentence2": "A second example used economy so the meaning would stay clear."
+  },
+  {
+    "id": 138,
+    "word": "edible",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said edible slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps edible in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 139,
+    "word": "eggplant",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, eggplant is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word eggplant."
+  },
+  {
+    "id": 140,
+    "word": "elective",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used elective in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear elective one more time."
+  },
+  {
+    "id": 141,
+    "word": "eliminate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write eliminate neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of eliminate."
+  },
+  {
+    "id": 142,
+    "word": "elsewhere",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes elsewhere, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes elsewhere in ordinary classroom talk."
+  },
+  {
+    "id": 143,
+    "word": "elude",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named elude, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats elude without showing it on the screen."
+  },
+  {
+    "id": 144,
+    "word": "embrace",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word embrace and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for embrace before you pick up your pencil."
+  },
+  {
+    "id": 145,
+    "word": "enable",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell enable after you hear it, without looking at any letters.",
+    "sentence2": "A second example used enable so the meaning would stay clear."
+  },
+  {
+    "id": 146,
+    "word": "enchilada",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said enchilada slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps enchilada in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 147,
+    "word": "endless",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, endless is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word endless."
+  },
+  {
+    "id": 148,
+    "word": "English",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used English in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear English one more time."
+  },
+  {
+    "id": 149,
+    "word": "enough",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write enough neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of enough."
+  },
+  {
+    "id": 150,
+    "word": "entirely",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes entirely, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes entirely in ordinary classroom talk."
+  },
+  {
+    "id": 151,
+    "word": "error",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named error, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats error without showing it on the screen."
+  },
+  {
+    "id": 152,
+    "word": "escape",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word escape and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for escape before you pick up your pencil."
+  },
+  {
+    "id": 153,
+    "word": "European",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell European after you hear it, without looking at any letters.",
+    "sentence2": "A second example used European so the meaning would stay clear."
+  },
+  {
+    "id": 154,
+    "word": "eventful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said eventful slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps eventful in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 155,
+    "word": "ever",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, ever is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word ever."
+  },
+  {
+    "id": 156,
+    "word": "exercise",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used exercise in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear exercise one more time."
+  },
+  {
+    "id": 157,
+    "word": "expensive",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write expensive neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of expensive."
+  },
+  {
+    "id": 158,
+    "word": "eyedropper",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes eyedropper, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes eyedropper in ordinary classroom talk."
+  },
+  {
+    "id": 159,
+    "word": "eyelash",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named eyelash, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats eyelash without showing it on the screen."
+  },
+  {
+    "id": 160,
+    "word": "faithful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word faithful and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for faithful before you pick up your pencil."
+  },
+  {
+    "id": 161,
+    "word": "falsehood",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell falsehood after you hear it, without looking at any letters.",
+    "sentence2": "A second example used falsehood so the meaning would stay clear."
+  },
+  {
+    "id": 162,
+    "word": "famous",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said famous slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps famous in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 163,
+    "word": "fanciness",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, fanciness is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word fanciness."
+  },
+  {
+    "id": 164,
+    "word": "fatal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used fatal in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear fatal one more time."
+  },
+  {
+    "id": 165,
+    "word": "fault",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write fault neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of fault."
+  },
+  {
+    "id": 166,
+    "word": "fearless",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes fearless, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes fearless in ordinary classroom talk."
+  },
+  {
+    "id": 167,
+    "word": "feast",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named feast, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats feast without showing it on the screen."
+  },
+  {
+    "id": 168,
+    "word": "feeble",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word feeble and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for feeble before you pick up your pencil."
+  },
+  {
+    "id": 169,
+    "word": "fidget",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell fidget after you hear it, without looking at any letters.",
+    "sentence2": "A second example used fidget so the meaning would stay clear."
+  },
+  {
+    "id": 170,
+    "word": "fifth",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said fifth slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps fifth in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 171,
+    "word": "fizzling",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, fizzling is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word fizzling."
+  },
+  {
+    "id": 172,
+    "word": "flatten",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used flatten in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear flatten one more time."
+  },
+  {
+    "id": 173,
+    "word": "flaunt",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write flaunt neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of flaunt."
+  },
+  {
+    "id": 174,
+    "word": "flutist",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes flutist, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes flutist in ordinary classroom talk."
+  },
+  {
+    "id": 175,
+    "word": "foliage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named foliage, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats foliage without showing it on the screen."
+  },
+  {
+    "id": 176,
+    "word": "foolproof",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word foolproof and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for foolproof before you pick up your pencil."
+  },
+  {
+    "id": 177,
+    "word": "footprint",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell footprint after you hear it, without looking at any letters.",
+    "sentence2": "A second example used footprint so the meaning would stay clear."
+  },
+  {
+    "id": 178,
+    "word": "forestry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said forestry slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps forestry in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 179,
+    "word": "fortune",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, fortune is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word fortune."
+  },
+  {
+    "id": 180,
+    "word": "fountain",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used fountain in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear fountain one more time."
+  },
+  {
+    "id": 181,
+    "word": "fowl",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write fowl neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of fowl."
+  },
+  {
+    "id": 182,
+    "word": "fragrant",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes fragrant, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes fragrant in ordinary classroom talk."
+  },
+  {
+    "id": 183,
+    "word": "framed",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named framed, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats framed without showing it on the screen."
+  },
+  {
+    "id": 184,
+    "word": "frequent",
+    "altSpellings": [],
+    "note": "adj.",
+    "sentence1": "Spell frequent in this sense: adj..",
+    "sentence2": "Do not confuse it with a look-alike; this frequent is the adj. meaning."
+  },
+  {
+    "id": 185,
+    "word": "frightful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell frightful after you hear it, without looking at any letters.",
+    "sentence2": "A second example used frightful so the meaning would stay clear."
+  },
+  {
+    "id": 186,
+    "word": "fruitcake",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said fruitcake slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps fruitcake in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 187,
+    "word": "frustrate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, frustrate is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word frustrate."
+  },
+  {
+    "id": 188,
+    "word": "funnel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used funnel in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear funnel one more time."
+  },
+  {
+    "id": 189,
+    "word": "furniture",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write furniture neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of furniture."
+  },
+  {
+    "id": 190,
+    "word": "fussy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes fussy, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes fussy in ordinary classroom talk."
+  },
+  {
+    "id": 191,
+    "word": "future",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named future, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats future without showing it on the screen."
+  },
+  {
+    "id": 192,
+    "word": "galley",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word galley and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for galley before you pick up your pencil."
+  },
+  {
+    "id": 193,
+    "word": "garage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell garage after you hear it, without looking at any letters.",
+    "sentence2": "A second example used garage so the meaning would stay clear."
+  },
+  {
+    "id": 194,
+    "word": "garlic",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said garlic slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps garlic in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 195,
+    "word": "garment",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, garment is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word garment."
+  },
+  {
+    "id": 196,
+    "word": "gatekeeper",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used gatekeeper in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear gatekeeper one more time."
+  },
+  {
+    "id": 197,
+    "word": "generous",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write generous neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of generous."
+  },
+  {
+    "id": 198,
+    "word": "gentle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes gentle, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes gentle in ordinary classroom talk."
+  },
+  {
+    "id": 199,
+    "word": "gentry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named gentry, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats gentry without showing it on the screen."
+  },
+  {
+    "id": 200,
+    "word": "germfree",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word germfree and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for germfree before you pick up your pencil."
+  },
+  {
+    "id": 201,
+    "word": "gibberish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell gibberish after you hear it, without looking at any letters.",
+    "sentence2": "A second example used gibberish so the meaning would stay clear."
+  },
+  {
+    "id": 202,
+    "word": "gigantic",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said gigantic slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps gigantic in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 203,
+    "word": "ginger",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, ginger is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word ginger."
+  },
+  {
+    "id": 204,
+    "word": "glassblower",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used glassblower in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear glassblower one more time."
+  },
+  {
+    "id": 205,
+    "word": "glimmer",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write glimmer neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of glimmer."
+  },
+  {
+    "id": 206,
+    "word": "glossy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes glossy, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes glossy in ordinary classroom talk."
+  },
+  {
+    "id": 207,
+    "word": "goalpost",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named goalpost, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats goalpost without showing it on the screen."
+  },
+  {
+    "id": 208,
+    "word": "goatherd",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word goatherd and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for goatherd before you pick up your pencil."
+  },
+  {
+    "id": 209,
+    "word": "goose",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell goose after you hear it, without looking at any letters.",
+    "sentence2": "A second example used goose so the meaning would stay clear."
+  },
+  {
+    "id": 210,
+    "word": "grader",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said grader slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps grader in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 211,
+    "word": "grapple",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, grapple is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word grapple."
+  },
+  {
+    "id": 212,
+    "word": "gratefully",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used gratefully in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear gratefully one more time."
+  },
+  {
+    "id": 213,
+    "word": "gravel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write gravel neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of gravel."
+  },
+  {
+    "id": 214,
+    "word": "gravity",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes gravity, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes gravity in ordinary classroom talk."
+  },
+  {
+    "id": 215,
+    "word": "griddle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named griddle, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats griddle without showing it on the screen."
+  },
+  {
+    "id": 216,
+    "word": "grieve",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word grieve and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for grieve before you pick up your pencil."
+  },
+  {
+    "id": 217,
+    "word": "groovy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell groovy after you hear it, without looking at any letters.",
+    "sentence2": "A second example used groovy so the meaning would stay clear."
+  },
+  {
+    "id": 218,
+    "word": "guardrail",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said guardrail slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps guardrail in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 219,
+    "word": "guilt",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, guilt is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word guilt."
+  },
+  {
+    "id": 220,
+    "word": "gummy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used gummy in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear gummy one more time."
+  },
+  {
+    "id": 221,
+    "word": "hallway",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write hallway neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of hallway."
+  },
+  {
+    "id": 222,
+    "word": "hamper",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes hamper, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes hamper in ordinary classroom talk."
+  },
+  {
+    "id": 223,
+    "word": "hamster",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named hamster, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats hamster without showing it on the screen."
+  },
+  {
+    "id": 224,
+    "word": "handcuff",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word handcuff and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for handcuff before you pick up your pencil."
+  },
+  {
+    "id": 225,
+    "word": "hare",
+    "altSpellings": [],
+    "note": "rabbit",
+    "sentence1": "Spell hare in this sense: rabbit.",
+    "sentence2": "Do not confuse it with a look-alike; this hare is the rabbit meaning."
+  },
+  {
+    "id": 226,
+    "word": "harmony",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said harmony slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps harmony in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 227,
+    "word": "harp",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, harp is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word harp."
+  },
+  {
+    "id": 228,
+    "word": "hasty",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used hasty in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear hasty one more time."
+  },
+  {
+    "id": 229,
+    "word": "hawk",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write hawk neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of hawk."
+  },
+  {
+    "id": 230,
+    "word": "headstrong",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes headstrong, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes headstrong in ordinary classroom talk."
+  },
+  {
+    "id": 231,
+    "word": "heavenly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named heavenly, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats heavenly without showing it on the screen."
+  },
+  {
+    "id": 232,
+    "word": "height",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word height and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for height before you pick up your pencil."
+  },
+  {
+    "id": 233,
+    "word": "heritage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell heritage after you hear it, without looking at any letters.",
+    "sentence2": "A second example used heritage so the meaning would stay clear."
+  },
+  {
+    "id": 234,
+    "word": "hickory",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said hickory slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps hickory in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 235,
+    "word": "highway",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, highway is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word highway."
+  },
+  {
+    "id": 236,
+    "word": "history",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used history in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear history one more time."
+  },
+  {
+    "id": 237,
+    "word": "hive",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write hive neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of hive."
+  },
+  {
+    "id": 238,
+    "word": "hobby",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes hobby, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes hobby in ordinary classroom talk."
+  },
+  {
+    "id": 239,
+    "word": "homicide",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named homicide, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats homicide without showing it on the screen."
+  },
+  {
+    "id": 240,
+    "word": "honesty",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word honesty and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for honesty before you pick up your pencil."
+  },
+  {
+    "id": 241,
+    "word": "hotel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell hotel after you hear it, without looking at any letters.",
+    "sentence2": "A second example used hotel so the meaning would stay clear."
+  },
+  {
+    "id": 242,
+    "word": "hound",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said hound slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps hound in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 243,
+    "word": "housemaid",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, housemaid is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word housemaid."
+  },
+  {
+    "id": 244,
+    "word": "hunch",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used hunch in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear hunch one more time."
+  },
+  {
+    "id": 245,
+    "word": "hunting",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write hunting neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of hunting."
+  },
+  {
+    "id": 246,
+    "word": "hurdle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes hurdle, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes hurdle in ordinary classroom talk."
+  },
+  {
+    "id": 247,
+    "word": "hurried",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named hurried, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats hurried without showing it on the screen."
+  },
+  {
+    "id": 248,
+    "word": "hypnotic",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word hypnotic and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for hypnotic before you pick up your pencil."
+  },
+  {
+    "id": 249,
+    "word": "iceberg",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell iceberg after you hear it, without looking at any letters.",
+    "sentence2": "A second example used iceberg so the meaning would stay clear."
+  },
+  {
+    "id": 250,
+    "word": "image",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said image slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps image in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 251,
+    "word": "impair",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, impair is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word impair."
+  },
+  {
+    "id": 252,
+    "word": "import",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used import in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear import one more time."
+  },
+  {
+    "id": 253,
+    "word": "impress",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write impress neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of impress."
+  },
+  {
+    "id": 254,
+    "word": "inch",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes inch, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes inch in ordinary classroom talk."
+  },
+  {
+    "id": 255,
+    "word": "increase",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named increase, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats increase without showing it on the screen."
+  },
+  {
+    "id": 256,
+    "word": "indeed",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word indeed and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for indeed before you pick up your pencil."
+  },
+  {
+    "id": 257,
+    "word": "index",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell index after you hear it, without looking at any letters.",
+    "sentence2": "A second example used index so the meaning would stay clear."
+  },
+  {
+    "id": 258,
+    "word": "infection",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said infection slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps infection in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 259,
+    "word": "inform",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, inform is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word inform."
+  },
+  {
+    "id": 260,
+    "word": "inject",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used inject in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear inject one more time."
+  },
+  {
+    "id": 261,
+    "word": "injure",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write injure neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of injure."
+  },
+  {
+    "id": 262,
+    "word": "inkling",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes inkling, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes inkling in ordinary classroom talk."
+  },
+  {
+    "id": 263,
+    "word": "input",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named input, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats input without showing it on the screen."
+  },
+  {
+    "id": 264,
+    "word": "inscribe",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word inscribe and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for inscribe before you pick up your pencil."
+  },
+  {
+    "id": 265,
+    "word": "instead",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell instead after you hear it, without looking at any letters.",
+    "sentence2": "A second example used instead so the meaning would stay clear."
+  },
+  {
+    "id": 266,
+    "word": "instruct",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said instruct slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps instruct in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 267,
+    "word": "interest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, interest is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word interest."
+  },
+  {
+    "id": 268,
+    "word": "interpret",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used interpret in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear interpret one more time."
+  },
+  {
+    "id": 269,
+    "word": "introduce",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write introduce neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of introduce."
+  },
+  {
+    "id": 270,
+    "word": "invite",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes invite, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes invite in ordinary classroom talk."
+  },
+  {
+    "id": 271,
+    "word": "inward",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named inward, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats inward without showing it on the screen."
+  },
+  {
+    "id": 272,
+    "word": "Irish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word Irish and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for Irish before you pick up your pencil."
+  },
+  {
+    "id": 273,
+    "word": "item",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell item after you hear it, without looking at any letters.",
+    "sentence2": "A second example used item so the meaning would stay clear."
+  },
+  {
+    "id": 274,
+    "word": "ivory",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said ivory slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps ivory in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 275,
+    "word": "jabbed",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, jabbed is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word jabbed."
+  },
+  {
+    "id": 276,
+    "word": "jackboot",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used jackboot in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear jackboot one more time."
+  },
+  {
+    "id": 277,
+    "word": "janitor",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write janitor neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of janitor."
+  },
+  {
+    "id": 278,
+    "word": "jay",
+    "altSpellings": [],
+    "note": "bird",
+    "sentence1": "Spell jay in this sense: bird.",
+    "sentence2": "Do not confuse it with a look-alike; this jay is the bird meaning."
+  },
+  {
+    "id": 279,
+    "word": "jazzy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named jazzy, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats jazzy without showing it on the screen."
+  },
+  {
+    "id": 280,
+    "word": "jeer",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word jeer and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for jeer before you pick up your pencil."
+  },
+  {
+    "id": 281,
+    "word": "journal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell journal after you hear it, without looking at any letters.",
+    "sentence2": "A second example used journal so the meaning would stay clear."
+  },
+  {
+    "id": 282,
+    "word": "jumpsuit",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said jumpsuit slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps jumpsuit in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 283,
+    "word": "kennel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, kennel is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word kennel."
+  },
+  {
+    "id": 284,
+    "word": "keypad",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used keypad in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear keypad one more time."
+  },
+  {
+    "id": 285,
+    "word": "keystroke",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write keystroke neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of keystroke."
+  },
+  {
+    "id": 286,
+    "word": "kindly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes kindly, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes kindly in ordinary classroom talk."
+  },
+  {
+    "id": 287,
+    "word": "knapsack",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named knapsack, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats knapsack without showing it on the screen."
+  },
+  {
+    "id": 288,
+    "word": "knitwear",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word knitwear and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for knitwear before you pick up your pencil."
+  },
+  {
+    "id": 289,
+    "word": "knob",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell knob after you hear it, without looking at any letters.",
+    "sentence2": "A second example used knob so the meaning would stay clear."
+  },
+  {
+    "id": 290,
+    "word": "kook",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said kook slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps kook in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 291,
+    "word": "lace",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, lace is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word lace."
+  },
+  {
+    "id": 292,
+    "word": "lantern",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used lantern in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear lantern one more time."
+  },
+  {
+    "id": 293,
+    "word": "lapdog",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write lapdog neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of lapdog."
+  },
+  {
+    "id": 294,
+    "word": "larva",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes larva, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes larva in ordinary classroom talk."
+  },
+  {
+    "id": 295,
+    "word": "laundry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named laundry, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats laundry without showing it on the screen."
+  },
+  {
+    "id": 296,
+    "word": "lavatory",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word lavatory and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for lavatory before you pick up your pencil."
+  },
+  {
+    "id": 297,
+    "word": "lavender",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell lavender after you hear it, without looking at any letters.",
+    "sentence2": "A second example used lavender so the meaning would stay clear."
+  },
+  {
+    "id": 298,
+    "word": "laziness",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said laziness slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps laziness in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 299,
+    "word": "leaflet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, leaflet is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word leaflet."
+  },
+  {
+    "id": 300,
+    "word": "leakage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used leakage in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear leakage one more time."
+  },
+  {
+    "id": 301,
+    "word": "ledge",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write ledge neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of ledge."
+  },
+  {
+    "id": 302,
+    "word": "length",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes length, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes length in ordinary classroom talk."
+  },
+  {
+    "id": 303,
+    "word": "lens",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named lens, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats lens without showing it on the screen."
+  },
+  {
+    "id": 304,
+    "word": "leotard",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word leotard and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for leotard before you pick up your pencil."
+  },
+  {
+    "id": 305,
+    "word": "leverage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell leverage after you hear it, without looking at any letters.",
+    "sentence2": "A second example used leverage so the meaning would stay clear."
+  },
+  {
+    "id": 306,
+    "word": "lifesaver",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said lifesaver slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps lifesaver in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 307,
+    "word": "light-footed",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, light-footed is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word light-footed."
+  },
+  {
+    "id": 308,
+    "word": "likely",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used likely in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear likely one more time."
+  },
+  {
+    "id": 309,
+    "word": "limited",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write limited neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of limited."
+  },
+  {
+    "id": 310,
+    "word": "linger",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes linger, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes linger in ordinary classroom talk."
+  },
+  {
+    "id": 311,
+    "word": "liquid",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named liquid, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats liquid without showing it on the screen."
+  },
+  {
+    "id": 312,
+    "word": "liven",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word liven and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for liven before you pick up your pencil."
+  },
+  {
+    "id": 313,
+    "word": "lobby",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell lobby after you hear it, without looking at any letters.",
+    "sentence2": "A second example used lobby so the meaning would stay clear."
+  },
+  {
+    "id": 314,
+    "word": "lonesome",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said lonesome slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps lonesome in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 315,
+    "word": "longhorn",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, longhorn is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word longhorn."
+  },
+  {
+    "id": 316,
+    "word": "loyal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used loyal in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear loyal one more time."
+  },
+  {
+    "id": 317,
+    "word": "luggage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write luggage neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of luggage."
+  },
+  {
+    "id": 318,
+    "word": "luminous",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes luminous, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes luminous in ordinary classroom talk."
+  },
+  {
+    "id": 319,
+    "word": "lumpish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named lumpish, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats lumpish without showing it on the screen."
+  },
+  {
+    "id": 320,
+    "word": "machine",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word machine and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for machine before you pick up your pencil."
+  },
+  {
+    "id": 321,
+    "word": "maddening",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell maddening after you hear it, without looking at any letters.",
+    "sentence2": "A second example used maddening so the meaning would stay clear."
+  },
+  {
+    "id": 322,
+    "word": "magnet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said magnet slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps magnet in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 323,
+    "word": "magnify",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, magnify is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word magnify."
+  },
+  {
+    "id": 324,
+    "word": "majesty",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used majesty in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear majesty one more time."
+  },
+  {
+    "id": 325,
+    "word": "manifest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write manifest neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of manifest."
+  },
+  {
+    "id": 326,
+    "word": "manual",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes manual, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes manual in ordinary classroom talk."
+  },
+  {
+    "id": 327,
+    "word": "marmalade",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named marmalade, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats marmalade without showing it on the screen."
+  },
+  {
+    "id": 328,
+    "word": "massive",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word massive and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for massive before you pick up your pencil."
+  },
+  {
+    "id": 329,
+    "word": "mature",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell mature after you hear it, without looking at any letters.",
+    "sentence2": "A second example used mature so the meaning would stay clear."
+  },
+  {
+    "id": 330,
+    "word": "measure",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said measure slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps measure in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 331,
+    "word": "meddle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, meddle is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word meddle."
+  },
+  {
+    "id": 332,
+    "word": "medical",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used medical in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear medical one more time."
+  },
+  {
+    "id": 333,
+    "word": "medley",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write medley neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of medley."
+  },
+  {
+    "id": 334,
+    "word": "mentality",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes mentality, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes mentality in ordinary classroom talk."
+  },
+  {
+    "id": 335,
+    "word": "mercy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named mercy, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats mercy without showing it on the screen."
+  },
+  {
+    "id": 336,
+    "word": "mermaid",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word mermaid and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for mermaid before you pick up your pencil."
+  },
+  {
+    "id": 337,
+    "word": "metric",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell metric after you hear it, without looking at any letters.",
+    "sentence2": "A second example used metric so the meaning would stay clear."
+  },
+  {
+    "id": 338,
+    "word": "migration",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said migration slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps migration in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 339,
+    "word": "mineral",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, mineral is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word mineral."
+  },
+  {
+    "id": 340,
+    "word": "minus",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used minus in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear minus one more time."
+  },
+  {
+    "id": 341,
+    "word": "mission",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write mission neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of mission."
+  },
+  {
+    "id": 342,
+    "word": "misspell",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes misspell, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes misspell in ordinary classroom talk."
+  },
+  {
+    "id": 343,
+    "word": "misuse",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named misuse, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats misuse without showing it on the screen."
+  },
+  {
+    "id": 344,
+    "word": "modern",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word modern and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for modern before you pick up your pencil."
+  },
+  {
+    "id": 345,
+    "word": "modest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell modest after you hear it, without looking at any letters.",
+    "sentence2": "A second example used modest so the meaning would stay clear."
+  },
+  {
+    "id": 346,
+    "word": "muffler",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said muffler slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps muffler in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 347,
+    "word": "multiply",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, multiply is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word multiply."
+  },
+  {
+    "id": 348,
+    "word": "municipal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used municipal in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear municipal one more time."
+  },
+  {
+    "id": 349,
+    "word": "mushroom",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write mushroom neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of mushroom."
+  },
+  {
+    "id": 350,
+    "word": "mystify",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes mystify, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes mystify in ordinary classroom talk."
+  },
+  {
+    "id": 351,
+    "word": "myth",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named myth, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats myth without showing it on the screen."
+  },
+  {
+    "id": 352,
+    "word": "nap",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word nap and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for nap before you pick up your pencil."
+  },
+  {
+    "id": 353,
+    "word": "national",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell national after you hear it, without looking at any letters.",
+    "sentence2": "A second example used national so the meaning would stay clear."
+  },
+  {
+    "id": 354,
+    "word": "nature",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said nature slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps nature in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 355,
+    "word": "navigate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, navigate is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word navigate."
+  },
+  {
+    "id": 356,
+    "word": "neat",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used neat in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear neat one more time."
+  },
+  {
+    "id": 357,
+    "word": "necessary",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write necessary neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of necessary."
+  },
+  {
+    "id": 358,
+    "word": "needless",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes needless, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes needless in ordinary classroom talk."
+  },
+  {
+    "id": 359,
+    "word": "nephew",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named nephew, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats nephew without showing it on the screen."
+  },
+  {
+    "id": 360,
+    "word": "neutral",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word neutral and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for neutral before you pick up your pencil."
+  },
+  {
+    "id": 361,
+    "word": "nibble",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell nibble after you hear it, without looking at any letters.",
+    "sentence2": "A second example used nibble so the meaning would stay clear."
+  },
+  {
+    "id": 362,
+    "word": "nickname",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said nickname slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps nickname in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 363,
+    "word": "ninth",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, ninth is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word ninth."
+  },
+  {
+    "id": 364,
+    "word": "noel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used noel in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear noel one more time."
+  },
+  {
+    "id": 365,
+    "word": "nonbiting",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write nonbiting neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of nonbiting."
+  },
+  {
+    "id": 366,
+    "word": "nonstick",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes nonstick, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes nonstick in ordinary classroom talk."
+  },
+  {
+    "id": 367,
+    "word": "normally",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named normally, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats normally without showing it on the screen."
+  },
+  {
+    "id": 368,
+    "word": "northward",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word northward and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for northward before you pick up your pencil."
+  },
+  {
+    "id": 369,
+    "word": "nosy",
+    "altSpellings": [
+      "nosey"
+    ],
+    "note": null,
+    "sentence1": "Please spell nosy after you hear it, without looking at any letters.",
+    "sentence2": "A second example used nosy so the meaning would stay clear."
+  },
+  {
+    "id": 370,
+    "word": "notation",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said notation slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps notation in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 371,
+    "word": "notepad",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, notepad is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word notepad."
+  },
+  {
+    "id": 372,
+    "word": "nourish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used nourish in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear nourish one more time."
+  },
+  {
+    "id": 373,
+    "word": "novice",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write novice neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of novice."
+  },
+  {
+    "id": 374,
+    "word": "nudging",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes nudging, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes nudging in ordinary classroom talk."
+  },
+  {
+    "id": 375,
+    "word": "numb",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named numb, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats numb without showing it on the screen."
+  },
+  {
+    "id": 376,
+    "word": "nursemaid",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word nursemaid and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for nursemaid before you pick up your pencil."
+  },
+  {
+    "id": 377,
+    "word": "nutmeg",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell nutmeg after you hear it, without looking at any letters.",
+    "sentence2": "A second example used nutmeg so the meaning would stay clear."
+  },
+  {
+    "id": 378,
+    "word": "nuzzle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said nuzzle slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps nuzzle in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 379,
+    "word": "obedient",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, obedient is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word obedient."
+  },
+  {
+    "id": 380,
+    "word": "oboe",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used oboe in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear oboe one more time."
+  },
+  {
+    "id": 381,
+    "word": "obsess",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write obsess neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of obsess."
+  },
+  {
+    "id": 382,
+    "word": "obstruct",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes obstruct, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes obstruct in ordinary classroom talk."
+  },
+  {
+    "id": 383,
+    "word": "October",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named October, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats October without showing it on the screen."
+  },
+  {
+    "id": 384,
+    "word": "oddity",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word oddity and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for oddity before you pick up your pencil."
+  },
+  {
+    "id": 385,
+    "word": "offend",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell offend after you hear it, without looking at any letters.",
+    "sentence2": "A second example used offend so the meaning would stay clear."
+  },
+  {
+    "id": 386,
+    "word": "oiliest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said oiliest slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps oiliest in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 387,
+    "word": "ointment",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, ointment is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word ointment."
+  },
+  {
+    "id": 388,
+    "word": "okra",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used okra in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear okra one more time."
+  },
+  {
+    "id": 389,
+    "word": "onion",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write onion neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of onion."
+  },
+  {
+    "id": 390,
+    "word": "onlooker",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes onlooker, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes onlooker in ordinary classroom talk."
+  },
+  {
+    "id": 391,
+    "word": "onstage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named onstage, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats onstage without showing it on the screen."
+  },
+  {
+    "id": 392,
+    "word": "oozy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word oozy and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for oozy before you pick up your pencil."
+  },
+  {
+    "id": 393,
+    "word": "opera",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell opera after you hear it, without looking at any letters.",
+    "sentence2": "A second example used opera so the meaning would stay clear."
+  },
+  {
+    "id": 394,
+    "word": "operation",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said operation slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps operation in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 395,
+    "word": "opt",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, opt is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word opt."
+  },
+  {
+    "id": 396,
+    "word": "oral",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used oral in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear oral one more time."
+  },
+  {
+    "id": 397,
+    "word": "orangeade",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write orangeade neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of orangeade."
+  },
+  {
+    "id": 398,
+    "word": "order",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes order, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes order in ordinary classroom talk."
+  },
+  {
+    "id": 399,
+    "word": "organized",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named organized, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats organized without showing it on the screen."
+  },
+  {
+    "id": 400,
+    "word": "ornament",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word ornament and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for ornament before you pick up your pencil."
+  },
+  {
+    "id": 401,
+    "word": "otherwise",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell otherwise after you hear it, without looking at any letters.",
+    "sentence2": "A second example used otherwise so the meaning would stay clear."
+  },
+  {
+    "id": 402,
+    "word": "ouch",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said ouch slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps ouch in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 403,
+    "word": "ourselves",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, ourselves is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word ourselves."
+  },
+  {
+    "id": 404,
+    "word": "outdated",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used outdated in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear outdated one more time."
+  },
+  {
+    "id": 405,
+    "word": "outerwear",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write outerwear neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of outerwear."
+  },
+  {
+    "id": 406,
+    "word": "outward",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes outward, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes outward in ordinary classroom talk."
+  },
+  {
+    "id": 407,
+    "word": "overture",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named overture, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats overture without showing it on the screen."
+  },
+  {
+    "id": 408,
+    "word": "owlish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word owlish and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for owlish before you pick up your pencil."
+  },
+  {
+    "id": 409,
+    "word": "ozone",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell ozone after you hear it, without looking at any letters.",
+    "sentence2": "A second example used ozone so the meaning would stay clear."
+  },
+  {
+    "id": 410,
+    "word": "pageant",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said pageant slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps pageant in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 411,
+    "word": "palace",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, palace is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word palace."
+  },
+  {
+    "id": 412,
+    "word": "pantry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used pantry in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear pantry one more time."
+  },
+  {
+    "id": 413,
+    "word": "parallel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write parallel neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of parallel."
+  },
+  {
+    "id": 414,
+    "word": "parasite",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes parasite, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes parasite in ordinary classroom talk."
+  },
+  {
+    "id": 415,
+    "word": "parchment",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named parchment, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats parchment without showing it on the screen."
+  },
+  {
+    "id": 416,
+    "word": "partake",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word partake and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for partake before you pick up your pencil."
+  },
+  {
+    "id": 417,
+    "word": "partnership",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell partnership after you hear it, without looking at any letters.",
+    "sentence2": "A second example used partnership so the meaning would stay clear."
+  },
+  {
+    "id": 418,
+    "word": "passport",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said passport slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps passport in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 419,
+    "word": "pastry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, pastry is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word pastry."
+  },
+  {
+    "id": 420,
+    "word": "peach",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used peach in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear peach one more time."
+  },
+  {
+    "id": 421,
+    "word": "pedigree",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write pedigree neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of pedigree."
+  },
+  {
+    "id": 422,
+    "word": "perfume",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes perfume, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes perfume in ordinary classroom talk."
+  },
+  {
+    "id": 423,
+    "word": "perhaps",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named perhaps, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats perhaps without showing it on the screen."
+  },
+  {
+    "id": 424,
+    "word": "perplex",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word perplex and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for perplex before you pick up your pencil."
+  },
+  {
+    "id": 425,
+    "word": "petrify",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell petrify after you hear it, without looking at any letters.",
+    "sentence2": "A second example used petrify so the meaning would stay clear."
+  },
+  {
+    "id": 426,
+    "word": "pheasant",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said pheasant slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps pheasant in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 427,
+    "word": "photocopy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, photocopy is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word photocopy."
+  },
+  {
+    "id": 428,
+    "word": "phrase",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used phrase in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear phrase one more time."
+  },
+  {
+    "id": 429,
+    "word": "pitiful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write pitiful neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of pitiful."
+  },
+  {
+    "id": 430,
+    "word": "pledge",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes pledge, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes pledge in ordinary classroom talk."
+  },
+  {
+    "id": 431,
+    "word": "portrait",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named portrait, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats portrait without showing it on the screen."
+  },
+  {
+    "id": 432,
+    "word": "position",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word position and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for position before you pick up your pencil."
+  },
+  {
+    "id": 433,
+    "word": "positive",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell positive after you hear it, without looking at any letters.",
+    "sentence2": "A second example used positive so the meaning would stay clear."
+  },
+  {
+    "id": 434,
+    "word": "postage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said postage slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps postage in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 435,
+    "word": "prairie",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, prairie is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word prairie."
+  },
+  {
+    "id": 436,
+    "word": "precious",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used precious in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear precious one more time."
+  },
+  {
+    "id": 437,
+    "word": "priest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write priest neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of priest."
+  },
+  {
+    "id": 438,
+    "word": "primary",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes primary, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes primary in ordinary classroom talk."
+  },
+  {
+    "id": 439,
+    "word": "primitive",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named primitive, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats primitive without showing it on the screen."
+  },
+  {
+    "id": 440,
+    "word": "project",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word project and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for project before you pick up your pencil."
+  },
+  {
+    "id": 441,
+    "word": "prowl",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell prowl after you hear it, without looking at any letters.",
+    "sentence2": "A second example used prowl so the meaning would stay clear."
+  },
+  {
+    "id": 442,
+    "word": "prune",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said prune slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps prune in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 443,
+    "word": "purebred",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, purebred is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word purebred."
+  },
+  {
+    "id": 444,
+    "word": "quantity",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used quantity in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear quantity one more time."
+  },
+  {
+    "id": 445,
+    "word": "quarter",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write quarter neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of quarter."
+  },
+  {
+    "id": 446,
+    "word": "queasy",
+    "altSpellings": [
+      "queazy"
+    ],
+    "note": null,
+    "sentence1": "Today's round includes queasy, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes queasy in ordinary classroom talk."
+  },
+  {
+    "id": 447,
+    "word": "queen",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named queen, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats queen without showing it on the screen."
+  },
+  {
+    "id": 448,
+    "word": "quench",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word quench and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for quench before you pick up your pencil."
+  },
+  {
+    "id": 449,
+    "word": "quibbling",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell quibbling after you hear it, without looking at any letters.",
+    "sentence2": "A second example used quibbling so the meaning would stay clear."
+  },
+  {
+    "id": 450,
+    "word": "quid",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said quid slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps quid in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 451,
+    "word": "quill",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, quill is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word quill."
+  },
+  {
+    "id": 452,
+    "word": "quite",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used quite in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear quite one more time."
+  },
+  {
+    "id": 453,
+    "word": "quiz",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write quiz neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of quiz."
+  },
+  {
+    "id": 454,
+    "word": "quota",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes quota, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes quota in ordinary classroom talk."
+  },
+  {
+    "id": 455,
+    "word": "radiant",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named radiant, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats radiant without showing it on the screen."
+  },
+  {
+    "id": 456,
+    "word": "radio",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word radio and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for radio before you pick up your pencil."
+  },
+  {
+    "id": 457,
+    "word": "ragweed",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell ragweed after you hear it, without looking at any letters.",
+    "sentence2": "A second example used ragweed so the meaning would stay clear."
+  },
+  {
+    "id": 458,
+    "word": "rainbow",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said rainbow slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps rainbow in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 459,
+    "word": "raspberry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, raspberry is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word raspberry."
+  },
+  {
+    "id": 460,
+    "word": "razor",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used razor in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear razor one more time."
+  },
+  {
+    "id": 461,
+    "word": "readable",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write readable neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of readable."
+  },
+  {
+    "id": 462,
+    "word": "reckless",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes reckless, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes reckless in ordinary classroom talk."
+  },
+  {
+    "id": 463,
+    "word": "recollect",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named recollect, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats recollect without showing it on the screen."
+  },
+  {
+    "id": 464,
+    "word": "recycle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word recycle and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for recycle before you pick up your pencil."
+  },
+  {
+    "id": 465,
+    "word": "regional",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell regional after you hear it, without looking at any letters.",
+    "sentence2": "A second example used regional so the meaning would stay clear."
+  },
+  {
+    "id": 466,
+    "word": "register",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said register slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps register in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 467,
+    "word": "regularly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, regularly is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word regularly."
+  },
+  {
+    "id": 468,
+    "word": "religion",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used religion in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear religion one more time."
+  },
+  {
+    "id": 469,
+    "word": "remarkable",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write remarkable neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of remarkable."
+  },
+  {
+    "id": 470,
+    "word": "remedy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes remedy, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes remedy in ordinary classroom talk."
+  },
+  {
+    "id": 471,
+    "word": "reminder",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named reminder, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats reminder without showing it on the screen."
+  },
+  {
+    "id": 472,
+    "word": "rescue",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word rescue and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for rescue before you pick up your pencil."
+  },
+  {
+    "id": 473,
+    "word": "resident",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell resident after you hear it, without looking at any letters.",
+    "sentence2": "A second example used resident so the meaning would stay clear."
+  },
+  {
+    "id": 474,
+    "word": "respond",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said respond slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps respond in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 475,
+    "word": "retired",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, retired is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word retired."
+  },
+  {
+    "id": 476,
+    "word": "retrieve",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used retrieve in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear retrieve one more time."
+  },
+  {
+    "id": 477,
+    "word": "revenge",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write revenge neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of revenge."
+  },
+  {
+    "id": 478,
+    "word": "reward",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes reward, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes reward in ordinary classroom talk."
+  },
+  {
+    "id": 479,
+    "word": "rookie",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named rookie, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats rookie without showing it on the screen."
+  },
+  {
+    "id": 480,
+    "word": "rotate",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word rotate and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for rotate before you pick up your pencil."
+  },
+  {
+    "id": 481,
+    "word": "rotten",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell rotten after you hear it, without looking at any letters.",
+    "sentence2": "A second example used rotten so the meaning would stay clear."
+  },
+  {
+    "id": 482,
+    "word": "rouge",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said rouge slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps rouge in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 483,
+    "word": "ruddy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, ruddy is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word ruddy."
+  },
+  {
+    "id": 484,
+    "word": "rush",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used rush in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear rush one more time."
+  },
+  {
+    "id": 485,
+    "word": "ruthless",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write ruthless neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of ruthless."
+  },
+  {
+    "id": 486,
+    "word": "salmon",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes salmon, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes salmon in ordinary classroom talk."
+  },
+  {
+    "id": 487,
+    "word": "sane",
+    "altSpellings": [],
+    "note": "mentally sound",
+    "sentence1": "Spell sane in this sense: mentally sound.",
+    "sentence2": "Do not confuse it with a look-alike; this sane is the mentally sound meaning."
+  },
+  {
+    "id": 488,
+    "word": "sawdust",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word sawdust and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for sawdust before you pick up your pencil."
+  },
+  {
+    "id": 489,
+    "word": "seamstress",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell seamstress after you hear it, without looking at any letters.",
+    "sentence2": "A second example used seamstress so the meaning would stay clear."
+  },
+  {
+    "id": 490,
+    "word": "security",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said security slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps security in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 491,
+    "word": "sentence",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, sentence is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word sentence."
+  },
+  {
+    "id": 492,
+    "word": "service",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used service in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear service one more time."
+  },
+  {
+    "id": 493,
+    "word": "shirttail",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write shirttail neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of shirttail."
+  },
+  {
+    "id": 494,
+    "word": "shortening",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes shortening, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes shortening in ordinary classroom talk."
+  },
+  {
+    "id": 495,
+    "word": "sincere",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named sincere, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats sincere without showing it on the screen."
+  },
+  {
+    "id": 496,
+    "word": "skeleton",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word skeleton and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for skeleton before you pick up your pencil."
+  },
+  {
+    "id": 497,
+    "word": "sketch",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell sketch after you hear it, without looking at any letters.",
+    "sentence2": "A second example used sketch so the meaning would stay clear."
+  },
+  {
+    "id": 498,
+    "word": "snobbish",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said snobbish slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps snobbish in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 499,
+    "word": "snoopy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, snoopy is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word snoopy."
+  },
+  {
+    "id": 500,
+    "word": "snorkel",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used snorkel in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear snorkel one more time."
+  },
+  {
+    "id": 501,
+    "word": "soothing",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write soothing neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of soothing."
+  },
+  {
+    "id": 502,
+    "word": "sourdough",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes sourdough, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes sourdough in ordinary classroom talk."
+  },
+  {
+    "id": 503,
+    "word": "spinach",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named spinach, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats spinach without showing it on the screen."
+  },
+  {
+    "id": 504,
+    "word": "sponge",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word sponge and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for sponge before you pick up your pencil."
+  },
+  {
+    "id": 505,
+    "word": "sponsor",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell sponsor after you hear it, without looking at any letters.",
+    "sentence2": "A second example used sponsor so the meaning would stay clear."
+  },
+  {
+    "id": 506,
+    "word": "stardom",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said stardom slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps stardom in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 507,
+    "word": "strawberry",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, strawberry is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word strawberry."
+  },
+  {
+    "id": 508,
+    "word": "struggle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used struggle in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear struggle one more time."
+  },
+  {
+    "id": 509,
+    "word": "suddenly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write suddenly neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of suddenly."
+  },
+  {
+    "id": 510,
+    "word": "suggest",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes suggest, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes suggest in ordinary classroom talk."
+  },
+  {
+    "id": 511,
+    "word": "superb",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named superb, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats superb without showing it on the screen."
+  },
+  {
+    "id": 512,
+    "word": "surprising",
+    "altSpellings": [],
+    "note": "adj.",
+    "sentence1": "Spell surprising in this sense: adj..",
+    "sentence2": "Do not confuse it with a look-alike; this surprising is the adj. meaning."
+  },
+  {
+    "id": 513,
+    "word": "swoop",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell swoop after you hear it, without looking at any letters.",
+    "sentence2": "A second example used swoop so the meaning would stay clear."
+  },
+  {
+    "id": 514,
+    "word": "symbol",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said symbol slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps symbol in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 515,
+    "word": "system",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, system is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word system."
+  },
+  {
+    "id": 516,
+    "word": "tantrum",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used tantrum in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear tantrum one more time."
+  },
+  {
+    "id": 517,
+    "word": "tattered",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write tattered neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of tattered."
+  },
+  {
+    "id": 518,
+    "word": "technical",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes technical, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes technical in ordinary classroom talk."
+  },
+  {
+    "id": 519,
+    "word": "temperature",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named temperature, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats temperature without showing it on the screen."
+  },
+  {
+    "id": 520,
+    "word": "tempting",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word tempting and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for tempting before you pick up your pencil."
+  },
+  {
+    "id": 521,
+    "word": "terrace",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell terrace after you hear it, without looking at any letters.",
+    "sentence2": "A second example used terrace so the meaning would stay clear."
+  },
+  {
+    "id": 522,
+    "word": "textbook",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said textbook slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps textbook in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 523,
+    "word": "t hemselves",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, t hemselves is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word t hemselves."
+  },
+  {
+    "id": 524,
+    "word": "thermos",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used thermos in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear thermos one more time."
+  },
+  {
+    "id": 525,
+    "word": "thrifty",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write thrifty neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of thrifty."
+  },
+  {
+    "id": 526,
+    "word": "thriller",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes thriller, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes thriller in ordinary classroom talk."
+  },
+  {
+    "id": 527,
+    "word": "throat",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named throat, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats throat without showing it on the screen."
+  },
+  {
+    "id": 528,
+    "word": "tickling",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word tickling and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for tickling before you pick up your pencil."
+  },
+  {
+    "id": 529,
+    "word": "toaster",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell toaster after you hear it, without looking at any letters.",
+    "sentence2": "A second example used toaster so the meaning would stay clear."
+  },
+  {
+    "id": 530,
+    "word": "tornado",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said tornado slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps tornado in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 531,
+    "word": "toughen",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, toughen is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word toughen."
+  },
+  {
+    "id": 532,
+    "word": "trampoline",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used trampoline in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear trampoline one more time."
+  },
+  {
+    "id": 533,
+    "word": "transmit",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write transmit neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of transmit."
+  },
+  {
+    "id": 534,
+    "word": "tremor",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes tremor, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes tremor in ordinary classroom talk."
+  },
+  {
+    "id": 535,
+    "word": "triumph",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named triumph, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats triumph without showing it on the screen."
+  },
+  {
+    "id": 536,
+    "word": "trivial",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word trivial and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for trivial before you pick up your pencil."
+  },
+  {
+    "id": 537,
+    "word": "trouble",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell trouble after you hear it, without looking at any letters.",
+    "sentence2": "A second example used trouble so the meaning would stay clear."
+  },
+  {
+    "id": 538,
+    "word": "tundra",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said tundra slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps tundra in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 539,
+    "word": "twiddle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, twiddle is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word twiddle."
+  },
+  {
+    "id": 540,
+    "word": "twig",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used twig in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear twig one more time."
+  },
+  {
+    "id": 541,
+    "word": "twirl",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write twirl neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of twirl."
+  },
+  {
+    "id": 542,
+    "word": "twister",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes twister, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes twister in ordinary classroom talk."
+  },
+  {
+    "id": 543,
+    "word": "ultraviolet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named ultraviolet, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats ultraviolet without showing it on the screen."
+  },
+  {
+    "id": 544,
+    "word": "umbrella",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word umbrella and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for umbrella before you pick up your pencil."
+  },
+  {
+    "id": 545,
+    "word": "umpire",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell umpire after you hear it, without looking at any letters.",
+    "sentence2": "A second example used umpire so the meaning would stay clear."
+  },
+  {
+    "id": 546,
+    "word": "umpteen",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said umpteen slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps umpteen in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 547,
+    "word": "unchain",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, unchain is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word unchain."
+  },
+  {
+    "id": 548,
+    "word": "underneath",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used underneath in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear underneath one more time."
+  },
+  {
+    "id": 549,
+    "word": "uneasy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write uneasy neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of uneasy."
+  },
+  {
+    "id": 550,
+    "word": "unfasten",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes unfasten, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes unfasten in ordinary classroom talk."
+  },
+  {
+    "id": 551,
+    "word": "unison",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named unison, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats unison without showing it on the screen."
+  },
+  {
+    "id": 552,
+    "word": "unlawful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word unlawful and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for unlawful before you pick up your pencil."
+  },
+  {
+    "id": 553,
+    "word": "unpack",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell unpack after you hear it, without looking at any letters.",
+    "sentence2": "A second example used unpack so the meaning would stay clear."
+  },
+  {
+    "id": 554,
+    "word": "unreal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said unreal slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps unreal in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 555,
+    "word": "unscramble",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, unscramble is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word unscramble."
+  },
+  {
+    "id": 556,
+    "word": "unusual",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used unusual in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear unusual one more time."
+  },
+  {
+    "id": 557,
+    "word": "upturn",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write upturn neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of upturn."
+  },
+  {
+    "id": 558,
+    "word": "urgent",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes urgent, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes urgent in ordinary classroom talk."
+  },
+  {
+    "id": 559,
+    "word": "useless",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named useless, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats useless without showing it on the screen."
+  },
+  {
+    "id": 560,
+    "word": "usher",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word usher and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for usher before you pick up your pencil."
+  },
+  {
+    "id": 561,
+    "word": "utterly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell utterly after you hear it, without looking at any letters.",
+    "sentence2": "A second example used utterly so the meaning would stay clear."
+  },
+  {
+    "id": 562,
+    "word": "vacation",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said vacation slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps vacation in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 563,
+    "word": "valentine",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, valentine is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word valentine."
+  },
+  {
+    "id": 564,
+    "word": "valley",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used valley in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear valley one more time."
+  },
+  {
+    "id": 565,
+    "word": "vanilla",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write vanilla neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of vanilla."
+  },
+  {
+    "id": 566,
+    "word": "vapor",
+    "altSpellings": [
+      "vapour"
+    ],
+    "note": null,
+    "sentence1": "Today's round includes vapor, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes vapor in ordinary classroom talk."
+  },
+  {
+    "id": 567,
+    "word": "various",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named various, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats various without showing it on the screen."
+  },
+  {
+    "id": 568,
+    "word": "veggie",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word veggie and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for veggie before you pick up your pencil."
+  },
+  {
+    "id": 569,
+    "word": "vehicle",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell vehicle after you hear it, without looking at any letters.",
+    "sentence2": "A second example used vehicle so the meaning would stay clear."
+  },
+  {
+    "id": 570,
+    "word": "velvet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said velvet slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps velvet in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 571,
+    "word": "verb",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, verb is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word verb."
+  },
+  {
+    "id": 572,
+    "word": "vibrant",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used vibrant in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear vibrant one more time."
+  },
+  {
+    "id": 573,
+    "word": "view",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write view neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of view."
+  },
+  {
+    "id": 574,
+    "word": "villain",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes villain, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes villain in ordinary classroom talk."
+  },
+  {
+    "id": 575,
+    "word": "violence",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named violence, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats violence without showing it on the screen."
+  },
+  {
+    "id": 576,
+    "word": "visor",
+    "altSpellings": [
+      "vizor"
+    ],
+    "note": null,
+    "sentence1": "The class listened for the word visor and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for visor before you pick up your pencil."
+  },
+  {
+    "id": 577,
+    "word": "vocal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell vocal after you hear it, without looking at any letters.",
+    "sentence2": "A second example used vocal so the meaning would stay clear."
+  },
+  {
+    "id": 578,
+    "word": "voltage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said voltage slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps voltage in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 579,
+    "word": "vulture",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, vulture is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word vulture."
+  },
+  {
+    "id": 580,
+    "word": "waist",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used waist in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear waist one more time."
+  },
+  {
+    "id": 581,
+    "word": "wallet",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write wallet neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of wallet."
+  },
+  {
+    "id": 582,
+    "word": "warthog",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes warthog, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes warthog in ordinary classroom talk."
+  },
+  {
+    "id": 583,
+    "word": "wasp",
+    "altSpellings": [],
+    "note": "insect",
+    "sentence1": "Spell wasp in this sense: insect.",
+    "sentence2": "Do not confuse it with a look-alike; this wasp is the insect meaning."
+  },
+  {
+    "id": 584,
+    "word": "watermelon",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word watermelon and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for watermelon before you pick up your pencil."
+  },
+  {
+    "id": 585,
+    "word": "westerly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell westerly after you hear it, without looking at any letters.",
+    "sentence2": "A second example used westerly so the meaning would stay clear."
+  },
+  {
+    "id": 586,
+    "word": "windshield",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said windshield slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps windshield in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 587,
+    "word": "wisdom",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, wisdom is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word wisdom."
+  },
+  {
+    "id": 588,
+    "word": "withdrawal",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used withdrawal in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear withdrawal one more time."
+  },
+  {
+    "id": 589,
+    "word": "wreckage",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write wreckage neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of wreckage."
+  },
+  {
+    "id": 590,
+    "word": "wrongful",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes wrongful, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes wrongful in ordinary classroom talk."
+  },
+  {
+    "id": 591,
+    "word": "wry",
+    "altSpellings": [],
+    "note": "ironic",
+    "sentence1": "Spell wry in this sense: ironic.",
+    "sentence2": "Do not confuse it with a look-alike; this wry is the ironic meaning."
+  },
+  {
+    "id": 592,
+    "word": "xerography",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word xerography and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for xerography before you pick up your pencil."
+  },
+  {
+    "id": 593,
+    "word": "xylem",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Please spell xylem after you hear it, without looking at any letters.",
+    "sentence2": "A second example used xylem so the meaning would stay clear."
+  },
+  {
+    "id": 594,
+    "word": "yearly",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Our coach said yearly slowly, then paused so everyone could write.",
+    "sentence2": "Another spoken clue keeps yearly in a short, easy-to-hear sentence."
+  },
+  {
+    "id": 595,
+    "word": "yonder",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "In UIL practice, yonder is spoken first, then used in a full sentence.",
+    "sentence2": "Try this extra cue: picture a story that needs the word yonder."
+  },
+  {
+    "id": 596,
+    "word": "youngster",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The pronouncer used youngster in a kid-friendly sentence from school life.",
+    "sentence2": "Think of every letter while you hear youngster one more time."
+  },
+  {
+    "id": 597,
+    "word": "yourself",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Write yourself neatly as soon as the spoken word and sentence are finished.",
+    "sentence2": "Parents can replay the phrase that quietly hides the spelling of yourself."
+  },
+  {
+    "id": 598,
+    "word": "youth",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "Today's round includes youth, so wait for the sentence before you start.",
+    "sentence2": "The helper sentence still includes youth in ordinary classroom talk."
+  },
+  {
+    "id": 599,
+    "word": "zippy",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "A clear voice named zippy, then gave a sentence for extra context.",
+    "sentence2": "The backup sentence repeats zippy without showing it on the screen."
+  },
+  {
+    "id": 600,
+    "word": "zookeeper",
+    "altSpellings": [],
+    "note": null,
+    "sentence1": "The class listened for the word zookeeper and then wrote it from memory.",
+    "sentence2": "If you missed it, listen again for zookeeper before you pick up your pencil."
+  }
+]
