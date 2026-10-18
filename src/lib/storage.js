@@ -37,6 +37,8 @@ export function emptyStore() {
   return {
     familyPinSalt: '',
     familyPinHash: '',
+    familyCloudId: '',
+    updatedAt: 0,
     currentProfileId: null,
     profiles: {},
   }
@@ -95,6 +97,21 @@ export function loadStore() {
 
 export function saveStore(store) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(store))
+}
+
+export function applyCloudStore(local, remote) {
+  const next = normalizeStore({
+    ...local,
+    familyPinSalt: remote.familyPinSalt || '',
+    familyPinHash: remote.familyPinHash || '',
+    familyCloudId: remote.familyCloudId || local.familyCloudId || '',
+    updatedAt: remote.updatedAt || Date.now(),
+    profiles: remote.profiles || {},
+  })
+  if (next.currentProfileId && !next.profiles[next.currentProfileId]) {
+    next.currentProfileId = null
+  }
+  return next
 }
 
 export function listProfiles(store) {

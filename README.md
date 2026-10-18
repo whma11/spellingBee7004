@@ -30,7 +30,7 @@ That writes `src/data/grades-3-4.json` (600 words), `grades-5-6.json` (800), and
 
 ## Use on a phone or iPad
 
-Scores live **in the browser on that device**. They do not copy from the PC. Use Safari on iPhone/iPad, then Share → **Add to Home Screen**. Tap **Sound word** once so iOS allows speech.
+Each browser starts empty until you **join the family code** (Progress tab → Copy family code). After that, kid profiles and scores stay in one family cloud. Use Safari on iPhone/iPad, then Share → **Add to Home Screen**. Tap **Sound word** once so iOS allows speech.
 
 This GitHub repo is **private**. Free GitHub Pages only works for public repos, so pick one path:
 

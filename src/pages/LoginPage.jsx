@@ -10,9 +10,12 @@ export default function LoginPage() {
     unlockProfile,
     verifyFamilyPin,
     bootstrapFamily,
+    joinFamily,
+    importFamilyBackup,
   } = useAppState()
   const firstRun = profiles.length === 0
   const [mode, setMode] = useState(firstRun ? 'setup' : 'pick')
+  const [familyCode, setFamilyCode] = useState('')
   const [name, setName] = useState('')
   const [kidPin, setKidPin] = useState('')
   const [kidPinAgain, setKidPinAgain] = useState('')
@@ -72,17 +75,86 @@ export default function LoginPage() {
       <p className="text-xs font-semibold uppercase tracking-[0.2em] text-amber-800">
         Family spelling practice
       </p>
-      <h1 className="mt-2 text-3xl font-black tracking-tight">Who is practicing?</h1>
+      <h1 className="mt-2 text-3xl font-black tracking-tight">
+        {firstRun ? 'Set up this device' : 'Who is practicing?'}
+      </h1>
       <p className="mt-2 text-sm text-slate-700">
-        Each kid gets a private scorecard on this device. Optional PINs keep siblings
-        out of each other’s charts. This is not a cloud login — nothing is sent to a
-        server.
+        This screen appears when no kid is signed in on <strong>this browser</strong>
+        — first visit, after <strong>Switch kid</strong>, or after deleting a
+        profile. Scores do not follow you automatically from another computer
+        unless you join the same family code.
       </p>
 
       {error ? (
         <p className="mt-4 rounded-2xl bg-amber-100 px-4 py-3 text-sm font-medium text-ink">
           {error}
         </p>
+      ) : null}
+
+      {firstRun && (mode === 'setup' || mode === 'join') ? (
+        <div className="mt-4 flex gap-2">
+          <button
+            type="button"
+            className={`rounded-full px-3 py-1 text-sm font-semibold ${mode === 'setup' ? 'bg-ink text-amber-50' : 'bg-white/80'}`}
+            onClick={() => setMode('setup')}
+          >
+            New family here
+          </button>
+          <button
+            type="button"
+            className={`rounded-full px-3 py-1 text-sm font-semibold ${mode === 'join' ? 'bg-ink text-amber-50' : 'bg-white/80'}`}
+            onClick={() => setMode('join')}
+          >
+            This family already exists
+          </button>
+        </div>
+      ) : null}
+
+      {mode === 'join' ? (
+        <form
+          className="mt-6 space-y-4 rounded-3xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-200"
+          onSubmit={(event) => {
+            event.preventDefault()
+            run(() => joinFamily(familyCode))
+          }}
+        >
+          <h2 className="font-bold">Join the family cloud</h2>
+          <p className="text-sm text-slate-600">
+            On the computer that already has the kids, open Progress and tap
+            <strong> Copy backup JSON</strong> (or copy the family code). Paste
+            it here, then pick the kid.
+          </p>
+          <label className="block text-sm font-semibold">
+            Family code or backup JSON
+            <textarea
+              required
+              rows={4}
+              className="mt-1 w-full rounded-xl border border-amber-200 px-3 py-2 font-mono text-xs font-normal"
+              value={familyCode}
+              onChange={(e) => setFamilyCode(e.target.value)}
+              placeholder="Paste family code or backup JSON"
+            />
+          </label>
+          <button
+            type="submit"
+            disabled={busy}
+            className="w-full rounded-2xl bg-ink px-4 py-3 text-sm font-bold text-amber-50 disabled:opacity-40"
+          >
+            Load family scores
+          </button>
+          <label className="block text-sm font-semibold">
+            Or restore a backup file
+            <input
+              type="file"
+              accept="application/json,.json"
+              className="mt-1 w-full text-sm font-normal"
+              onChange={(event) => {
+                const file = event.target.files?.[0]
+                if (file) run(() => importFamilyBackup(file))
+              }}
+            />
+          </label>
+        </form>
       ) : null}
 
       {mode === 'setup' ? (
@@ -93,7 +165,7 @@ export default function LoginPage() {
             onSetup()
           }}
         >
-          <h2 className="font-bold">First-time setup</h2>
+          <h2 className="font-bold">Start a new family on this browser</h2>
           <label className="block text-sm font-semibold">
             Family PIN (optional)
             <input
@@ -201,6 +273,16 @@ export default function LoginPage() {
             }}
           >
             Add another kid
+          </button>
+          <button
+            type="button"
+            className="mt-2 block text-sm font-semibold underline"
+            onClick={() => {
+              setError('')
+              setMode('join')
+            }}
+          >
+            Use family code from another device
           </button>
         </div>
       ) : null}

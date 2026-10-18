@@ -1,9 +1,18 @@
-import { createContext, useContext, useEffect, useMemo, useState } from 'react'
+import { createContext, useContext, useEffect, useMemo, useRef, useState } from 'react'
 import { WORD_LISTS } from '../data/lists'
+import {
+  cloudPayload,
+  createFamilyCloud,
+  downloadFamilyBackup,
+  pullFamilyCloud,
+  pushFamilyCloud,
+  readFamilyBackupFile,
+} from '../lib/cloud'
 import { filteredPool, summarize } from '../lib/pool'
 import { hashPin, newSalt, normalizePin, pinLooksValid, pinsMatch } from '../lib/pin'
 import {
   activeProfile,
+  applyCloudStore,
   bumpHistory,
   emptyProfile,
   listProfiles,
@@ -19,9 +28,50 @@ const AppStateContext = createContext(null)
 
 export function AppStateProvider({ children }) {
   const [store, setStore] = useState(() => loadStore())
+  const [syncNote, setSyncNote] = useState('')
+  const skipNextPush = useRef(false)
+
+  const commit = (updater) => {
+    setStore((prev) => {
+      const next = typeof updater === 'function' ? updater(prev) : updater
+      return { ...next, updatedAt: Date.now() }
+    })
+  }
+
+  useEffect(() => {
+    let cancelled = false
+    const local = loadStore()
+    if (!local.familyCloudId) return undefined
+    pullFamilyCloud(local.familyCloudId)
+      .then((remote) => {
+        if (cancelled) return
+        if ((remote.updatedAt || 0) >= (local.updatedAt || 0)) {
+          skipNextPush.current = true
+          setStore(applyCloudStore(local, remote))
+          setSyncNote('Loaded latest scores from the family cloud.')
+        }
+      })
+      .catch(() => {})
+    return () => {
+      cancelled = true
+    }
+    // Pull once when the app opens on this device.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   useEffect(() => {
     saveStore(store)
+    if (!store.familyCloudId) return undefined
+    if (skipNextPush.current) {
+      skipNextPush.current = false
+      return undefined
+    }
+    const timer = window.setTimeout(() => {
+      pushFamilyCloud(store)
+        .then(() => setSyncNote('Scores saved to the family cloud.'))
+        .catch(() => setSyncNote('Cloud save failed. Download a backup file.'))
+    }, 900)
+    return () => window.clearTimeout(timer)
   }, [store])
 
   const profile = activeProfile(store)
@@ -50,19 +100,21 @@ export function AppStateProvider({ children }) {
       pool,
       stats,
       hasFamilyPin: Boolean(store.familyPinHash),
+      familyCloudId: store.familyCloudId || '',
+      syncNote,
       setSelectedList: (selectedList) =>
-        setStore((prev) => updateActiveProfile(prev, { selectedList })),
+        commit((prev) => updateActiveProfile(prev, { selectedList })),
       setPoolMode: (poolMode) =>
-        setStore((prev) => updateActiveProfile(prev, { poolMode })),
+        commit((prev) => updateActiveProfile(prev, { poolMode })),
       setSpeech: (patch) =>
-        setStore((prev) =>
+        commit((prev) =>
           updateActiveProfile(prev, (current) => ({
             ...current,
             speech: { ...current.speech, ...patch },
           })),
         ),
       markResult: (wordId, result) => {
-        setStore((prev) =>
+        commit((prev) =>
           updateActiveProfile(prev, (current) => {
             const statsForWord = wordProgress(current, current.selectedList, wordId)
             if (result === 'correct') {
@@ -81,7 +133,7 @@ export function AppStateProvider({ children }) {
         )
       },
       lock: () =>
-        setStore((prev) => ({
+        commit((prev) => ({
           ...prev,
           currentProfileId: null,
         })),
@@ -107,17 +159,59 @@ export function AppStateProvider({ children }) {
           profile = { ...profile, pinSalt: newSalt() }
           profile.pinHash = await hashPin(kidClean, profile.pinSalt)
         }
-        setStore({
+        const next = {
           familyPinSalt,
           familyPinHash,
+          familyCloudId: '',
           currentProfileId: profile.id,
           profiles: { [profile.id]: profile },
+        }
+        try {
+          next.familyCloudId = await createFamilyCloud(next)
+          setSyncNote('Family cloud created. Copy the code onto other devices.')
+        } catch (err) {
+          setSyncNote(err.message || 'Cloud unavailable. Download a backup file.')
+        }
+        commit(next)
+      },
+      async joinFamily(code) {
+        const trimmed = String(code || '').trim()
+        const remote = trimmed.startsWith('{')
+          ? JSON.parse(trimmed)
+          : await pullFamilyCloud(trimmed)
+        if (!remote?.profiles) throw new Error('That family backup is not valid.')
+        skipNextPush.current = true
+        commit({
+          ...applyCloudStore(store, remote),
+          currentProfileId: null,
+          familyCloudId: remote.familyCloudId || store.familyCloudId || '',
+        })
+        setSyncNote('This device joined the family. Pick a kid to continue.')
+      },
+      async copyFamilyJson() {
+        await navigator.clipboard.writeText(JSON.stringify(cloudPayload(store)))
+      },
+      async importFamilyBackup(file) {
+        const remote = await readFamilyBackupFile(file)
+        skipNextPush.current = true
+        commit({
+          ...applyCloudStore(store, remote),
+          currentProfileId: null,
+          familyCloudId: remote.familyCloudId || store.familyCloudId || '',
         })
       },
+      async ensureFamilyCloud() {
+        if (store.familyCloudId) return store.familyCloudId
+        const id = await createFamilyCloud(store)
+        commit((prev) => ({ ...prev, familyCloudId: id }))
+        setSyncNote('Family cloud created. Copy this code onto the iPad.')
+        return id
+      },
+      downloadBackup: () => downloadFamilyBackup(store),
       async setFamilyPin(pin) {
         const clean = normalizePin(pin)
         if (!clean) {
-          setStore((prev) => ({
+          commit((prev) => ({
             ...prev,
             familyPinSalt: '',
             familyPinHash: '',
@@ -127,7 +221,7 @@ export function AppStateProvider({ children }) {
         if (!pinLooksValid(clean)) throw new Error('Family PIN must be 4–12 digits.')
         const salt = newSalt()
         const pinHash = await hashPin(clean, salt)
-        setStore((prev) => ({
+        commit((prev) => ({
           ...prev,
           familyPinSalt: salt,
           familyPinHash: pinHash,
@@ -150,7 +244,7 @@ export function AppStateProvider({ children }) {
           }
           profile.pinHash = await hashPin(clean, profile.pinSalt)
         }
-        setStore((prev) => ({
+        commit((prev) => ({
           ...prev,
           currentProfileId: profile.id,
           profiles: { ...prev.profiles, [profile.id]: profile },
@@ -164,25 +258,23 @@ export function AppStateProvider({ children }) {
           const ok = await pinsMatch(pin, target.pinSalt, target.pinHash)
           if (!ok) throw new Error('That PIN does not match.')
         }
-        setStore((prev) => ({ ...prev, currentProfileId: profileId }))
+        commit((prev) => ({ ...prev, currentProfileId: profileId }))
       },
       async setProfilePin(profileId, pin) {
         const target = store.profiles[profileId]
         if (!target) throw new Error('That profile is missing.')
         const clean = normalizePin(pin)
         if (!clean) {
-          setStore((prev) =>
-            patchProfile(prev, profileId, { pinSalt: '', pinHash: '' }),
-          )
+          commit((prev) => patchProfile(prev, profileId, { pinSalt: '', pinHash: '' }))
           return
         }
         if (!pinLooksValid(clean)) throw new Error('Kid PIN must be 4–12 digits.')
         const salt = newSalt()
         const pinHash = await hashPin(clean, salt)
-        setStore((prev) => patchProfile(prev, profileId, { pinSalt: salt, pinHash }))
+        commit((prev) => patchProfile(prev, profileId, { pinSalt: salt, pinHash }))
       },
       deleteProfile(profileId) {
-        setStore((prev) => {
+        commit((prev) => {
           const profiles = { ...prev.profiles }
           delete profiles[profileId]
           return {
@@ -194,7 +286,7 @@ export function AppStateProvider({ children }) {
         })
       },
     }),
-    [store, profile, list, words, pool, stats],
+    [store, profile, list, words, pool, stats, syncNote],
   )
 
   return (

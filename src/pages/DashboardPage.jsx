@@ -82,11 +82,16 @@ function FamilySettings() {
     profile,
     profiles,
     hasFamilyPin,
+    familyCloudId,
+    syncNote,
     verifyFamilyPin,
     setFamilyPin,
     setProfilePin,
     deleteProfile,
     lock,
+    ensureFamilyCloud,
+    downloadBackup,
+    copyFamilyJson,
   } = useAppState()
   const [familyPin, setFamilyPinValue] = useState('')
   const [newFamilyPin, setNewFamilyPin] = useState('')
@@ -118,9 +123,64 @@ function FamilySettings() {
     <div className="rounded-3xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-200 sm:p-8">
       <h3 className="font-bold">Family profiles</h3>
       <p className="mt-1 text-sm text-slate-600">
-        Change PINs or remove a kid. Other kids in this browser: {' '}
+        Change PINs or remove a kid. Kids in this family:{' '}
         {profiles.map((p) => p.name).join(', ')}.
       </p>
+
+      <div className="mt-4 rounded-2xl bg-amber-50 p-4">
+        <p className="text-sm font-semibold">Family code (all devices)</p>
+        <p className="mt-1 text-xs text-slate-600">
+          On the iPad, choose <strong>This family already exists</strong> and
+          paste this code so scores stay in one place.
+        </p>
+        <p className="mt-2 break-all font-mono text-xs">
+          {familyCloudId || 'Not created yet'}
+        </p>
+        <div className="mt-3 flex flex-wrap gap-2">
+          <button
+            type="button"
+            className="rounded-xl bg-white px-3 py-2 text-sm font-bold ring-1 ring-amber-200"
+            onClick={() =>
+              run(async () => {
+                const id = familyCloudId || (await ensureFamilyCloud())
+                await navigator.clipboard.writeText(id)
+              }, 'Family code copied.')
+            }
+          >
+            Copy family code
+          </button>
+          <button
+            type="button"
+            className="rounded-xl bg-white px-3 py-2 text-sm font-bold ring-1 ring-amber-200"
+            onClick={() =>
+              run(async () => {
+                await ensureFamilyCloud()
+              }, 'Family cloud is ready.')
+            }
+          >
+            Create / refresh cloud
+          </button>
+          <button
+            type="button"
+            className="rounded-xl bg-white px-3 py-2 text-sm font-bold ring-1 ring-amber-200"
+            onClick={() => downloadBackup()}
+          >
+            Download backup file
+          </button>
+          <button
+            type="button"
+            className="rounded-xl bg-white px-3 py-2 text-sm font-bold ring-1 ring-amber-200"
+            onClick={() =>
+              run(async () => {
+                await copyFamilyJson()
+              }, 'Family backup copied. Paste it on the iPad join screen.')
+            }
+          >
+            Copy backup JSON
+          </button>
+        </div>
+        {syncNote ? <p className="mt-2 text-xs text-slate-600">{syncNote}</p> : null}
+      </div>
       {hasFamilyPin ? (
         <label className="mt-4 block text-sm font-semibold">
           Family PIN (required for changes)
