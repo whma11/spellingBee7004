@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Segoe UI", "Trebuchet MS", system-ui, sans-serif;
+  --color-honey: #f4c430;
+  --color-honey-dark: #c99212;
+  --color-ink: #1c2a3a;
+  --color-paper: #fff8eb;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #fff3c4 0%, #fff8eb 42%, #f3e6c8 100%);
+  color: var(--color-ink);
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 3px solid #f4c430;
+  outline-offset: 2px;
+}
