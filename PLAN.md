@@ -103,13 +103,13 @@ If that session feels good, the app is ready to **use daily**. Code polish can w
 
 Do these in order. Stop when the app is useful enough.
 
-### 1. Deploy (when you want it on a phone/iPad without `npm`)
+### 1. Deploy
 
-- Commit the repo (only when you ask).
-- Push to GitHub.
-- Enable GitHub Pages from `dist/` or add a GitHub Action (`npm run build` → `gh-pages`), **or** import the repo on Vercel (zero config).
+GitHub Action `.github/workflows/pages.yml` builds `dist/` and publishes GitHub Pages from `main`.
 
-Until then, `npm run dev` or `npm run preview` after a build is enough at home.
+Live URL: https://whma11.github.io/spellingBee7004/
+
+Progress is per browser/device (not synced). On iPad: Safari → Share → Add to Home Screen.
 
 ### 2. Sentence quality
 

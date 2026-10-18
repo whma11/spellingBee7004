@@ -1,0 +1,16 @@
+{
+  "name": "Spelling Bee Practice",
+  "short_name": "Spelling Bee",
+  "description": "Family auditory spelling practice for UIL A+ lists.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8eb",
+  "theme_color": "#1c2a3a",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -28,6 +28,16 @@ python scripts/extract_uil_words.py
 
 That writes `src/data/grades-3-4.json` (600 words), `grades-5-6.json` (800), and `grades-7-8.json` (900).
 
+## Use on a phone or iPad (GitHub Pages)
+
+After the site is published (this repo’s **Deploy GitHub Pages** Action on `main`):
+
+1. On the phone/iPad, open Safari or Chrome and go to  
+   **https://whma11.github.io/spellingBee7004/**
+2. Profiles, PINs, and scores stay **in that browser on that device**. They do not sync from the computer.
+3. **iPad / iPhone:** Share → **Add to Home Screen** so it opens like an app.
+4. Tap **Sound word** once after opening so iOS allows speech.
+
 ## Production build
 
 ```bash
