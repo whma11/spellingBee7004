@@ -7,6 +7,7 @@ Working plan (what is done, what is next): [PLAN.md](./PLAN.md).
 - React + Vite, hosted as static files (GitHub Pages / Vercel)
 - Free on-device speech: browser `speechSynthesis` **or** open-source [eSpeak NG](https://github.com/espeak-ng/espeak-ng) (no cloud TTS)
 - Progress in `localStorage` (`isMastered`, `wrongCount`, daily trend)
+- Optional family PIN and per-kid PIN so siblings on the same device keep separate dashboards
 
 ## Run locally
 

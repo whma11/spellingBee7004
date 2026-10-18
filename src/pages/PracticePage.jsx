@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import GradeListPicker from '../components/GradeListPicker'
 import SpeechControls from '../components/SpeechControls'
 import { useAppState } from '../state/AppState'
 import { pickNextWord } from '../lib/pool'
@@ -64,9 +65,10 @@ export default function PracticePage() {
         <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
           <div>
             <h2 className="text-xl font-bold">Spell tab</h2>
-            <p className="text-sm text-slate-600">
-              {list.label} · {state.poolMode === 'ALL_WORDS' ? 'all words' : 'unlearned & difficult'}
+            <p className="mb-3 text-sm text-slate-600">
+              {state.poolMode === 'ALL_WORDS' ? 'all words' : 'unlearned & difficult'}
             </p>
+            <GradeListPicker compact />
           </div>
           <button
             type="button"

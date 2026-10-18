@@ -32,7 +32,8 @@ Parent-run, **screen-free** spelling drill. The child listens; the parent taps *
 | Grade list picker | Done (Progress tab) |
 | Counters: mastered / difficult / remaining | Done |
 | SVG daily trend from LocalStorage | Done |
-| Persist in this browser | Done (`localStorage` key `spellingBee7004.v1`) |
+| Persist in this browser | Done (`localStorage` key `spellingBee7004.v2`) |
+| Per-kid profiles with optional family/kid PINs | Done (on-device only) |
 | Free static hosting | **Not done** |
 | Git commit / GitHub remote | **Not done** (working tree is still uncommitted) |
 

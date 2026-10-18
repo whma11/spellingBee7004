@@ -1,42 +1,24 @@
+import { useState } from 'react'
+import GradeListPicker from '../components/GradeListPicker'
 import TrendChart from '../components/TrendChart'
-import { LIST_IDS, POOL_MODES, WORD_LISTS } from '../data/lists'
+import { POOL_MODES } from '../data/lists'
+import { pinLooksValid } from '../lib/pin'
 import { useAppState } from '../state/AppState'
 
 export default function DashboardPage() {
-  const { state, list, stats, setSelectedList, setPoolMode } = useAppState()
+  const { state, list, stats, setPoolMode, profile } = useAppState()
 
   return (
     <section className="space-y-6">
       <div className="rounded-3xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-200 sm:p-8">
-        <h2 className="text-xl font-bold">Progress & configuration</h2>
+        <h2 className="text-xl font-bold">{profile.name}’s progress</h2>
         <p className="mt-1 text-sm text-slate-600">
-          Choose a UIL division and the practice pool. Metrics stay in this
-          browser via LocalStorage.
+          Choose a UIL division and the practice pool. Scores and the trend
+          chart belong only to this kid on this device.
         </p>
 
         <div className="mt-6 grid gap-6 md:grid-cols-2">
-          <fieldset>
-            <legend className="mb-2 text-sm font-semibold">Spelling list</legend>
-            <div className="space-y-2">
-              {LIST_IDS.map((id) => (
-                <label key={id} className="flex items-start gap-2 text-sm">
-                  <input
-                    type="radio"
-                    name="list"
-                    checked={state.selectedList === id}
-                    onChange={() => setSelectedList(id)}
-                    className="mt-1"
-                  />
-                  <span>
-                    <span className="font-semibold">{WORD_LISTS[id].label}</span>
-                    <span className="block text-slate-600">
-                      {WORD_LISTS[id].words.length} words · {WORD_LISTS[id].contestNote}
-                    </span>
-                  </span>
-                </label>
-              ))}
-            </div>
-          </fieldset>
+          <GradeListPicker />
 
           <fieldset>
             <legend className="mb-2 text-sm font-semibold">Word pool</legend>
@@ -85,11 +67,157 @@ export default function DashboardPage() {
       <div className="rounded-3xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-200 sm:p-8">
         <h3 className="font-bold">Daily trend</h3>
         <p className="mb-4 text-sm text-slate-600">
-          Correct and incorrect marks saved for the last 14 days in this browser.
+          Correct and incorrect marks for {profile.name} over the last 14 days.
         </p>
         <TrendChart history={state.history} />
       </div>
+
+      <FamilySettings />
     </section>
+  )
+}
+
+function FamilySettings() {
+  const {
+    profile,
+    profiles,
+    hasFamilyPin,
+    verifyFamilyPin,
+    setFamilyPin,
+    setProfilePin,
+    deleteProfile,
+    lock,
+  } = useAppState()
+  const [familyPin, setFamilyPinValue] = useState('')
+  const [newFamilyPin, setNewFamilyPin] = useState('')
+  const [kidPin, setKidPin] = useState('')
+  const [message, setMessage] = useState('')
+  const [error, setError] = useState('')
+
+  const requireFamily = async () => {
+    if (!hasFamilyPin) return true
+    const ok = await verifyFamilyPin(familyPin)
+    if (!ok) throw new Error('Enter the family PIN first.')
+    return true
+  }
+
+  const run = async (fn, success) => {
+    setError('')
+    setMessage('')
+    try {
+      await fn()
+      setMessage(success)
+      setKidPin('')
+      setNewFamilyPin('')
+    } catch (err) {
+      setError(err.message || 'Could not update.')
+    }
+  }
+
+  return (
+    <div className="rounded-3xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-200 sm:p-8">
+      <h3 className="font-bold">Family profiles</h3>
+      <p className="mt-1 text-sm text-slate-600">
+        Change PINs or remove a kid. Other kids in this browser: {' '}
+        {profiles.map((p) => p.name).join(', ')}.
+      </p>
+      {hasFamilyPin ? (
+        <label className="mt-4 block text-sm font-semibold">
+          Family PIN (required for changes)
+          <input
+            type="password"
+            inputMode="numeric"
+            className="mt-1 w-full max-w-xs rounded-xl border border-amber-200 px-3 py-2 font-normal"
+            value={familyPin}
+            onChange={(e) => setFamilyPinValue(e.target.value)}
+          />
+        </label>
+      ) : (
+        <p className="mt-3 text-sm text-slate-600">
+          No family PIN is set. Anyone using this browser can add or delete
+          profiles.
+        </p>
+      )}
+
+      <label className="mt-4 block text-sm font-semibold">
+        New family PIN (blank removes it)
+        <div className="mt-1 flex flex-wrap gap-2">
+          <input
+            type="password"
+            inputMode="numeric"
+            className="rounded-xl border border-amber-200 px-3 py-2 font-normal"
+            value={newFamilyPin}
+            onChange={(e) => setNewFamilyPin(e.target.value)}
+            placeholder="4–12 digits"
+          />
+          <button
+            type="button"
+            className="rounded-xl bg-amber-100 px-3 py-2 text-sm font-bold"
+            onClick={() =>
+              run(async () => {
+                await requireFamily()
+                if (newFamilyPin && !pinLooksValid(newFamilyPin)) {
+                  throw new Error('Family PIN must be 4–12 digits.')
+                }
+                await setFamilyPin(newFamilyPin)
+              }, 'Family PIN updated.')
+            }
+          >
+            Save family PIN
+          </button>
+        </div>
+      </label>
+
+      <label className="mt-4 block text-sm font-semibold">
+        New PIN for {profile.name} (blank removes it)
+        <div className="mt-1 flex flex-wrap gap-2">
+          <input
+            type="password"
+            inputMode="numeric"
+            className="rounded-xl border border-amber-200 px-3 py-2 font-normal"
+            value={kidPin}
+            onChange={(e) => setKidPin(e.target.value)}
+            placeholder="4–12 digits"
+          />
+          <button
+            type="button"
+            className="rounded-xl bg-amber-100 px-3 py-2 text-sm font-bold"
+            onClick={() =>
+              run(async () => {
+                await requireFamily()
+                await setProfilePin(profile.id, kidPin)
+              }, `${profile.name}’s PIN updated.`)
+            }
+          >
+            Save kid PIN
+          </button>
+        </div>
+      </label>
+
+      <button
+        type="button"
+        className="mt-6 rounded-xl border border-red-300 bg-white px-3 py-2 text-sm font-bold text-red-800"
+        onClick={() =>
+          run(async () => {
+            await requireFamily()
+            if (
+              !window.confirm(
+                `Delete ${profile.name}’s profile and all of their scores on this device?`,
+              )
+            ) {
+              throw new Error('Delete canceled.')
+            }
+            deleteProfile(profile.id)
+            lock()
+          }, 'Profile deleted.')
+        }
+      >
+        Delete {profile.name}’s profile
+      </button>
+
+      {error ? <p className="mt-3 text-sm font-medium text-red-800">{error}</p> : null}
+      {message ? <p className="mt-3 text-sm font-medium text-green-800">{message}</p> : null}
+    </div>
   )
 }
 

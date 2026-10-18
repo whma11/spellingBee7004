@@ -1,4 +1,5 @@
 import { NavLink, Outlet } from 'react-router-dom'
+import ProfileBar from './ProfileBar'
 
 const linkClass = ({ isActive }) =>
   [
@@ -24,14 +25,17 @@ export default function Layout() {
             let the browser speak the word and sentences.
           </p>
         </div>
-        <nav className="flex gap-2">
-          <NavLink to="/practice" className={linkClass}>
-            Spell
-          </NavLink>
-          <NavLink to="/dashboard" className={linkClass}>
-            Progress
-          </NavLink>
-        </nav>
+        <div className="flex flex-col items-start gap-3 sm:items-end">
+          <ProfileBar />
+          <nav className="flex gap-2">
+            <NavLink to="/practice" className={linkClass}>
+              Spell
+            </NavLink>
+            <NavLink to="/dashboard" className={linkClass}>
+              Progress
+            </NavLink>
+          </nav>
+        </div>
       </header>
       <main className="flex-1">
         <Outlet />
