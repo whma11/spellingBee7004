@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "share": "vite preview --host --port 4173",
     "extract-words": "python scripts/extract_uil_words.py",
     "apply-sentences": "python scripts/apply_kid_sentences.py"
   },

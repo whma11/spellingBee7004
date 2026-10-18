@@ -28,15 +28,27 @@ python scripts/extract_uil_words.py
 
 That writes `src/data/grades-3-4.json` (600 words), `grades-5-6.json` (800), and `grades-7-8.json` (900).
 
-## Use on a phone or iPad (GitHub Pages)
+## Use on a phone or iPad
 
-After the site is published (this repo’s **Deploy GitHub Pages** Action on `main`):
+Scores live **in the browser on that device**. They do not copy from the PC. Use Safari on iPhone/iPad, then Share → **Add to Home Screen**. Tap **Sound word** once so iOS allows speech.
 
-1. On the phone/iPad, open Safari or Chrome and go to  
-   **https://whma11.github.io/spellingBee7004/**
-2. Profiles, PINs, and scores stay **in that browser on that device**. They do not sync from the computer.
-3. **iPad / iPhone:** Share → **Add to Home Screen** so it opens like an app.
-4. Tap **Sound word** once after opening so iOS allows speech.
+This GitHub repo is **private**. Free GitHub Pages only works for public repos, so pick one path:
+
+### A. Same Wi‑Fi as the PC (repo stays private)
+
+On the PC, with the app already installed:
+
+```bash
+npm run build
+npm run share
+```
+
+On the phone/iPad, open the Network URL Vite prints (looks like `http://192.168.x.x:4173`). The PC must stay on.
+
+### B. Public website (works away from home)
+
+1. **Vercel (recommended if you want the GitHub repo to stay private):** open [vercel.com/new](https://vercel.com/new), import `whma11/spellingBee7004`, deploy. You get a `*.vercel.app` link.
+2. **GitHub Pages:** make the repo public (GitHub → Settings → Change visibility), then re-run the **Deploy GitHub Pages** Action. URL: **https://whma11.github.io/spellingBee7004/**
 
 ## Production build
 

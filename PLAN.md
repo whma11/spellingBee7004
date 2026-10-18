@@ -105,9 +105,9 @@ Do these in order. Stop when the app is useful enough.
 
 ### 1. Deploy
 
-GitHub Action `.github/workflows/pages.yml` builds `dist/` and publishes GitHub Pages from `main`.
+GitHub Action `.github/workflows/pages.yml` is ready, but **private repos cannot use free GitHub Pages**. Options: Vercel import (repo stays private) or make the GitHub repo public, then re-run the Action.
 
-Live URL: https://whma11.github.io/spellingBee7004/
+URL if Pages is enabled: https://whma11.github.io/spellingBee7004/
 
 Progress is per browser/device (not synced). On iPad: Safari → Share → Add to Home Screen.
 
