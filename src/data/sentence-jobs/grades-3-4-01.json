@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "word": "ability",
+    "sentence1": "Maya showed great ability when she solved the puzzle alone.",
+    "sentence2": "His ability on the soccer field helped the whole team."
+  },
+  {
+    "id": 2,
+    "word": "aboveground",
+    "sentence1": "The rabbits stayed aboveground until the rain finally stopped.",
+    "sentence2": "Our garden hose runs aboveground beside the flower beds."
+  },
+  {
+    "id": 3,
+    "word": "absolute",
+    "sentence1": "Mom said we need absolute quiet during the baby's nap.",
+    "sentence2": "The coach asked for absolute focus before the first pitch."
+  },
+  {
+    "id": 4,
+    "word": "absorb",
+    "sentence1": "The sponge will absorb the spilled juice on the counter.",
+    "sentence2": "Dry soil can absorb a lot of water after rain."
+  },
+  {
+    "id": 5,
+    "word": "adapt",
+    "sentence1": "Plants adapt when the weather turns hotter each summer.",
+    "sentence2": "New students adapt quickly when classmates are kind."
+  },
+  {
+    "id": 6,
+    "word": "address",
+    "sentence1": "Put the address neatly on the front of the envelope.",
+    "sentence2": "We visited the address printed on the birthday invitation."
+  },
+  {
+    "id": 7,
+    "word": "adobe",
+    "sentence1": "The museum showed an adobe house from long ago.",
+    "sentence2": "Workers mixed clay to repair the old adobe wall."
+  },
+  {
+    "id": 8,
+    "word": "adventure",
+    "sentence1": "Our camping trip felt like a real adventure in the woods.",
+    "sentence2": "The library book followed an adventure across a wide river."
+  },
+  {
+    "id": 9,
+    "word": "affectionate",
+    "sentence1": "The affectionate puppy curled up beside my sister.",
+    "sentence2": "Grandma is affectionate and always greets us with a hug."
+  },
+  {
+    "id": 10,
+    "word": "against",
+    "sentence1": "Lean the rake against the fence after yard work.",
+    "sentence2": "Our team played against the visitors on Saturday morning."
+  },
+  {
+    "id": 11,
+    "word": "agitate",
+    "sentence1": "Please do not agitate the fish by tapping the tank.",
+    "sentence2": "Strong wind can agitate the lake until the boats rock."
+  },
+  {
+    "id": 12,
+    "word": "airplane",
+    "sentence1": "The airplane flew above the clouds on our trip.",
+    "sentence2": "We built a paper airplane and tested it outdoors."
+  },
+  {
+    "id": 13,
+    "word": "album",
+    "sentence1": "Mom filled the album with photos from our picnic.",
+    "sentence2": "The class made an album of drawings from the farm visit."
+  },
+  {
+    "id": 14,
+    "word": "alligator",
+    "sentence1": "We saw an alligator resting near the pond at the zoo.",
+    "sentence2": "The science video showed an alligator swimming through calm water."
+  },
+  {
+    "id": 15,
+    "word": "allspice",
+    "sentence1": "Dad added allspice to the warm apple muffins.",
+    "sentence2": "The cookie recipe called for a pinch of allspice."
+  },
+  {
+    "id": 16,
+    "word": "allusion",
+    "sentence1": "The poem made an allusion to a familiar fairy tale.",
+    "sentence2": "Her joke was an allusion to yesterday's soccer win."
+  },
+  {
+    "id": 17,
+    "word": "almost",
+    "sentence1": "We almost missed the bus because the toast burned.",
+    "sentence2": "The kite almost reached the tallest tree in the park."
+  },
+  {
+    "id": 18,
+    "word": "aloha",
+    "sentence1": "The dancers said aloha as they welcomed every guest.",
+    "sentence2": "We learned to say aloha before our class luau."
+  },
+  {
+    "id": 19,
+    "word": "alternate",
+    "sentence1": "Please alternate colors when you hang the party cups.",
+    "sentence2": "The coach will alternate players so everyone gets a turn."
+  },
+  {
+    "id": 20,
+    "word": "amber",
+    "sentence1": "An amber light glowed from the porch at dusk.",
+    "sentence2": "The necklace held a tiny insect in golden amber."
+  },
+  {
+    "id": 21,
+    "word": "ancestor",
+    "sentence1": "Grandpa told us about an ancestor who planted this farm.",
+    "sentence2": "The museum photo showed an ancestor wearing a long coat."
+  },
+  {
+    "id": 22,
+    "word": "annoy",
+    "sentence1": "Loud tapping can annoy people who are reading nearby.",
+    "sentence2": "Please do not annoy the cat while she is sleeping."
+  },
+  {
+    "id": 23,
+    "word": "appear",
+    "sentence1": "Stars appear after sunset if the sky is clear.",
+    "sentence2": "The magician made a coin appear in his empty hand."
+  },
+  {
+    "id": 24,
+    "word": "appetite",
+    "sentence1": "Fresh air gave us a big appetite after the hike.",
+    "sentence2": "Soup can restore your appetite when you feel tired."
+  },
+  {
+    "id": 25,
+    "word": "appoint",
+    "sentence1": "The teacher will appoint a line leader for Friday.",
+    "sentence2": "Our club will appoint a new helper next week."
+  },
+  {
+    "id": 26,
+    "word": "arrive",
+    "sentence1": "Guests will arrive at noon for the picnic lunch.",
+    "sentence2": "The school bus should arrive before the bell rings."
+  },
+  {
+    "id": 27,
+    "word": "article",
+    "sentence1": "She wrote an article about recycling for the class paper.",
+    "sentence2": "Dad read an article about garden birds at breakfast."
+  },
+  {
+    "id": 28,
+    "word": "aspirin",
+    "sentence1": "Grandma keeps aspirin in the high kitchen cabinet.",
+    "sentence2": "The nurse said aspirin is only for grown-ups."
+  },
+  {
+    "id": 29,
+    "word": "assign",
+    "sentence1": "The teacher will assign partners for the science project.",
+    "sentence2": "Coaches assign positions before the first soccer drill."
+  },
+  {
+    "id": 30,
+    "word": "astonish",
+    "sentence1": "Card tricks astonish my little brother every time.",
+    "sentence2": "Bright fireworks astonish the crowd at the fair."
+  },
+  {
+    "id": 31,
+    "word": "atmosphere",
+    "sentence1": "Earth has an atmosphere that helps us breathe.",
+    "sentence2": "The party atmosphere felt warm and friendly in the gym."
+  },
+  {
+    "id": 32,
+    "word": "auction",
+    "sentence1": "The school held an auction to buy new library books.",
+    "sentence2": "We watched an auction of old farm tools on Saturday."
+  },
+  {
+    "id": 33,
+    "word": "autograph",
+    "sentence1": "The pitcher signed an autograph for every young fan.",
+    "sentence2": "I taped the autograph inside my notebook at home."
+  },
+  {
+    "id": 34,
+    "word": "average",
+    "sentence1": "Our team's average score improved after extra drills.",
+    "sentence2": "The average apple in the basket weighed about one pound."
+  },
+  {
+    "id": 35,
+    "word": "babble",
+    "sentence1": "The baby likes to babble while playing with blocks.",
+    "sentence2": "A small brook can babble over rocks in the woods."
+  },
+  {
+    "id": 36,
+    "word": "backpack",
+    "sentence1": "Pack your backpack with a lunch and a water bottle.",
+    "sentence2": "Her backpack bounced as she ran toward the playground."
+  },
+  {
+    "id": 37,
+    "word": "bait",
+    "sentence1": "We put bait on the hook before fishing at the lake.",
+    "sentence2": "Birds ate the bait we left near the garden fence."
+  },
+  {
+    "id": 38,
+    "word": "balance",
+    "sentence1": "Try to balance on one foot during gym class.",
+    "sentence2": "The recipe needs a balance of sweet and tart fruit."
+  },
+  {
+    "id": 39,
+    "word": "ballad",
+    "sentence1": "Grandma sang a ballad about a river and a boat.",
+    "sentence2": "Our choir learned a ballad for the spring concert."
+  },
+  {
+    "id": 40,
+    "word": "bark",
+    "sentence1": "The dog's bark woke us before the alarm clock.",
+    "sentence2": "Rough bark covered the old oak beside the trail."
+  },
+  {
+    "id": 41,
+    "word": "barrel",
+    "sentence1": "Rainwater filled the barrel beside the garden shed.",
+    "sentence2": "The orchard kept a barrel of apples for visitors."
+  },
+  {
+    "id": 42,
+    "word": "bashful",
+    "sentence1": "The bashful kitten hid under the living room chair.",
+    "sentence2": "A bashful student whispered the answer to a friend."
+  },
+  {
+    "id": 43,
+    "word": "beefy",
+    "sentence1": "The sandwich looked beefy with extra meat and cheese.",
+    "sentence2": "A beefy oak branch held the swing above the yard."
+  },
+  {
+    "id": 44,
+    "word": "beeper",
+    "sentence1": "Dad's old beeper buzzed during dinner last night.",
+    "sentence2": "The nurse carried a beeper on her belt at work."
+  },
+  {
+    "id": 45,
+    "word": "beige",
+    "sentence1": "She chose a beige sweater for the school photo.",
+    "sentence2": "The living room walls are a soft beige color."
+  },
+  {
+    "id": 46,
+    "word": "betray",
+    "sentence1": "A true friend will not betray a private secret.",
+    "sentence2": "Do not betray the team's plan before the big game."
+  },
+  {
+    "id": 47,
+    "word": "billion",
+    "sentence1": "Stars in the sky number more than a billion.",
+    "sentence2": "A billion grains of sand would fill a huge box."
+  },
+  {
+    "id": 48,
+    "word": "biology",
+    "sentence1": "In biology we studied how frogs grow from tadpoles.",
+    "sentence2": "The biology club planted flowers for visiting butterflies."
+  },
+  {
+    "id": 49,
+    "word": "bison",
+    "sentence1": "A bison grazed on the open prairie grass.",
+    "sentence2": "We watched a bison from the park's safe trail."
+  },
+  {
+    "id": 50,
+    "word": "blame",
+    "sentence1": "Do not blame your brother for the spilled milk.",
+    "sentence2": "The coach would not blame one player for the loss."
+  },
+  {
+    "id": 51,
+    "word": "blazing",
+    "sentence1": "A blazing sunset turned the lake a bright orange.",
+    "sentence2": "The blazing campfire kept us warm on the hill."
+  },
+  {
+    "id": 52,
+    "word": "blemish",
+    "sentence1": "One small blemish marked the otherwise perfect apple.",
+    "sentence2": "She covered a tiny blemish with a bandage before school."
+  },
+  {
+    "id": 53,
+    "word": "blender",
+    "sentence1": "Mom used the blender to make a strawberry smoothie.",
+    "sentence2": "We washed the blender after mixing pancake batter."
+  },
+  {
+    "id": 54,
+    "word": "blockage",
+    "sentence1": "Leaves caused a blockage in the backyard drain.",
+    "sentence2": "A toy boat created a blockage in the creek."
+  },
+  {
+    "id": 55,
+    "word": "blush",
+    "sentence1": "I felt a blush when the class clapped for me.",
+    "sentence2": "Ripe peaches blush pink on the sunny side."
+  },
+  {
+    "id": 56,
+    "word": "boring",
+    "sentence1": "The long meeting felt boring until snacks arrived.",
+    "sentence2": "A boring rainy afternoon turned fun with board games."
+  },
+  {
+    "id": 57,
+    "word": "bossy",
+    "sentence1": "Please do not be bossy when we share toys.",
+    "sentence2": "The bossy goose chased us away from the bread."
+  },
+  {
+    "id": 58,
+    "word": "bracelet",
+    "sentence1": "Grandma gave me a bracelet made of tiny shells.",
+    "sentence2": "She wore a friendship bracelet to the school picnic."
+  },
+  {
+    "id": 59,
+    "word": "bravery",
+    "sentence1": "It takes bravery to try a new sport in gym.",
+    "sentence2": "The class story praised the bravery of a kind helper."
+  },
+  {
+    "id": 60,
+    "word": "bristle",
+    "sentence1": "A stiff bristle on the brush cleaned the muddy boots.",
+    "sentence2": "Cats bristle when they hear a sudden loud sound."
+  },
+  {
+    "id": 61,
+    "word": "broaden",
+    "sentence1": "Travel can broaden your ideas about food and music.",
+    "sentence2": "Reading many books will broaden what you know."
+  },
+  {
+    "id": 62,
+    "word": "bronco",
+    "sentence1": "The brown bronco trotted around the dusty ranch.",
+    "sentence2": "At the fair a bronco waited behind the wooden fence."
+  },
+  {
+    "id": 63,
+    "word": "brother",
+    "sentence1": "My brother packed sandwiches for our hike together.",
+    "sentence2": "Her brother joined the choir at school this year."
+  },
+  {
+    "id": 64,
+    "word": "budget",
+    "sentence1": "We made a budget for snacks at the ball game.",
+    "sentence2": "Mom's weekly budget includes fruit, milk, and bread."
+  },
+  {
+    "id": 65,
+    "word": "built-in",
+    "sentence1": "The built-in shelves hold all of our board games.",
+    "sentence2": "Our classroom has a built-in sink near the art table."
+  },
+  {
+    "id": 66,
+    "word": "business",
+    "sentence1": "They opened a lemonade business on the corner.",
+    "sentence2": "The family business sells fresh eggs at the market."
+  },
+  {
+    "id": 67,
+    "word": "cabinet",
+    "sentence1": "Plates belong in the cabinet above the kitchen stove.",
+    "sentence2": "The science cabinet holds magnets, rocks, and goggles."
+  },
+  {
+    "id": 68,
+    "word": "calm",
+    "sentence1": "The lake looked calm after the wind died down.",
+    "sentence2": "Take a calm breath before you kick the soccer ball."
+  },
+  {
+    "id": 69,
+    "word": "capsule",
+    "sentence1": "The vitamin capsule sat beside a glass of water.",
+    "sentence2": "A time capsule was buried under the new playground."
+  },
+  {
+    "id": 70,
+    "word": "capture",
+    "sentence1": "Players tried to capture the flag before recess ended.",
+    "sentence2": "I hoped to capture the butterfly in a photo."
+  },
+  {
+    "id": 71,
+    "word": "careful",
+    "sentence1": "Be careful when you carry the bowl of soup.",
+    "sentence2": "A careful hiker stays on the marked forest path."
+  },
+  {
+    "id": 72,
+    "word": "carrier",
+    "sentence1": "The mail carrier waved from the sidewalk this morning.",
+    "sentence2": "We put the cat in a carrier for the vet visit."
+  },
+  {
+    "id": 73,
+    "word": "category",
+    "sentence1": "Pick a category for your report, such as weather.",
+    "sentence2": "Apples belong in the fruit category at the market."
+  },
+  {
+    "id": 74,
+    "word": "cater",
+    "sentence1": "They will cater sandwiches for the class picnic.",
+    "sentence2": "Our neighbors cater soup and bread for the bake sale."
+  },
+  {
+    "id": 75,
+    "word": "catwalk",
+    "sentence1": "A wooden catwalk crossed the marsh so hikers stayed dry.",
+    "sentence2": "Workers used a catwalk high above the gym floor."
+  },
+  {
+    "id": 76,
+    "word": "ceiling",
+    "sentence1": "A fan hung from the ceiling in the warm classroom.",
+    "sentence2": "We painted the ceiling a light blue in my bedroom."
+  },
+  {
+    "id": 77,
+    "word": "celebrate",
+    "sentence1": "We will celebrate Grandma's birthday with a backyard picnic.",
+    "sentence2": "The team will celebrate after the last soccer match."
+  },
+  {
+    "id": 78,
+    "word": "central",
+    "sentence1": "The fountain sits in the central part of the park.",
+    "sentence2": "Our central hallway leads to the art room."
+  },
+  {
+    "id": 79,
+    "word": "century",
+    "sentence1": "A century lasts one hundred years in history class.",
+    "sentence2": "That oak has stood in the yard for a century."
+  },
+  {
+    "id": 80,
+    "word": "chapel",
+    "sentence1": "The quiet chapel stood beside the old stone school.",
+    "sentence2": "We toured a historic chapel on the field trip."
+  },
+  {
+    "id": 81,
+    "word": "choice",
+    "sentence1": "You have a choice of apple or orange juice.",
+    "sentence2": "Her first choice for the project was the rainforest."
+  },
+  {
+    "id": 82,
+    "word": "chrome",
+    "sentence1": "The bicycle's chrome handlebars shone in the sunlight.",
+    "sentence2": "Dad polished the chrome on the old toaster."
+  },
+  {
+    "id": 83,
+    "word": "circuit",
+    "sentence1": "Electricity travels around a circuit in science class.",
+    "sentence2": "Runners completed one circuit of the track before lunch."
+  },
+  {
+    "id": 84,
+    "word": "citrus",
+    "sentence1": "Fresh citrus fruit filled the bowl on the table.",
+    "sentence2": "We planted a citrus tree beside the garden path."
+  },
+  {
+    "id": 85,
+    "word": "climate",
+    "sentence1": "A desert climate is dry and often very hot.",
+    "sentence2": "Our climate here has mild winters and warm springs."
+  },
+  {
+    "id": 86,
+    "word": "clumsy",
+    "sentence1": "The clumsy puppy tripped over its own floppy ears.",
+    "sentence2": "I felt clumsy while learning to jump rope."
+  },
+  {
+    "id": 87,
+    "word": "comical",
+    "sentence1": "The comical hat made everyone at the party smile.",
+    "sentence2": "A comical goat stole a sandwich at the farm."
+  },
+  {
+    "id": 88,
+    "word": "commotion",
+    "sentence1": "A sudden commotion in the hall meant the bell rang.",
+    "sentence2": "Birds caused a commotion when the cat walked by."
+  },
+  {
+    "id": 89,
+    "word": "computer",
+    "sentence1": "We used the computer to type our class story.",
+    "sentence2": "Dad checked the computer for the weather before soccer."
+  },
+  {
+    "id": 90,
+    "word": "conceal",
+    "sentence1": "The bushes conceal the garden hose from the street.",
+    "sentence2": "Please do not conceal your library book under the bed."
+  },
+  {
+    "id": 91,
+    "word": "concept",
+    "sentence1": "Fractions were a new concept in math this week.",
+    "sentence2": "Sharing is an important concept on the playground."
+  },
+  {
+    "id": 92,
+    "word": "continue",
+    "sentence1": "Please continue reading until you finish the chapter.",
+    "sentence2": "The rain will continue through the afternoon picnic."
+  },
+  {
+    "id": 93,
+    "word": "contrary",
+    "sentence1": "The sky stayed blue, contrary to the morning forecast.",
+    "sentence2": "He held a contrary opinion about the best snack."
+  },
+  {
+    "id": 94,
+    "word": "copy",
+    "sentence1": "Please make a copy of the class newsletter for Mom.",
+    "sentence2": "I kept a copy of the recipe on the fridge."
+  },
+  {
+    "id": 95,
+    "word": "country",
+    "sentence1": "We drove through the country and saw grazing horses.",
+    "sentence2": "Each country on the map has its own flag."
+  },
+  {
+    "id": 96,
+    "word": "cranberry",
+    "sentence1": "Mom cooked cranberry sauce for the holiday dinner.",
+    "sentence2": "The muffin had a tart cranberry in every bite."
+  },
+  {
+    "id": 97,
+    "word": "create",
+    "sentence1": "We will create a mural for the cafeteria wall.",
+    "sentence2": "Birds create nests from grass, twigs, and string."
+  },
+  {
+    "id": 98,
+    "word": "creepy",
+    "sentence1": "My brother made a creepy face just to be silly.",
+    "sentence2": "The old attic felt creepy until we turned on lights."
+  },
+  {
+    "id": 99,
+    "word": "crowd",
+    "sentence1": "A crowd gathered to watch the parade downtown.",
+    "sentence2": "Please do not crowd the puppies in the small pen."
+  },
+  {
+    "id": 100,
+    "word": "curious",
+    "sentence1": "The curious kitten peeked into the open grocery bag.",
+    "sentence2": "Many curious students asked questions about the moon."
+  },
+  {
+    "id": 101,
+    "word": "curve",
+    "sentence1": "The road makes a curve beside the quiet pond.",
+    "sentence2": "She learned to curve the baseball toward home plate."
+  },
+  {
+    "id": 102,
+    "word": "custard",
+    "sentence1": "Warm custard was poured over the baked apples.",
+    "sentence2": "We made vanilla custard for dessert after dinner."
+  },
+  {
+    "id": 103,
+    "word": "dandruff",
+    "sentence1": "The puppy's dandruff showed on its dark winter coat.",
+    "sentence2": "Special shampoo can help with dandruff on your scalp."
+  },
+  {
+    "id": 104,
+    "word": "deaden",
+    "sentence1": "Thick curtains deaden street noise in our bedroom.",
+    "sentence2": "Soft mats deaden the sound of jumping in gym."
+  },
+  {
+    "id": 105,
+    "word": "decency",
+    "sentence1": "Simple decency means waiting your turn in line.",
+    "sentence2": "He showed decency by sharing his umbrella at recess."
+  },
+  {
+    "id": 106,
+    "word": "decimal",
+    "sentence1": "Place the decimal point carefully in your math answer.",
+    "sentence2": "The price used a decimal to show extra cents."
+  },
+  {
+    "id": 107,
+    "word": "decorate",
+    "sentence1": "We will decorate cupcakes for the class party.",
+    "sentence2": "Families decorate their porches with pumpkins in October."
+  },
+  {
+    "id": 108,
+    "word": "defeat",
+    "sentence1": "The team hoped to defeat the visitors on Saturday.",
+    "sentence2": "Extra study helped her defeat a tricky math problem."
+  },
+  {
+    "id": 109,
+    "word": "denim",
+    "sentence1": "He wore a denim jacket on the cool field trip.",
+    "sentence2": "Her denim overalls were perfect for painting class."
+  },
+  {
+    "id": 110,
+    "word": "density",
+    "sentence1": "We compared the density of a rock and a cork.",
+    "sentence2": "Fog's density made the morning walk feel cloudy."
+  },
+  {
+    "id": 111,
+    "word": "dependable",
+    "sentence1": "A dependable friend returns the toys you lend.",
+    "sentence2": "Our dependable old van started even in cold weather."
+  },
+  {
+    "id": 112,
+    "word": "describe",
+    "sentence1": "Please describe the butterfly you saw near the roses.",
+    "sentence2": "Mom asked me to describe the soup's smell at dinner."
+  },
+  {
+    "id": 113,
+    "word": "design",
+    "sentence1": "We will design a poster for the school fair.",
+    "sentence2": "The architect showed a design for the new library."
+  },
+  {
+    "id": 114,
+    "word": "detour",
+    "sentence1": "A fallen tree forced a detour around the park.",
+    "sentence2": "We took a detour to buy ice cream after the game."
+  },
+  {
+    "id": 115,
+    "word": "develop",
+    "sentence1": "Tadpoles develop into frogs in the pond each spring.",
+    "sentence2": "Good habits develop when you pack your bag at night."
+  },
+  {
+    "id": 116,
+    "word": "diamond",
+    "sentence1": "The baseball diamond was dusty after the dry week.",
+    "sentence2": "Grandma's ring had a small diamond in the center."
+  },
+  {
+    "id": 117,
+    "word": "dignity",
+    "sentence1": "Treat every classmate with dignity on the playground.",
+    "sentence2": "The old dog walked with dignity into the kitchen."
+  },
+  {
+    "id": 118,
+    "word": "dinner",
+    "sentence1": "We ate dinner on the porch during the cool evening.",
+    "sentence2": "The team shared pizza for dinner after the game."
+  },
+  {
+    "id": 119,
+    "word": "dinosaur",
+    "sentence1": "A huge dinosaur skeleton stood in the museum hall.",
+    "sentence2": "My little sister named her toy dinosaur Greenie."
+  },
+  {
+    "id": 120,
+    "word": "direction",
+    "sentence1": "Follow the direction of the arrows to the cafeteria.",
+    "sentence2": "The wind changed direction before the rain began."
+  },
+  {
+    "id": 121,
+    "word": "dishonest",
+    "sentence1": "Being dishonest about homework only causes more trouble.",
+    "sentence2": "The dishonest sign advertised free candy that was not free."
+  },
+  {
+    "id": 122,
+    "word": "dissolve",
+    "sentence1": "Sugar will dissolve quickly in the hot tea.",
+    "sentence2": "Salt crystals dissolve when we stir the soup."
+  },
+  {
+    "id": 123,
+    "word": "donate",
+    "sentence1": "We will donate coats to the winter clothing drive.",
+    "sentence2": "Please donate unused books to the school library."
+  },
+  {
+    "id": 124,
+    "word": "doodle",
+    "sentence1": "I like to doodle stars in the margin of notes.",
+    "sentence2": "She began to doodle a cat on a napkin at lunch."
+  },
+  {
+    "id": 125,
+    "word": "dose",
+    "sentence1": "The doctor measured a dose of cough syrup carefully.",
+    "sentence2": "One dose of plant food helped the tomatoes grow."
+  },
+  {
+    "id": 126,
+    "word": "dragonfly",
+    "sentence1": "A blue dragonfly hovered above the garden pond.",
+    "sentence2": "We photographed a dragonfly resting on a cattail."
+  },
+  {
+    "id": 127,
+    "word": "dream",
+    "sentence1": "Last night I had a dream about a giant garden.",
+    "sentence2": "Her dream is to join the school soccer team."
+  },
+  {
+    "id": 128,
+    "word": "drench",
+    "sentence1": "Sudden rain can drench you on the walk home.",
+    "sentence2": "We had to drench the dry garden after the heat."
+  },
+  {
+    "id": 129,
+    "word": "dribble",
+    "sentence1": "Learn to dribble the basketball with either hand.",
+    "sentence2": "Juice may dribble down the side of the cup."
+  },
+  {
+    "id": 130,
+    "word": "drover",
+    "sentence1": "The drover guided cattle along the dusty country road.",
+    "sentence2": "A drover waved from horseback near the open pasture."
+  },
+  {
+    "id": 131,
+    "word": "duet",
+    "sentence1": "They sang a duet at the spring music program.",
+    "sentence2": "My sister and I played a piano duet at home."
+  },
+  {
+    "id": 132,
+    "word": "dusk",
+    "sentence1": "Fireflies appeared at dusk near the backyard fence.",
+    "sentence2": "We packed the picnic as dusk settled over the lake."
+  },
+  {
+    "id": 133,
+    "word": "earmuff",
+    "sentence1": "One earmuff slipped off during the sled ride.",
+    "sentence2": "He packed an extra earmuff in his winter coat pocket."
+  },
+  {
+    "id": 134,
+    "word": "earthly",
+    "sentence1": "No earthly snack could beat Grandma's warm cookies.",
+    "sentence2": "The garden felt like an earthly treasure after rain."
+  },
+  {
+    "id": 135,
+    "word": "easiest",
+    "sentence1": "The easiest trail led around the quiet pond.",
+    "sentence2": "Adding ten was the easiest problem on the quiz."
+  },
+  {
+    "id": 136,
+    "word": "eclipse",
+    "sentence1": "We watched a solar eclipse through special safe glasses.",
+    "sentence2": "The lunar eclipse made the moon look faintly orange."
+  },
+  {
+    "id": 137,
+    "word": "economy",
+    "sentence1": "A strong economy means many people can find work.",
+    "sentence2": "We studied the town's economy at the farmer's market."
+  },
+  {
+    "id": 138,
+    "word": "edible",
+    "sentence1": "Only the edible berries should go into the pie.",
+    "sentence2": "The teacher showed which garden plants are edible."
+  },
+  {
+    "id": 139,
+    "word": "eggplant",
+    "sentence1": "Dad grilled eggplant with olive oil for dinner.",
+    "sentence2": "Purple eggplant hung from the vines in our garden."
+  },
+  {
+    "id": 140,
+    "word": "elective",
+    "sentence1": "Choir is my favorite elective this school year.",
+    "sentence2": "She chose art as an elective instead of band."
+  },
+  {
+    "id": 141,
+    "word": "eliminate",
+    "sentence1": "Extra raking will eliminate most leaves from the yard.",
+    "sentence2": "We must eliminate junk food from our team snacks."
+  },
+  {
+    "id": 142,
+    "word": "elsewhere",
+    "sentence1": "If this seat is taken, please sit elsewhere.",
+    "sentence2": "The missing glove was found elsewhere in the gym."
+  },
+  {
+    "id": 143,
+    "word": "elude",
+    "sentence1": "The firefly would elude our jars and fly away.",
+    "sentence2": "Hard riddles can elude even careful readers at first."
+  },
+  {
+    "id": 144,
+    "word": "embrace",
+    "sentence1": "The family shared a warm embrace at the airport.",
+    "sentence2": "Good teams embrace new players from the first day."
+  },
+  {
+    "id": 145,
+    "word": "enable",
+    "sentence1": "Ramp access will enable everyone to enter the library.",
+    "sentence2": "Extra time can enable you to finish the puzzle."
+  },
+  {
+    "id": 146,
+    "word": "enchilada",
+    "sentence1": "I ordered a cheese enchilada at the family restaurant.",
+    "sentence2": "Mom baked an enchilada casserole for Friday night."
+  },
+  {
+    "id": 147,
+    "word": "endless",
+    "sentence1": "The wheat field looked endless from the dusty road.",
+    "sentence2": "Recess felt endless when we played a long game."
+  },
+  {
+    "id": 148,
+    "word": "English",
+    "sentence1": "Our English class wrote poems about the river.",
+    "sentence2": "She practiced English with a pen pal overseas."
+  },
+  {
+    "id": 149,
+    "word": "enough",
+    "sentence1": "We packed enough water for the whole hiking group.",
+    "sentence2": "There was enough pizza for every player after the game."
+  },
+  {
+    "id": 150,
+    "word": "entirely",
+    "sentence1": "The cake was entirely gone before the guests arrived.",
+    "sentence2": "She felt entirely ready for the science fair."
+  },
+  {
+    "id": 151,
+    "word": "error",
+    "sentence1": "One error in addition changed the whole math answer.",
+    "sentence2": "The scoreboard showed an error and then the right score."
+  },
+  {
+    "id": 152,
+    "word": "escape",
+    "sentence1": "The hamster tried to escape from its open cage.",
+    "sentence2": "We planned an escape from the hot sun under trees."
+  },
+  {
+    "id": 153,
+    "word": "European",
+    "sentence1": "The map showed several European countries beside the sea.",
+    "sentence2": "We tasted European cheeses at the food festival."
+  },
+  {
+    "id": 154,
+    "word": "eventful",
+    "sentence1": "It was an eventful day with a parade and picnic.",
+    "sentence2": "Our eventful field trip included a farm and a mill."
+  },
+  {
+    "id": 155,
+    "word": "ever",
+    "sentence1": "No one had ever seen so many butterflies in the yard.",
+    "sentence2": "She is the kindest friend I have ever known."
+  },
+  {
+    "id": 156,
+    "word": "exercise",
+    "sentence1": "Daily exercise helps our class stay strong and alert.",
+    "sentence2": "Walking the dog is good exercise after dinner."
+  },
+  {
+    "id": 157,
+    "word": "expensive",
+    "sentence1": "That telescope is too expensive for our club budget.",
+    "sentence2": "Fresh berries can be expensive in the winter months."
+  },
+  {
+    "id": 158,
+    "word": "eyedropper",
+    "sentence1": "Use an eyedropper to add food coloring to the frosting.",
+    "sentence2": "The science kit included an eyedropper and a small cup."
+  },
+  {
+    "id": 159,
+    "word": "eyelash",
+    "sentence1": "One eyelash fell onto her cheek during class.",
+    "sentence2": "The costume had a sparkly fake eyelash on each eye."
+  },
+  {
+    "id": 160,
+    "word": "faithful",
+    "sentence1": "Our faithful dog waited by the door each afternoon.",
+    "sentence2": "She was a faithful helper in the school garden."
+  },
+  {
+    "id": 161,
+    "word": "falsehood",
+    "sentence1": "A falsehood about the homework only caused confusion.",
+    "sentence2": "Tell the truth, because a falsehood can hurt friends."
+  },
+  {
+    "id": 162,
+    "word": "famous",
+    "sentence1": "The famous baker visited our school cafeteria today.",
+    "sentence2": "A famous oak stands in the center of the park."
+  },
+  {
+    "id": 163,
+    "word": "fanciness",
+    "sentence1": "Extra fanciness made the cupcakes look like tiny gifts.",
+    "sentence2": "The costume's fanciness came from ribbons and glitter."
+  },
+  {
+    "id": 164,
+    "word": "fatal",
+    "sentence1": "Forgetting water can be fatal for a potted plant.",
+    "sentence2": "One missing piece was fatal to the whole puzzle."
+  },
+  {
+    "id": 165,
+    "word": "fault",
+    "sentence1": "It was not your fault that the balloon popped.",
+    "sentence2": "A crack along the fault showed in the clay model."
+  },
+  {
+    "id": 166,
+    "word": "fearless",
+    "sentence1": "The fearless kitten climbed the tallest bookshelf at home.",
+    "sentence2": "A fearless goalie blocked every shot in the game."
+  },
+  {
+    "id": 167,
+    "word": "feast",
+    "sentence1": "Thanksgiving dinner felt like a feast of favorite foods.",
+    "sentence2": "Ants held a feast around the dropped cookie crumbs."
+  },
+  {
+    "id": 168,
+    "word": "feeble",
+    "sentence1": "The feeble flashlight beam barely lit the path.",
+    "sentence2": "After the long hike, my legs felt feeble."
+  },
+  {
+    "id": 169,
+    "word": "fidget",
+    "sentence1": "Please do not fidget during the quiet reading time.",
+    "sentence2": "The puppy would fidget until we opened the door."
+  },
+  {
+    "id": 170,
+    "word": "fifth",
+    "sentence1": "She finished in fifth place at the track meet.",
+    "sentence2": "The fifth pancake was still warm on the plate."
+  },
+  {
+    "id": 171,
+    "word": "fizzling",
+    "sentence1": "The soda was fizzling in the picnic cups.",
+    "sentence2": "The science volcano was fizzling over the tray."
+  },
+  {
+    "id": 172,
+    "word": "flatten",
+    "sentence1": "Please flatten the empty boxes for recycling day.",
+    "sentence2": "Rolling pins flatten dough for homemade pizza night."
+  },
+  {
+    "id": 173,
+    "word": "flaunt",
+    "sentence1": "Do not flaunt a new toy in a friend's face.",
+    "sentence2": "Peacocks flaunt their bright feathers in the zoo yard."
+  },
+  {
+    "id": 174,
+    "word": "flutist",
+    "sentence1": "The flutist played a gentle tune at the concert.",
+    "sentence2": "Our neighbor is a flutist in the town band."
+  },
+  {
+    "id": 175,
+    "word": "foliage",
+    "sentence1": "Bright foliage covered the hills in early autumn.",
+    "sentence2": "We raked fallen foliage into a pile for jumping."
+  },
+  {
+    "id": 176,
+    "word": "foolproof",
+    "sentence1": "The foolproof recipe even worked for first-time bakers.",
+    "sentence2": "A foolproof map led us around the nature trail."
+  },
+  {
+    "id": 177,
+    "word": "footprint",
+    "sentence1": "A muddy footprint marked the clean kitchen floor.",
+    "sentence2": "We found a deer footprint beside the forest stream."
+  },
+  {
+    "id": 178,
+    "word": "forestry",
+    "sentence1": "The forestry class planted pine trees on the hill.",
+    "sentence2": "A career in forestry can mean protecting local woods."
+  },
+  {
+    "id": 179,
+    "word": "fortune",
+    "sentence1": "Finding the lost kitten felt like good fortune.",
+    "sentence2": "The cookie held a fortune about kindness and friends."
+  },
+  {
+    "id": 180,
+    "word": "fountain",
+    "sentence1": "Kids splashed near the fountain in the city park.",
+    "sentence2": "A drinking fountain stands by the soccer field."
+  },
+  {
+    "id": 181,
+    "word": "fowl",
+    "sentence1": "The farm kept fowl such as chickens and ducks.",
+    "sentence2": "Wild fowl rested on the pond at sunrise."
+  },
+  {
+    "id": 182,
+    "word": "fragrant",
+    "sentence1": "The fragrant roses filled the kitchen with perfume.",
+    "sentence2": "Fresh bread smelled fragrant as it cooled on the rack."
+  },
+  {
+    "id": 183,
+    "word": "framed",
+    "sentence1": "Dad framed her painting and hung it in the hall.",
+    "sentence2": "The class photo was framed beside the trophy case."
+  },
+  {
+    "id": 184,
+    "word": "frequent",
+    "sentence1": "We make frequent visits to the library after school.",
+    "sentence2": "The garden stayed green after frequent rain all spring."
+  },
+  {
+    "id": 185,
+    "word": "frightful",
+    "sentence1": "The messy room looked frightful after the sleepover.",
+    "sentence2": "Mom called the burnt toast a frightful breakfast surprise."
+  },
+  {
+    "id": 186,
+    "word": "fruitcake",
+    "sentence1": "Grandma mailed a fruitcake packed with nuts and cherries.",
+    "sentence2": "We sliced the fruitcake for guests after the concert."
+  },
+  {
+    "id": 187,
+    "word": "frustrate",
+    "sentence1": "Knots in yarn can frustrate even a patient knitter.",
+    "sentence2": "Missing the bus may frustrate you on a rainy morning."
+  },
+  {
+    "id": 188,
+    "word": "funnel",
+    "sentence1": "Use a funnel to pour juice into the small bottle.",
+    "sentence2": "Rainwater rushed through a funnel into the barrel."
+  },
+  {
+    "id": 189,
+    "word": "furniture",
+    "sentence1": "New furniture arrived for the reading corner at school.",
+    "sentence2": "We dusted the furniture before company came for dinner."
+  },
+  {
+    "id": 190,
+    "word": "fussy",
+    "sentence1": "The fussy toddler refused every vegetable except carrots.",
+    "sentence2": "A fussy cat ignored the new brand of food."
+  },
+  {
+    "id": 191,
+    "word": "future",
+    "sentence1": "In the future I want to study ocean animals.",
+    "sentence2": "Saving coins now helps your future trip to camp."
+  },
+  {
+    "id": 192,
+    "word": "galley",
+    "sentence1": "The cook worked in the galley of the small boat.",
+    "sentence2": "We toured the galley while visiting the museum ship."
+  },
+  {
+    "id": 193,
+    "word": "garage",
+    "sentence1": "Bikes are stored in the garage beside the rakes.",
+    "sentence2": "Dad parked the van in the garage after soccer."
+  },
+  {
+    "id": 194,
+    "word": "garlic",
+    "sentence1": "Fresh garlic made the pasta sauce smell wonderful.",
+    "sentence2": "We planted garlic cloves in the fall garden."
+  },
+  {
+    "id": 195,
+    "word": "garment",
+    "sentence1": "Each winter garment hung on a hook by the door.",
+    "sentence2": "The costume garment needed a button before the play."
+  },
+  {
+    "id": 196,
+    "word": "gatekeeper",
+    "sentence1": "The gatekeeper opened the park for morning walkers.",
+    "sentence2": "A friendly gatekeeper checked tickets at the fair."
+  },
+  {
+    "id": 197,
+    "word": "generous",
+    "sentence1": "A generous neighbor shared extra tomatoes from her garden.",
+    "sentence2": "He was generous with compliments after the class concert."
+  },
+  {
+    "id": 198,
+    "word": "gentle",
+    "sentence1": "Use a gentle hand when you hold the baby chick.",
+    "sentence2": "A gentle breeze cooled us on the playground."
+  },
+  {
+    "id": 199,
+    "word": "gentry",
+    "sentence1": "The story described the gentry living on a quiet estate.",
+    "sentence2": "Our history book said the gentry owned much farmland."
+  },
+  {
+    "id": 200,
+    "word": "germfree",
+    "sentence1": "Wash hands to keep the snack table germfree.",
+    "sentence2": "The nurse kept her tools in a germfree tray."
+  },
+  {
+    "id": 201,
+    "word": "gibberish",
+    "sentence1": "The toddler spoke cheerful gibberish to her stuffed bear.",
+    "sentence2": "Without the code, the message looked like gibberish."
+  },
+  {
+    "id": 202,
+    "word": "gigantic",
+    "sentence1": "A gigantic pumpkin sat on the porch at Halloween.",
+    "sentence2": "The museum had a gigantic model of a whale."
+  },
+  {
+    "id": 203,
+    "word": "ginger",
+    "sentence1": "Fresh ginger added zip to the homemade cookies.",
+    "sentence2": "We grated ginger into the soup on a cold night."
+  },
+  {
+    "id": 204,
+    "word": "glassblower",
+    "sentence1": "The glassblower shaped a blue vase at the fair.",
+    "sentence2": "We watched a glassblower make an ornament from hot glass."
+  },
+  {
+    "id": 205,
+    "word": "glimmer",
+    "sentence1": "A glimmer of sunlight reached the forest floor.",
+    "sentence2": "We saw a glimmer of the lake through the trees."
+  },
+  {
+    "id": 206,
+    "word": "glossy",
+    "sentence1": "The glossy magazine showed photos of garden birds.",
+    "sentence2": "She brushed her pony until its coat looked glossy."
+  },
+  {
+    "id": 207,
+    "word": "goalpost",
+    "sentence1": "The soccer ball bounced off the goalpost and out.",
+    "sentence2": "Volunteers painted each goalpost before the Saturday game."
+  },
+  {
+    "id": 208,
+    "word": "goatherd",
+    "sentence1": "The goatherd led the animals down the rocky path.",
+    "sentence2": "A young goatherd waved from the hillside pasture."
+  },
+  {
+    "id": 209,
+    "word": "goose",
+    "sentence1": "A goose honked as it crossed the park lawn.",
+    "sentence2": "We fed the goose cracked corn beside the pond."
+  },
+  {
+    "id": 210,
+    "word": "grader",
+    "sentence1": "A road grader smoothed the dirt path after rain.",
+    "sentence2": "The fourth grader carried her project into the gym."
+  },
+  {
+    "id": 211,
+    "word": "grapple",
+    "sentence1": "We had to grapple with a tricky math puzzle.",
+    "sentence2": "The class had to grapple with a stuck tent zipper."
+  },
+  {
+    "id": 212,
+    "word": "gratefully",
+    "sentence1": "We gratefully accepted extra pencils from a kind classmate.",
+    "sentence2": "The hikers gratefully drank cold water at the fountain."
+  },
+  {
+    "id": 213,
+    "word": "gravel",
+    "sentence1": "Our shoes crunched on gravel along the driveway.",
+    "sentence2": "We spread gravel along the garden path on Saturday."
+  },
+  {
+    "id": 214,
+    "word": "gravity",
+    "sentence1": "In science we learned gravity pulls a ball back down.",
+    "sentence2": "Our kicked soccer ball fell because gravity pulled it down."
+  },
+  {
+    "id": 215,
+    "word": "griddle",
+    "sentence1": "Pancakes sizzled on the griddle every Sunday morning.",
+    "sentence2": "The camp cook used a griddle for toasted sandwiches."
+  },
+  {
+    "id": 216,
+    "word": "grieve",
+    "sentence1": "It is kind to grieve with a friend who is sad.",
+    "sentence2": "We grieve when a favorite tree is cut down."
+  },
+  {
+    "id": 217,
+    "word": "groovy",
+    "sentence1": "Grandpa called the bright socks groovy and laughed.",
+    "sentence2": "The band played a groovy song at the picnic."
+  },
+  {
+    "id": 218,
+    "word": "guardrail",
+    "sentence1": "Stay behind the guardrail when you view the canyon.",
+    "sentence2": "A new guardrail was added along the school driveway."
+  },
+  {
+    "id": 219,
+    "word": "guilt",
+    "sentence1": "He felt guilt after hiding his sister's crayons.",
+    "sentence2": "Sharing the last cookie took away her guilt."
+  },
+  {
+    "id": 220,
+    "word": "gummy",
+    "sentence1": "The gummy candy stuck to my back teeth.",
+    "sentence2": "Fresh pine sap felt gummy on our fingers."
+  },
+  {
+    "id": 221,
+    "word": "hallway",
+    "sentence1": "Bright student artwork covers the hallway outside our classroom.",
+    "sentence2": "Our dog naps in the hallway near the kitchen."
+  },
+  {
+    "id": 222,
+    "word": "hamper",
+    "sentence1": "Please drop the towels in the hamper after your bath.",
+    "sentence2": "Dirty uniforms went into the hamper after the game."
+  },
+  {
+    "id": 223,
+    "word": "hamster",
+    "sentence1": "The hamster stuffed its cheeks with sunflower seeds.",
+    "sentence2": "Our class hamster slept in a nest of shredded paper."
+  },
+  {
+    "id": 224,
+    "word": "handcuff",
+    "sentence1": "The toy officer set a plastic handcuff on the table.",
+    "sentence2": "A costume handcuff came with the detective dress-up kit."
+  },
+  {
+    "id": 225,
+    "word": "hare",
+    "sentence1": "A brown hare hopped across the snowy field.",
+    "sentence2": "We spotted a hare eating clover near the garden."
+  },
+  {
+    "id": 226,
+    "word": "harmony",
+    "sentence1": "The choir sang in harmony during the winter concert.",
+    "sentence2": "Friends work in harmony when they share art supplies."
+  },
+  {
+    "id": 227,
+    "word": "harp",
+    "sentence1": "She plucked the harp for the school talent show.",
+    "sentence2": "A golden harp stood on the museum's music floor."
+  },
+  {
+    "id": 228,
+    "word": "hasty",
+    "sentence1": "A hasty lunch left no time for an apple.",
+    "sentence2": "Those hasty steps on ice can make you slip."
+  },
+  {
+    "id": 229,
+    "word": "hawk",
+    "sentence1": "A hawk circled above the open soccer field.",
+    "sentence2": "We watched a hawk from the nature-center window."
+  },
+  {
+    "id": 230,
+    "word": "headstrong",
+    "sentence1": "The headstrong pony refused to leave the shady oak.",
+    "sentence2": "A headstrong toddler insisted on wearing two different shoes."
+  },
+  {
+    "id": 231,
+    "word": "heavenly",
+    "sentence1": "The peach pie tasted heavenly after the long hike.",
+    "sentence2": "A heavenly breeze cooled the porch at sunset."
+  },
+  {
+    "id": 232,
+    "word": "height",
+    "sentence1": "Measure the height of the sunflower each Friday.",
+    "sentence2": "The roller coaster's height made my brother cheer."
+  },
+  {
+    "id": 233,
+    "word": "heritage",
+    "sentence1": "Family recipes are part of our heritage at holidays.",
+    "sentence2": "The festival celebrated the town's heritage with music."
+  },
+  {
+    "id": 234,
+    "word": "hickory",
+    "sentence1": "A tall hickory tree dropped nuts on the trail.",
+    "sentence2": "Dad used hickory chips while grilling corn on Saturday."
+  },
+  {
+    "id": 235,
+    "word": "highway",
+    "sentence1": "We drove on the highway to reach the state park.",
+    "sentence2": "A wide highway runs past the soccer complex."
+  },
+  {
+    "id": 236,
+    "word": "history",
+    "sentence1": "Our history lesson covered the first moon landing.",
+    "sentence2": "Grandma's photo album holds the history of our farm."
+  },
+  {
+    "id": 237,
+    "word": "hive",
+    "sentence1": "Bees returned to the hive as evening arrived.",
+    "sentence2": "The farmer showed us a hive behind the orchard."
+  },
+  {
+    "id": 238,
+    "word": "hobby",
+    "sentence1": "Painting rocks is my favorite hobby after homework.",
+    "sentence2": "His hobby is building model boats in the garage."
+  },
+  {
+    "id": 239,
+    "word": "homicide",
+    "sentence1": "Our civics book defined homicide as a serious crime.",
+    "sentence2": "The news used homicide as a formal legal word."
+  },
+  {
+    "id": 240,
+    "word": "honesty",
+    "sentence1": "Your honesty about a mistake earns respect from teachers.",
+    "sentence2": "Friendship grows when honesty is part of every talk."
+  },
+  {
+    "id": 241,
+    "word": "hotel",
+    "sentence1": "Our family stayed in a hotel near the beach.",
+    "sentence2": "The team bus stopped at a hotel after the meet."
+  },
+  {
+    "id": 242,
+    "word": "hound",
+    "sentence1": "Grandpa's hound slept beside the porch steps all afternoon.",
+    "sentence2": "A brown hound trotted along the hiking path."
+  },
+  {
+    "id": 243,
+    "word": "housemaid",
+    "sentence1": "In the story, a housemaid opened the shutters at dawn.",
+    "sentence2": "The play's housemaid carried a tray of teacups."
+  },
+  {
+    "id": 244,
+    "word": "hunch",
+    "sentence1": "I had a hunch the missing sock was in the dryer.",
+    "sentence2": "Sit up tall and do not hunch over your desk."
+  },
+  {
+    "id": 245,
+    "word": "hunting",
+    "sentence1": "We went hunting for pinecones in the park.",
+    "sentence2": "The class went hunting for library books about frogs."
+  },
+  {
+    "id": 246,
+    "word": "hurdle",
+    "sentence1": "She cleared every hurdle in the track meet.",
+    "sentence2": "A fallen log became a hurdle on the trail."
+  },
+  {
+    "id": 247,
+    "word": "hurried",
+    "sentence1": "We hurried to the bus before the rain began.",
+    "sentence2": "He hurried through breakfast to make the soccer carpool."
+  },
+  {
+    "id": 248,
+    "word": "hypnotic",
+    "sentence1": "The slow waves had a hypnotic sound on the beach.",
+    "sentence2": "Soft rain made a hypnotic rhythm on the roof."
+  },
+  {
+    "id": 249,
+    "word": "iceberg",
+    "sentence1": "A huge iceberg floated in the cold polar sea.",
+    "sentence2": "The science video compared an iceberg to a floating mountain."
+  },
+  {
+    "id": 250,
+    "word": "image",
+    "sentence1": "The pond held a clear image of the surrounding trees.",
+    "sentence2": "We printed an image of the class garden."
+  },
+  {
+    "id": 251,
+    "word": "impair",
+    "sentence1": "A foggy lens can impair your view of the birds.",
+    "sentence2": "Loud noise may impair your focus during a test."
+  },
+  {
+    "id": 252,
+    "word": "import",
+    "sentence1": "Local grocers import bananas from farms far away.",
+    "sentence2": "Our town will import extra sand for the playground."
+  },
+  {
+    "id": 253,
+    "word": "impress",
+    "sentence1": "Kind manners will impress visitors at the school play.",
+    "sentence2": "The mural will impress families on open-house night."
+  },
+  {
+    "id": 254,
+    "word": "inch",
+    "sentence1": "The seedling grew an inch after one week of rain.",
+    "sentence2": "Move the chair an inch so the door can open."
+  },
+  {
+    "id": 255,
+    "word": "increase",
+    "sentence1": "Extra watering will increase the height of the beans.",
+    "sentence2": "Daily drills can increase your speed on the running track."
+  },
+  {
+    "id": 256,
+    "word": "indeed",
+    "sentence1": "The cake was indeed as tasty as it looked.",
+    "sentence2": "Spring had indeed arrived when the robins returned."
+  },
+  {
+    "id": 257,
+    "word": "index",
+    "sentence1": "Use the index at the back of the science book.",
+    "sentence2": "Mom checked the cookbook index for a pancake recipe."
+  },
+  {
+    "id": 258,
+    "word": "infection",
+    "sentence1": "A small cut can become an infection without a bandage.",
+    "sentence2": "The nurse talked about infection and washing hands well."
+  },
+  {
+    "id": 259,
+    "word": "inform",
+    "sentence1": "Please inform the teacher if you forgot your lunch.",
+    "sentence2": "Signs inform hikers about the length of each trail."
+  },
+  {
+    "id": 260,
+    "word": "inject",
+    "sentence1": "The nurse will inject the vaccine in my arm.",
+    "sentence2": "Cooks inject flavor into the turkey with a special tool."
+  },
+  {
+    "id": 261,
+    "word": "injure",
+    "sentence1": "Be careful not to injure your ankle during soccer.",
+    "sentence2": "A loose rug can injure someone who is in a hurry."
+  },
+  {
+    "id": 262,
+    "word": "inkling",
+    "sentence1": "I had an inkling that rain would spoil the picnic.",
+    "sentence2": "She had no inkling the surprise party was for her."
+  },
+  {
+    "id": 263,
+    "word": "input",
+    "sentence1": "Type your input on the computer for the class poll.",
+    "sentence2": "The coach asked for input about Saturday's game time."
+  },
+  {
+    "id": 264,
+    "word": "inscribe",
+    "sentence1": "We will inscribe names on the class time capsule.",
+    "sentence2": "Artists inscribe a tiny mark on the pottery base."
+  },
+  {
+    "id": 265,
+    "word": "instead",
+    "sentence1": "We played indoors instead when thunder rolled nearby.",
+    "sentence2": "Have fruit instead of candy after the soccer game."
+  },
+  {
+    "id": 266,
+    "word": "instruct",
+    "sentence1": "Coaches instruct players before the first whistle blows.",
+    "sentence2": "Recipes instruct you to stir until the batter is smooth."
+  },
+  {
+    "id": 267,
+    "word": "interest",
+    "sentence1": "Her interest in birds began after a park walk.",
+    "sentence2": "Saving coins in a jar can earn interest at the bank."
+  },
+  {
+    "id": 268,
+    "word": "interpret",
+    "sentence1": "Please interpret this graph for the rest of the class.",
+    "sentence2": "Guides interpret the canyon's rock layers for visitors."
+  },
+  {
+    "id": 269,
+    "word": "introduce",
+    "sentence1": "Please introduce your guest to the rest of the class.",
+    "sentence2": "Farmers will introduce a new apple at the market."
+  },
+  {
+    "id": 270,
+    "word": "invite",
+    "sentence1": "We will invite neighbors to the backyard movie night.",
+    "sentence2": "Please invite a partner to join your science group."
+  },
+  {
+    "id": 271,
+    "word": "inward",
+    "sentence1": "Fold the paper inward to make a sharp crease.",
+    "sentence2": "The snails pulled inward when we touched their shells."
+  },
+  {
+    "id": 272,
+    "word": "Irish",
+    "sentence1": "We learned an Irish dance for the spring festival.",
+    "sentence2": "Grandma baked Irish soda bread on Saturday morning."
+  },
+  {
+    "id": 273,
+    "word": "item",
+    "sentence1": "Each item on the picnic table belonged in the basket.",
+    "sentence2": "The lost-and-found item was a striped wool hat."
+  },
+  {
+    "id": 274,
+    "word": "ivory",
+    "sentence1": "The piano keys were a creamy ivory color.",
+    "sentence2": "She wore an ivory ribbon in her hair for pictures."
+  },
+  {
+    "id": 275,
+    "word": "jabbed",
+    "sentence1": "He jabbed the straw into the juice box.",
+    "sentence2": "She jabbed the needle through the thick cloth."
+  },
+  {
+    "id": 276,
+    "word": "jackboot",
+    "sentence1": "A muddy jackboot stood by the farmhouse door.",
+    "sentence2": "The costume included a tall jackboot for the play."
+  },
+  {
+    "id": 277,
+    "word": "janitor",
+    "sentence1": "The janitor mopped the cafeteria after lunch period.",
+    "sentence2": "Our school janitor watered the plants in the hallway."
+  },
+  {
+    "id": 278,
+    "word": "jay",
+    "sentence1": "A noisy jay scolded us from the oak branch.",
+    "sentence2": "We spotted a jay stealing peanuts from the feeder."
+  },
+  {
+    "id": 279,
+    "word": "jazzy",
+    "sentence1": "She wore a jazzy hat to the school talent show.",
+    "sentence2": "The band played a jazzy tune at the picnic."
+  },
+  {
+    "id": 280,
+    "word": "jeer",
+    "sentence1": "Please do not jeer when a teammate misses a shot.",
+    "sentence2": "Kind fans will not jeer at the visiting team."
+  },
+  {
+    "id": 281,
+    "word": "journal",
+    "sentence1": "I wrote in my journal about the zoo trip.",
+    "sentence2": "Our class journal records the weather each morning."
+  },
+  {
+    "id": 282,
+    "word": "jumpsuit",
+    "sentence1": "The mechanic wore a blue jumpsuit in the garage.",
+    "sentence2": "Her sparkly jumpsuit was ready for the dance recital."
+  },
+  {
+    "id": 283,
+    "word": "kennel",
+    "sentence1": "The kennel had clean beds for every visiting dog.",
+    "sentence2": "We built a shady kennel beside the back porch."
+  },
+  {
+    "id": 284,
+    "word": "keypad",
+    "sentence1": "Enter the code on the keypad to open the library.",
+    "sentence2": "The toy cash register had a colorful keypad."
+  },
+  {
+    "id": 285,
+    "word": "keystroke",
+    "sentence1": "One extra keystroke changed the whole typed sentence.",
+    "sentence2": "Slow down each keystroke when you learn to type."
+  },
+  {
+    "id": 286,
+    "word": "kindly",
+    "sentence1": "Please speak kindly to everyone in the lunch line.",
+    "sentence2": "A neighbor kindly returned our escaped chicken today."
+  },
+  {
+    "id": 287,
+    "word": "knapsack",
+    "sentence1": "Pack a knapsack with fruit for the nature walk.",
+    "sentence2": "His knapsack bounced as he climbed the hill."
+  },
+  {
+    "id": 288,
+    "word": "knitwear",
+    "sentence1": "Winter knitwear hung on the hooks by the door.",
+    "sentence2": "Grandma's knitwear kept us warm at the football game."
+  },
+  {
+    "id": 289,
+    "word": "knob",
+    "sentence1": "Turn the knob slowly to open the garden gate.",
+    "sentence2": "A brass knob decorated each drawer in the kitchen."
+  },
+  {
+    "id": 290,
+    "word": "kook",
+    "sentence1": "Dad called himself a kook for wearing mismatched socks.",
+    "sentence2": "The friendly kook at the fair juggled rubber chickens."
+  },
+  {
+    "id": 291,
+    "word": "lace",
+    "sentence1": "Grandma's lace tablecloth came out for Sunday dinner.",
+    "sentence2": "She learned to lace her skates before ice time."
+  },
+  {
+    "id": 292,
+    "word": "lantern",
+    "sentence1": "A lantern lit our path back to the cabin.",
+    "sentence2": "We hung a paper lantern for the backyard party."
+  },
+  {
+    "id": 293,
+    "word": "lapdog",
+    "sentence1": "The tiny lapdog rode in a basket on the train.",
+    "sentence2": "Grandma's lapdog snored during the movie at home."
+  },
+  {
+    "id": 294,
+    "word": "larva",
+    "sentence1": "A beetle larva lived under the rotting log.",
+    "sentence2": "We found a larva on the underside of a tomato leaf."
+  },
+  {
+    "id": 295,
+    "word": "laundry",
+    "sentence1": "Please carry the laundry basket to the washing machine.",
+    "sentence2": "Wet laundry flapped on the line in the breeze."
+  },
+  {
+    "id": 296,
+    "word": "lavatory",
+    "sentence1": "Wash your hands in the lavatory before lunch.",
+    "sentence2": "The train lavatory had a tiny sink and mirror."
+  },
+  {
+    "id": 297,
+    "word": "lavender",
+    "sentence1": "We planted lavender beside the sunny garden path.",
+    "sentence2": "The soap smelled like lavender after our bath."
+  },
+  {
+    "id": 298,
+    "word": "laziness",
+    "sentence1": "Too much laziness will not help you finish the puzzle.",
+    "sentence2": "Weekend laziness ended when friends called us outside."
+  },
+  {
+    "id": 299,
+    "word": "leaflet",
+    "sentence1": "A garden leaflet listed plants that attract butterflies well.",
+    "sentence2": "We handed a leaflet about the bake sale to neighbors."
+  },
+  {
+    "id": 300,
+    "word": "leakage",
+    "sentence1": "A small leakage under the sink wet the cabinet.",
+    "sentence2": "The tent leakage left a damp spot on my sleeping bag."
+  }
+]

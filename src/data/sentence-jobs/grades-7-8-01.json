@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "word": "abeyance",
+    "sentence1": "The science fair stayed in abeyance until the gym was free.",
+    "sentence2": "Our club left the vote in abeyance until more members arrived."
+  },
+  {
+    "id": 2,
+    "word": "abhorrent",
+    "sentence1": "Wasting food is abhorrent to our cafeteria recycling team.",
+    "sentence2": "The class found creek litter abhorrent and planned a cleanup."
+  },
+  {
+    "id": 3,
+    "word": "abstinence",
+    "sentence1": "His abstinence from soda lasted the whole basketball season.",
+    "sentence2": "During the challenge, abstinence from extra snacks helped everyone."
+  },
+  {
+    "id": 4,
+    "word": "acceleration",
+    "sentence1": "The graph showed the wagon's acceleration down the ramp.",
+    "sentence2": "After the timeout, our acceleration down the court surprised them."
+  },
+  {
+    "id": 5,
+    "word": "accompanist",
+    "sentence1": "The choir's accompanist played piano during every rehearsal.",
+    "sentence2": "A kind accompanist helped the soloist stay on tempo."
+  },
+  {
+    "id": 6,
+    "word": "achievement",
+    "sentence1": "Finishing the mural was a proud achievement for our class.",
+    "sentence2": "Her science fair achievement earned a ribbon and a smile."
+  },
+  {
+    "id": 7,
+    "word": "acknowledge",
+    "sentence1": "Please acknowledge the helpers who set up the chairs.",
+    "sentence2": "Coaches acknowledge every player who hustles at practice."
+  },
+  {
+    "id": 8,
+    "word": "acronym",
+    "sentence1": "NASA is an acronym the science class already knew.",
+    "sentence2": "We made an acronym to remember the lab steps."
+  },
+  {
+    "id": 9,
+    "word": "acrylic",
+    "sentence1": "She painted the poster with bright acrylic colors after lunch.",
+    "sentence2": "The art teacher prefers acrylic paint because it dries quickly."
+  },
+  {
+    "id": 10,
+    "word": "adjudicate",
+    "sentence1": "Student judges will adjudicate the talent show fairly tonight.",
+    "sentence2": "The debate coach showed us how to adjudicate a close round."
+  },
+  {
+    "id": 11,
+    "word": "advancement",
+    "sentence1": "Her advancement to the next math level felt well earned.",
+    "sentence2": "The club voted for advancement of the recycling plan."
+  },
+  {
+    "id": 12,
+    "word": "aerospace",
+    "sentence1": "He wants an aerospace career designing safer airplanes.",
+    "sentence2": "Our field trip to the aerospace museum lasted all morning."
+  },
+  {
+    "id": 13,
+    "word": "affable",
+    "sentence1": "The affable librarian greeted every class with a smile.",
+    "sentence2": "An affable tour guide made the museum visit feel easy."
+  },
+  {
+    "id": 14,
+    "word": "agglutinate",
+    "sentence1": "Some blood cells agglutinate when mixed in the lab sample.",
+    "sentence2": "Wet grains of rice can agglutinate into one sticky clump."
+  },
+  {
+    "id": 15,
+    "word": "agitated",
+    "sentence1": "The agitated puppy calmed down after a quiet walk.",
+    "sentence2": "She felt agitated before the test but soon settled in."
+  },
+  {
+    "id": 16,
+    "word": "alabaster",
+    "sentence1": "The museum displayed a smooth alabaster vase on a stand.",
+    "sentence2": "Sunlight made the alabaster statue look almost like snow."
+  },
+  {
+    "id": 17,
+    "word": "allegorical",
+    "sentence1": "The allegorical story used animals to teach a lesson.",
+    "sentence2": "Our English class mapped each allegorical figure to an idea."
+  },
+  {
+    "id": 18,
+    "word": "altostratus",
+    "sentence1": "A gray altostratus layer covered the sky before the drizzle.",
+    "sentence2": "The weather unit showed altostratus clouds as a thin sheet."
+  },
+  {
+    "id": 19,
+    "word": "alumni",
+    "sentence1": "High school alumni returned to help at career day.",
+    "sentence2": "The alumni newsletter shared photos from last year's picnic."
+  },
+  {
+    "id": 20,
+    "word": "ambiguity",
+    "sentence1": "The poem's ambiguity made our group discuss two meanings.",
+    "sentence2": "Directions with ambiguity sent two teams to different rooms."
+  },
+  {
+    "id": 21,
+    "word": "ameliorate",
+    "sentence1": "Extra review sessions can ameliorate confusion before the quiz.",
+    "sentence2": "New fans in the gym should ameliorate the heat during games."
+  },
+  {
+    "id": 22,
+    "word": "amicable",
+    "sentence1": "The two clubs reached an amicable plan for sharing the room.",
+    "sentence2": "Even after the close game, both teams stayed amicable."
+  },
+  {
+    "id": 23,
+    "word": "amorphous",
+    "sentence1": "The clay started as an amorphous lump on the art table.",
+    "sentence2": "Fog made the playground an amorphous gray shape at dawn."
+  },
+  {
+    "id": 24,
+    "word": "amphitheater",
+    "sentence1": "The outdoor amphitheater hosted the spring band concert.",
+    "sentence2": "We sat on stone seats in the school amphitheater for drama."
+  },
+  {
+    "id": 25,
+    "word": "anesthesia",
+    "sentence1": "The dentist explained anesthesia before filling the cavity.",
+    "sentence2": "A nurse checked the patient after anesthesia wore off."
+  },
+  {
+    "id": 26,
+    "word": "annihilate",
+    "sentence1": "The stain spray will annihilate the marks on the shirt.",
+    "sentence2": "Our relay team hopes to annihilate the old school record."
+  },
+  {
+    "id": 27,
+    "word": "annoyance",
+    "sentence1": "The dripping faucet became an annoyance during homework time.",
+    "sentence2": "Lost pencils were a small annoyance at the start of class."
+  },
+  {
+    "id": 28,
+    "word": "anorexia",
+    "sentence1": "The health teacher explained anorexia in calm, careful words.",
+    "sentence2": "A booklet described anorexia as a serious eating illness."
+  },
+  {
+    "id": 29,
+    "word": "anticipation",
+    "sentence1": "Happy anticipation filled the hallway before the talent show began.",
+    "sentence2": "She packed her bag in anticipation of Saturday's field trip."
+  },
+  {
+    "id": 30,
+    "word": "antidote",
+    "sentence1": "The ranger said the antidote for snakebite is given by doctors.",
+    "sentence2": "A funny joke was the antidote to our gloomy Monday mood."
+  },
+  {
+    "id": 31,
+    "word": "antihistamine",
+    "sentence1": "Mom gave me an antihistamine before the dusty hayride.",
+    "sentence2": "The nurse said an antihistamine can ease a mild allergy."
+  },
+  {
+    "id": 32,
+    "word": "aphorism",
+    "sentence1": "Grandpa's favorite aphorism was about finishing what you start.",
+    "sentence2": "We collected a short aphorism from each family for English."
+  },
+  {
+    "id": 33,
+    "word": "appearance",
+    "sentence1": "A sudden appearance of sun made recess extra lively.",
+    "sentence2": "The actor's first appearance on stage drew a kind cheer."
+  },
+  {
+    "id": 34,
+    "word": "aquanaut",
+    "sentence1": "The aquanaut trained in a pool before the ocean project.",
+    "sentence2": "A guest aquanaut showed pictures from a deep-sea lab."
+  },
+  {
+    "id": 35,
+    "word": "archetype",
+    "sentence1": "The helpful mentor is an archetype in many school stories.",
+    "sentence2": "Our teacher called the trickster fox a familiar archetype."
+  },
+  {
+    "id": 36,
+    "word": "arguable",
+    "sentence1": "Which pizza topping is best is still an arguable question.",
+    "sentence2": "The judge said the call was arguable, so we reviewed the replay."
+  },
+  {
+    "id": 37,
+    "word": "arpeggio",
+    "sentence1": "She practiced an arpeggio slowly before the piano recital.",
+    "sentence2": "The guitar lesson began with a simple arpeggio in C."
+  },
+  {
+    "id": 38,
+    "word": "asbestos",
+    "sentence1": "The science article explained why old asbestos is no longer used.",
+    "sentence2": "Workers in gear removed asbestos from the closed gym wing."
+  },
+  {
+    "id": 39,
+    "word": "assertiveness",
+    "sentence1": "Kind assertiveness helped her ask for a turn at the mic.",
+    "sentence2": "The counselor taught assertiveness without ever being rude."
+  },
+  {
+    "id": 40,
+    "word": "asterisk",
+    "sentence1": "Put an asterisk beside any math problem you want to review.",
+    "sentence2": "The footnote began with an asterisk at the bottom of the page."
+  },
+  {
+    "id": 41,
+    "word": "asylum",
+    "sentence1": "Our civics lesson defined asylum as a safe legal shelter.",
+    "sentence2": "The wildlife center became an asylum for injured birds."
+  },
+  {
+    "id": 42,
+    "word": "attentive",
+    "sentence1": "An attentive lab partner notices small changes in the mixture.",
+    "sentence2": "The attentive usher helped families find open seats quickly."
+  },
+  {
+    "id": 43,
+    "word": "audacity",
+    "sentence1": "He had the audacity to try a new solo on concert night.",
+    "sentence2": "Her audacity in asking for a harder book paid off."
+  },
+  {
+    "id": 44,
+    "word": "authenticate",
+    "sentence1": "The museum staff will authenticate the old baseball card.",
+    "sentence2": "Students must authenticate their logins before using the lab."
+  },
+  {
+    "id": 45,
+    "word": "automatically",
+    "sentence1": "The lights turn on automatically when we enter the gym.",
+    "sentence2": "My phone saves drafts automatically after each change."
+  },
+  {
+    "id": 46,
+    "word": "awestruck",
+    "sentence1": "We felt awestruck under the planetarium's huge star dome.",
+    "sentence2": "The hikers stood awestruck at the view from the ridge."
+  },
+  {
+    "id": 47,
+    "word": "backgammon",
+    "sentence1": "Grandma taught me backgammon at the kitchen table after dinner.",
+    "sentence2": "The game club set out boards for a quiet backgammon night."
+  },
+  {
+    "id": 48,
+    "word": "bailiff",
+    "sentence1": "In mock trial, the bailiff asked everyone to rise quietly.",
+    "sentence2": "The field trip guide pointed out the bailiff near the courtroom door."
+  },
+  {
+    "id": 49,
+    "word": "Band-Aid",
+    "sentence1": "Mom put a Band-Aid on my scraped elbow after recess.",
+    "sentence2": "The first-aid kit still had one Band-Aid left for the hike."
+  },
+  {
+    "id": 50,
+    "word": "bandolier",
+    "sentence1": "The costume included a leather bandolier across the actor's chest.",
+    "sentence2": "A hiking bandolier held water bottles for the field trip."
+  },
+  {
+    "id": 51,
+    "word": "bankruptcy",
+    "sentence1": "The civics article explained bankruptcy as a legal fresh start.",
+    "sentence2": "Our business project ended in fake bankruptcy after overspending."
+  },
+  {
+    "id": 52,
+    "word": "baroness",
+    "sentence1": "In the play, the baroness donated books to the village school.",
+    "sentence2": "The story's baroness hosted a fair on the castle lawn."
+  },
+  {
+    "id": 53,
+    "word": "basalt",
+    "sentence1": "We identified dark basalt in the box of rock samples.",
+    "sentence2": "The field trip found basalt from an ancient lava flow."
+  },
+  {
+    "id": 54,
+    "word": "battalion",
+    "sentence1": "A battalion of volunteers stacked chairs after the concert.",
+    "sentence2": "The history film showed a battalion marching in a parade."
+  },
+  {
+    "id": 55,
+    "word": "beautifully",
+    "sentence1": "The choir sang beautifully during the morning assembly.",
+    "sentence2": "She arranged the still-life fruit beautifully on the art table."
+  },
+  {
+    "id": 56,
+    "word": "begrudgingly",
+    "sentence1": "He begrudgingly shared the last marker with his partner.",
+    "sentence2": "We begrudgingly packed up when the library lights blinked."
+  },
+  {
+    "id": 57,
+    "word": "behavior",
+    "sentence1": "Kind behavior in the hallway earned our class extra recess.",
+    "sentence2": "The science log tracked the hamster's behavior after dark."
+  },
+  {
+    "id": 58,
+    "word": "beleaguer",
+    "sentence1": "Long homework can beleaguer a tired student after practice.",
+    "sentence2": "Do not let small delays beleaguer the whole group project."
+  },
+  {
+    "id": 59,
+    "word": "belligerent",
+    "sentence1": "A belligerent tone during group work made the teacher pause us.",
+    "sentence2": "The belligerent debate stayed about ideas, not insults."
+  },
+  {
+    "id": 60,
+    "word": "beneficent",
+    "sentence1": "A beneficent neighbor paid for extra books at the fair.",
+    "sentence2": "The club thanked its beneficent sponsor with handmade cards."
+  },
+  {
+    "id": 61,
+    "word": "beseech",
+    "sentence1": "The posters beseech students to recycle bottles each day.",
+    "sentence2": "I beseech you to wait your turn at the microphone."
+  },
+  {
+    "id": 62,
+    "word": "bestride",
+    "sentence1": "The bronze horse seemed to bestride the fountain in the park.",
+    "sentence2": "He tried to bestride the wide bench for the class photo."
+  },
+  {
+    "id": 63,
+    "word": "beveled",
+    "sentence1": "The picture frame had a beveled edge that caught the light.",
+    "sentence2": "Shop class sanded a beveled corner on the wooden box."
+  },
+  {
+    "id": 64,
+    "word": "bibliography",
+    "sentence1": "Every research paper needs a bibliography of sources used.",
+    "sentence2": "She added two websites to the bibliography last night."
+  },
+  {
+    "id": 65,
+    "word": "bicuspid",
+    "sentence1": "The dentist checked my bicuspid during the regular visit.",
+    "sentence2": "A model jaw showed each bicuspid beside the molars."
+  },
+  {
+    "id": 66,
+    "word": "biologist",
+    "sentence1": "A visiting biologist brought pond water for us to examine.",
+    "sentence2": "She wants to become a biologist who studies coastal birds."
+  },
+  {
+    "id": 67,
+    "word": "birthright",
+    "sentence1": "In the story, the farm was the child's birthright from family.",
+    "sentence2": "Free public school felt like a birthright we should not waste."
+  },
+  {
+    "id": 68,
+    "word": "bivouac",
+    "sentence1": "The scouts made a simple bivouac beside the quiet trail.",
+    "sentence2": "Rain forced our overnight bivouac under a thick tarp."
+  },
+  {
+    "id": 69,
+    "word": "blind spot",
+    "sentence1": "Dad checked the car's blind spot before changing lanes.",
+    "sentence2": "The coach said pride can be a blind spot during teamwork."
+  },
+  {
+    "id": 70,
+    "word": "boisterous",
+    "sentence1": "The boisterous pep rally filled the gym with cheers.",
+    "sentence2": "A boisterous puppy raced around the backyard after the bath."
+  },
+  {
+    "id": 71,
+    "word": "borax",
+    "sentence1": "We mixed borax and glue to make stretchy slime in science.",
+    "sentence2": "Mom uses borax with care when washing extra dusty towels."
+  },
+  {
+    "id": 72,
+    "word": "bourgeoisie",
+    "sentence1": "The lesson defined the bourgeoisie as a class of shop owners.",
+    "sentence2": "Our history notes placed the bourgeoisie between workers and nobles."
+  },
+  {
+    "id": 73,
+    "word": "boutique",
+    "sentence1": "The small boutique downtown sold handmade bags and hats.",
+    "sentence2": "Our class toured a boutique that sews costumes for plays."
+  },
+  {
+    "id": 74,
+    "word": "bowie knife",
+    "sentence1": "The museum kept a historic bowie knife inside a locked case.",
+    "sentence2": "Grandpa used a dull bowie knife only to cut camping rope."
+  },
+  {
+    "id": 75,
+    "word": "braggadocio",
+    "sentence1": "His braggadocio about the easy quiz fooled nobody.",
+    "sentence2": "The coach asked us to drop the braggadocio and just practice."
+  },
+  {
+    "id": 76,
+    "word": "brainstorming",
+    "sentence1": "Our brainstorming after lunch filled the board with project ideas.",
+    "sentence2": "Quiet brainstorming in pairs helped shy students share thoughts."
+  },
+  {
+    "id": 77,
+    "word": "breadwinner",
+    "sentence1": "Aunt Lu is the breadwinner while Uncle finishes night school.",
+    "sentence2": "The story's breadwinner worked two jobs to support the family."
+  },
+  {
+    "id": 78,
+    "word": "briefly",
+    "sentence1": "The principal spoke briefly, then dismissed us to class.",
+    "sentence2": "We visited the mural briefly before boarding the bus."
+  },
+  {
+    "id": 79,
+    "word": "brilliancy",
+    "sentence1": "The brilliancy of the frost made the field sparkle at dawn.",
+    "sentence2": "Judges praised the brilliancy of her clear science explanation."
+  },
+  {
+    "id": 80,
+    "word": "briny",
+    "sentence1": "A briny breeze blew in from the harbor during our trip.",
+    "sentence2": "The pretzels tasted briny after we sprinkled extra salt."
+  },
+  {
+    "id": 81,
+    "word": "brogan",
+    "sentence1": "Grandpa still wears a sturdy brogan in the garden.",
+    "sentence2": "The costume shop lent a worn brogan for the farm scene."
+  },
+  {
+    "id": 82,
+    "word": "brokerage",
+    "sentence1": "Our economics unit explained how a brokerage buys and sells shares.",
+    "sentence2": "The career speaker works at a small brokerage downtown."
+  },
+  {
+    "id": 83,
+    "word": "brother-in-law",
+    "sentence1": "My brother-in-law grilled corn at the family picnic.",
+    "sentence2": "Mom asked her brother-in-law to help fix the leaky faucet."
+  },
+  {
+    "id": 84,
+    "word": "brusque",
+    "sentence1": "His brusque answer made the group pause and rephrase the question.",
+    "sentence2": "The busy clerk sounded brusque but later smiled and helped."
+  },
+  {
+    "id": 85,
+    "word": "bulletproof",
+    "sentence1": "The museum glass was labeled bulletproof for extra safety.",
+    "sentence2": "Her drop-proof phone case felt almost bulletproof in the hallway."
+  },
+  {
+    "id": 86,
+    "word": "bullmastiff",
+    "sentence1": "A gentle bullmastiff rested by the farmhouse door.",
+    "sentence2": "The pet show included a huge bullmastiff with a blue ribbon."
+  },
+  {
+    "id": 87,
+    "word": "bureaucracy",
+    "sentence1": "Too much bureaucracy slowed the club's request for extra chairs.",
+    "sentence2": "Civics class compared a simple office with a large bureaucracy."
+  },
+  {
+    "id": 88,
+    "word": "burgeon",
+    "sentence1": "Tomato plants burgeon quickly after a week of warm rain.",
+    "sentence2": "New after-school clubs burgeon each September in our hallway."
+  },
+  {
+    "id": 89,
+    "word": "businesslike",
+    "sentence1": "She kept a businesslike tone while running the bake-sale table.",
+    "sentence2": "The student council meeting stayed businesslike and short."
+  },
+  {
+    "id": 90,
+    "word": "busybody",
+    "sentence1": "The busybody neighbor asked about every new garden plant.",
+    "sentence2": "A magazine busybody in the story learned to mind her own work."
+  },
+  {
+    "id": 91,
+    "word": "butterscotch",
+    "sentence1": "We stirred butterscotch chips into the cookie dough.",
+    "sentence2": "Grandma's butterscotch pudding cooled on the kitchen counter."
+  },
+  {
+    "id": 92,
+    "word": "cacao",
+    "sentence1": "The cookbook showed cacao beans before they become chocolate.",
+    "sentence2": "Our geography lesson traced cacao farms in warm countries."
+  },
+  {
+    "id": 93,
+    "word": "calculus",
+    "sentence1": "The older students compared calculus notes in the library.",
+    "sentence2": "A guest teacher used a simple graph to introduce calculus."
+  },
+  {
+    "id": 94,
+    "word": "camaraderie",
+    "sentence1": "Team camaraderie grew during the long bus ride to the meet.",
+    "sentence2": "Kitchen camaraderie made the cooking club extra fun."
+  },
+  {
+    "id": 95,
+    "word": "camouflage",
+    "sentence1": "The walking stick insect uses camouflage among dry twigs.",
+    "sentence2": "Art students painted camouflage patterns on cardboard tanks."
+  },
+  {
+    "id": 96,
+    "word": "capacity",
+    "sentence1": "The gym was near capacity for the Friday night game.",
+    "sentence2": "This bottle's capacity is two liters of water."
+  },
+  {
+    "id": 97,
+    "word": "carcinogen",
+    "sentence1": "The lab poster listed tobacco smoke as a known carcinogen.",
+    "sentence2": "Our science notes defined a carcinogen as a cancer-causing agent."
+  },
+  {
+    "id": 98,
+    "word": "carotene",
+    "sentence1": "Carrots get their orange color from carotene in the plant.",
+    "sentence2": "The nutrition chart showed carotene in sweet potatoes too."
+  },
+  {
+    "id": 99,
+    "word": "cataclysm",
+    "sentence1": "The novel's storm was a cataclysm that changed the village.",
+    "sentence2": "Losing the saved game felt like a tiny cataclysm to the team."
+  },
+  {
+    "id": 100,
+    "word": "Celsius",
+    "sentence1": "Water freezes at zero degrees Celsius in science class.",
+    "sentence2": "The weather app switched from Fahrenheit to Celsius for our trip."
+  },
+  {
+    "id": 101,
+    "word": "centrifugal",
+    "sentence1": "A centrifugal force seemed to push us outward on the spinning ride.",
+    "sentence2": "The lab demo used a spinning tube to show centrifugal motion."
+  },
+  {
+    "id": 102,
+    "word": "ceremonial",
+    "sentence1": "The principal wore a ceremonial sash at graduation practice.",
+    "sentence2": "A ceremonial drumbeat opened the morning cultural assembly."
+  },
+  {
+    "id": 103,
+    "word": "chambray",
+    "sentence1": "He wore a soft chambray shirt on picture day.",
+    "sentence2": "The costume rack held a faded chambray apron for the kitchen scene."
+  },
+  {
+    "id": 104,
+    "word": "chameleon",
+    "sentence1": "The chameleon slowly changed color on the zoo branch.",
+    "sentence2": "A plush chameleon sat on the science shelf beside the terrarium."
+  },
+  {
+    "id": 105,
+    "word": "chemotherapy",
+    "sentence1": "Aunt May finished chemotherapy and slowly felt stronger.",
+    "sentence2": "The health article explained how chemotherapy treats sick cells."
+  },
+  {
+    "id": 106,
+    "word": "chivalry",
+    "sentence1": "The story praised chivalry as kind, brave, and fair conduct.",
+    "sentence2": "Holding the door was simple chivalry, not a big show."
+  },
+  {
+    "id": 107,
+    "word": "cholesterol",
+    "sentence1": "The nurse explained cholesterol with a simple heart diagram.",
+    "sentence2": "Our nutrition unit listed foods that can raise cholesterol."
+  },
+  {
+    "id": 108,
+    "word": "chronological",
+    "sentence1": "Put the presidents in chronological order on the timeline.",
+    "sentence2": "Her diary was chronological, one day after another."
+  },
+  {
+    "id": 109,
+    "word": "circumference",
+    "sentence1": "We measured the circumference of the tree with a tape.",
+    "sentence2": "The math problem asked for the circumference of a circle."
+  },
+  {
+    "id": 110,
+    "word": "citronella",
+    "sentence1": "A citronella candle kept bugs away from the picnic table.",
+    "sentence2": "The camp store sold citronella spray for evening hikes."
+  },
+  {
+    "id": 111,
+    "word": "civilian",
+    "sentence1": "The guest speaker was a civilian engineer, not a soldier.",
+    "sentence2": "In the play, a civilian delivered mail through the busy town."
+  },
+  {
+    "id": 112,
+    "word": "clavicle",
+    "sentence1": "The trainer pointed to the clavicle on the skeleton model.",
+    "sentence2": "A fall on the ice bruised her clavicle, so she sat out gym."
+  },
+  {
+    "id": 113,
+    "word": "coalesce",
+    "sentence1": "Small raindrops coalesce on the window into bigger drops.",
+    "sentence2": "Our scattered ideas began to coalesce into one project plan."
+  },
+  {
+    "id": 114,
+    "word": "cognizance",
+    "sentence1": "The hall monitor took cognizance of the spilled water.",
+    "sentence2": "Please take cognizance of the new lunch-line rules."
+  },
+  {
+    "id": 115,
+    "word": "cohesion",
+    "sentence1": "Team cohesion improved after we wrote a shared game plan.",
+    "sentence2": "Glue gave the paper sculpture extra cohesion before paint."
+  },
+  {
+    "id": 116,
+    "word": "coleslaw",
+    "sentence1": "Dad packed coleslaw beside the sandwiches for the picnic.",
+    "sentence2": "The cafeteria added crunchy coleslaw to Friday's tray."
+  },
+  {
+    "id": 117,
+    "word": "cologne",
+    "sentence1": "A light cologne sat on Dad's dresser near the comb.",
+    "sentence2": "The play's detective wore too much cologne in the first scene."
+  },
+  {
+    "id": 118,
+    "word": "comedienne",
+    "sentence1": "The visiting comedienne made the assembly laugh with kind jokes.",
+    "sentence2": "Our drama club chose a comedienne to host the talent night."
+  },
+  {
+    "id": 119,
+    "word": "commercialize",
+    "sentence1": "The class debated whether to commercialize the school mascot.",
+    "sentence2": "Some artists refuse to commercialize a song made for friends."
+  },
+  {
+    "id": 120,
+    "word": "commodious",
+    "sentence1": "The commodious locker room had space for every team's bags.",
+    "sentence2": "A commodious van carried the whole band to the parade."
+  },
+  {
+    "id": 121,
+    "word": "concealment",
+    "sentence1": "The magician's concealment of the coin fooled the front row.",
+    "sentence2": "A hedge offered concealment for the surprise birthday banner."
+  },
+  {
+    "id": 122,
+    "word": "condescend",
+    "sentence1": "Good tutors never condescend when a student asks again.",
+    "sentence2": "Do not condescend to younger readers in your book review."
+  },
+  {
+    "id": 123,
+    "word": "confectioner",
+    "sentence1": "The town confectioner shaped chocolate roses for the fair.",
+    "sentence2": "We toured a confectioner's kitchen and watched fudge cool."
+  },
+  {
+    "id": 124,
+    "word": "confidential",
+    "sentence1": "Health forms stay confidential in the nurse's locked drawer.",
+    "sentence2": "The counselor said our talk would remain confidential."
+  },
+  {
+    "id": 125,
+    "word": "conflagration",
+    "sentence1": "Adults kept the campfire from becoming a conflagration.",
+    "sentence2": "History class read about a city conflagration and rebuilding."
+  },
+  {
+    "id": 126,
+    "word": "conscientious",
+    "sentence1": "A conscientious lab partner always double-checks every measurement.",
+    "sentence2": "Her conscientious notes saved the group before the quiz."
+  },
+  {
+    "id": 127,
+    "word": "consumable",
+    "sentence1": "Glue sticks are consumable supplies we replace each month.",
+    "sentence2": "The camping list marked snacks as consumable, not gear."
+  },
+  {
+    "id": 128,
+    "word": "continuous",
+    "sentence1": "A continuous beep meant the oven had finished preheating.",
+    "sentence2": "The rain was continuous from lunch until the last bell."
+  },
+  {
+    "id": 129,
+    "word": "controversy",
+    "sentence1": "A friendly controversy arose over the best school mascot.",
+    "sentence2": "The news club covered the bus-route controversy with facts."
+  },
+  {
+    "id": 130,
+    "word": "convalescent",
+    "sentence1": "Grandpa felt convalescent after the flu and rested at home.",
+    "sentence2": "The story's convalescent hero slowly returned to farm chores."
+  },
+  {
+    "id": 131,
+    "word": "copious",
+    "sentence1": "She took copious notes during the guest speaker's talk.",
+    "sentence2": "The copious rain filled the rain barrel beside the garden."
+  },
+  {
+    "id": 132,
+    "word": "corduroy",
+    "sentence1": "He wore soft corduroy pants on the chilly field trip.",
+    "sentence2": "The thrift store had a green corduroy jacket in my size."
+  },
+  {
+    "id": 133,
+    "word": "cosmetology",
+    "sentence1": "The high school offers cosmetology for students who like hair design.",
+    "sentence2": "A career day booth explained cosmetology licenses and training."
+  },
+  {
+    "id": 134,
+    "word": "crinoline",
+    "sentence1": "The costume's crinoline made the skirt stand out in a circle.",
+    "sentence2": "Wardrobe stuffed a crinoline under the dance dress for opening night."
+  },
+  {
+    "id": 135,
+    "word": "crustacean",
+    "sentence1": "A crab is a crustacean with a hard outer shell.",
+    "sentence2": "The tide pool held a small crustacean under a wet rock."
+  },
+  {
+    "id": 136,
+    "word": "cryogenics",
+    "sentence1": "The science video introduced cryogenics with super-cold nitrogen.",
+    "sentence2": "Our club read about cryogenics used to store special samples."
+  },
+  {
+    "id": 137,
+    "word": "cryptogram",
+    "sentence1": "Sunday's puzzle page included a cryptogram of a famous quote.",
+    "sentence2": "We solved the cryptogram by guessing the most common letter."
+  },
+  {
+    "id": 138,
+    "word": "cumulus",
+    "sentence1": "Puffy white cumulus clouds drifted over the soccer field.",
+    "sentence2": "The weather chart labeled those heaps as cumulus."
+  },
+  {
+    "id": 139,
+    "word": "cyberspace",
+    "sentence1": "Stay kind in cyberspace when you post on the class forum.",
+    "sentence2": "The librarian compared cyberspace to a huge public library."
+  },
+  {
+    "id": 140,
+    "word": "dalliance",
+    "sentence1": "A short dalliance with video games delayed his homework start.",
+    "sentence2": "Her dalliance in the art room made her late for lunch."
+  },
+  {
+    "id": 141,
+    "word": "dandelion",
+    "sentence1": "A bright dandelion poked through a crack in the sidewalk.",
+    "sentence2": "We blew a dandelion clock and watched the seeds drift."
+  },
+  {
+    "id": 142,
+    "word": "data processing",
+    "sentence1": "The computer club learned basic data processing after school.",
+    "sentence2": "Our survey needed data processing before we made the chart."
+  },
+  {
+    "id": 143,
+    "word": "debilitate",
+    "sentence1": "A bad cold can debilitate you for a whole weekend.",
+    "sentence2": "Skipping breakfast seemed to debilitate the team by third period."
+  },
+  {
+    "id": 144,
+    "word": "debut",
+    "sentence1": "The band's debut at the coffeehouse drew a friendly crowd.",
+    "sentence2": "Her debut on the school paper was a short sports report."
+  },
+  {
+    "id": 145,
+    "word": "deception",
+    "sentence1": "The magician's deception hid the coin in plain sight.",
+    "sentence2": "A kind teacher warned that deception on homework hurts trust."
+  },
+  {
+    "id": 146,
+    "word": "decisive",
+    "sentence1": "A decisive three-pointer ended the close basketball game.",
+    "sentence2": "Her decisive vote broke the tie in student council."
+  },
+  {
+    "id": 147,
+    "word": "declension",
+    "sentence1": "Latin class practiced the declension of a simple noun.",
+    "sentence2": "The worksheet asked for each form in the declension chart."
+  },
+  {
+    "id": 148,
+    "word": "decrepit",
+    "sentence1": "The decrepit shed leaned but still held the garden tools.",
+    "sentence2": "We replaced the decrepit bench near the playground."
+  },
+  {
+    "id": 149,
+    "word": "defendant",
+    "sentence1": "In mock trial, the defendant sat beside the student lawyer.",
+    "sentence2": "The civics video explained how a defendant can tell a side."
+  },
+  {
+    "id": 150,
+    "word": "deficit",
+    "sentence1": "Our club faced a deficit after buying too many T-shirts.",
+    "sentence2": "The budget lesson defined a deficit as spending more than you have."
+  },
+  {
+    "id": 151,
+    "word": "dehumidify",
+    "sentence1": "A small machine can dehumidify the damp basement after rain.",
+    "sentence2": "We ran a fan to dehumidify the locker room after swim practice."
+  },
+  {
+    "id": 152,
+    "word": "deleterious",
+    "sentence1": "Too little sleep can be deleterious to quiz performance.",
+    "sentence2": "The poster warned that litter is deleterious to creek life."
+  },
+  {
+    "id": 153,
+    "word": "dementia",
+    "sentence1": "The nurse explained dementia in simple, kind words.",
+    "sentence2": "Our health unit covered dementia and how families give care."
+  },
+  {
+    "id": 154,
+    "word": "demure",
+    "sentence1": "The demure narrator spoke softly at the start of the play.",
+    "sentence2": "A demure thank-you note still felt warm and sincere."
+  },
+  {
+    "id": 155,
+    "word": "denunciation",
+    "sentence1": "The editorial was a denunciation of wasting cafeteria food.",
+    "sentence2": "Her speech included a denunciation of cheating on group work."
+  },
+  {
+    "id": 156,
+    "word": "deplete",
+    "sentence1": "Long practices can deplete our water bottles by halftime.",
+    "sentence2": "Do not deplete the glue supply before the mural is finished."
+  },
+  {
+    "id": 157,
+    "word": "depreciate",
+    "sentence1": "Used bikes depreciate, so we priced ours a little lower.",
+    "sentence2": "The economics lesson showed how cars depreciate each year."
+  },
+  {
+    "id": 158,
+    "word": "depressurize",
+    "sentence1": "The science video showed how planes depressurize a cabin for tests.",
+    "sentence2": "Lab rules say never depressurize a tank without the teacher."
+  },
+  {
+    "id": 159,
+    "word": "deputize",
+    "sentence1": "The club president can deputize a helper for ticket sales.",
+    "sentence2": "Coaches deputize a captain to lead warm-ups on late days."
+  },
+  {
+    "id": 160,
+    "word": "derogatory",
+    "sentence1": "Those derogatory nicknames are not allowed in our classroom.",
+    "sentence2": "The moderator stopped a derogatory remark during the debate."
+  },
+  {
+    "id": 161,
+    "word": "despicable",
+    "sentence1": "Hiding someone's lunch would be a despicable trick.",
+    "sentence2": "The story's villain did one despicable thing, then learned better."
+  },
+  {
+    "id": 162,
+    "word": "detonation",
+    "sentence1": "The science video showed a tiny detonation inside a sealed tube.",
+    "sentence2": "The teacher compared detonation to a sudden burst of energy."
+  },
+  {
+    "id": 163,
+    "word": "detriment",
+    "sentence1": "Skipping warm-ups is a detriment to a safe soccer practice.",
+    "sentence2": "Too much noise was a detriment to our library research."
+  },
+  {
+    "id": 164,
+    "word": "dexterity",
+    "sentence1": "Juggling scarves takes dexterity and a lot of patience.",
+    "sentence2": "Shop class praised her dexterity with the small screwdriver."
+  },
+  {
+    "id": 165,
+    "word": "diadem",
+    "sentence1": "The costume diadem sparkled under the stage lights.",
+    "sentence2": "In the painting, a queen wore a simple gold diadem."
+  },
+  {
+    "id": 166,
+    "word": "diagnosis",
+    "sentence1": "The doctor shared a clear diagnosis after the checkup.",
+    "sentence2": "Our science team wrote a diagnosis of the sick plant."
+  },
+  {
+    "id": 167,
+    "word": "dilapidated",
+    "sentence1": "The dilapidated barn still made a good photo for art class.",
+    "sentence2": "Volunteers painted the dilapidated bench at the bus stop."
+  },
+  {
+    "id": 168,
+    "word": "diorama",
+    "sentence1": "Her prairie diorama used cotton for clouds and sand for trails.",
+    "sentence2": "The museum diorama showed buffalo on a wide grassland."
+  },
+  {
+    "id": 169,
+    "word": "discourtesy",
+    "sentence1": "Talking during a solo is a discourtesy to the singer.",
+    "sentence2": "He apologized for the discourtesy of cutting in line."
+  },
+  {
+    "id": 170,
+    "word": "disposable",
+    "sentence1": "We used disposable cups at the picnic, then recycled them.",
+    "sentence2": "The nurse opened a disposable glove packet before the check."
+  },
+  {
+    "id": 171,
+    "word": "dispossess",
+    "sentence1": "The board game lets one player dispossess another of a property.",
+    "sentence2": "In the novel, a storm seemed to dispossess the family of their garden."
+  },
+  {
+    "id": 172,
+    "word": "disruptive",
+    "sentence1": "A disruptive phone alarm stopped the quiet reading time.",
+    "sentence2": "The substitute asked us not to be disruptive during the movie."
+  },
+  {
+    "id": 173,
+    "word": "distinguish",
+    "sentence1": "Can you distinguish oak leaves from maple leaves?",
+    "sentence2": "Judges must distinguish two very similar science projects."
+  },
+  {
+    "id": 174,
+    "word": "distribute",
+    "sentence1": "Please distribute the worksheets from the front of each row.",
+    "sentence2": "Volunteers will distribute water at the end of the race."
+  },
+  {
+    "id": 175,
+    "word": "docile",
+    "sentence1": "The docile pony stood still while children brushed its mane.",
+    "sentence2": "A docile hamster sat in her palm during the pet talk."
+  },
+  {
+    "id": 176,
+    "word": "dodder",
+    "sentence1": "Cold hands made Grandpa dodder as he poured the tea.",
+    "sentence2": "The fawn seemed to dodder on new, shaky legs."
+  },
+  {
+    "id": 177,
+    "word": "dogmatic",
+    "sentence1": "A dogmatic teammate refused to try any new play.",
+    "sentence2": "Good scientists avoid dogmatic claims that lack real evidence."
+  },
+  {
+    "id": 178,
+    "word": "dormitory",
+    "sentence1": "The college tour showed a quiet dormitory with bunk beds.",
+    "sentence2": "Camp counselors lined the dormitory with extra blankets."
+  },
+  {
+    "id": 179,
+    "word": "dossier",
+    "sentence1": "Each science fair team kept a dossier of notes and photos.",
+    "sentence2": "The detective in the play carried a thick paper dossier."
+  },
+  {
+    "id": 180,
+    "word": "duchess",
+    "sentence1": "In the story, the duchess opened a library for the town.",
+    "sentence2": "The play's duchess entered with a pile of donated books."
+  },
+  {
+    "id": 181,
+    "word": "dulcet",
+    "sentence1": "A dulcet flute solo floated over the quiet auditorium.",
+    "sentence2": "The dulcet chime called us in from recess without a shout."
+  },
+  {
+    "id": 182,
+    "word": "dutiable",
+    "sentence1": "The travel article listed which gifts might be dutiable at the border.",
+    "sentence2": "Our economics notes defined a dutiable item as one that can be taxed."
+  },
+  {
+    "id": 183,
+    "word": "dyslexia",
+    "sentence1": "Extra time can help a student with dyslexia show true skill.",
+    "sentence2": "The reading specialist explained dyslexia with simple examples."
+  },
+  {
+    "id": 184,
+    "word": "ecclesiastical",
+    "sentence1": "The museum displayed ecclesiastical robes from a historic chapel.",
+    "sentence2": "Our architecture walk noted ecclesiastical windows in the old church."
+  },
+  {
+    "id": 185,
+    "word": "éclair",
+    "sentence1": "I chose a chocolate éclair from the bakery case.",
+    "sentence2": "The cooking club filled each éclair with cool vanilla cream."
+  },
+  {
+    "id": 186,
+    "word": "effervesce",
+    "sentence1": "The tablets effervesce when dropped into the beaker of water.",
+    "sentence2": "Citrus soda will effervesce if you shake the bottle even a little."
+  },
+  {
+    "id": 187,
+    "word": "effigy",
+    "sentence1": "The parade float carried an effigy of the school mascot.",
+    "sentence2": "Art class built a paper effigy of a friendly dragon."
+  },
+  {
+    "id": 188,
+    "word": "egoist",
+    "sentence1": "The story's egoist learned to share credit with the team.",
+    "sentence2": "An egoist hogged the group presentation until we divided parts."
+  },
+  {
+    "id": 189,
+    "word": "Egyptian",
+    "sentence1": "The museum's Egyptian exhibit included a model of a boat.",
+    "sentence2": "Our history unit compared Egyptian farming along the Nile."
+  },
+  {
+    "id": 190,
+    "word": "electrification",
+    "sentence1": "Rural electrification brought lights to the farm in the old photos.",
+    "sentence2": "The science fair project explained home electrification with a simple circuit."
+  },
+  {
+    "id": 191,
+    "word": "elevated",
+    "sentence1": "An elevated walkway kept us above the busy street.",
+    "sentence2": "Her elevated score on the quiz surprised even her."
+  },
+  {
+    "id": 192,
+    "word": "elimination",
+    "sentence1": "The tournament uses single elimination after the first loss.",
+    "sentence2": "Careful rinsing caused the elimination of soap from the flask."
+  },
+  {
+    "id": 193,
+    "word": "emaciate",
+    "sentence1": "A long drought can emaciate cattle if hay runs short.",
+    "sentence2": "The novel's winter seemed to emaciate the village horses."
+  },
+  {
+    "id": 194,
+    "word": "embankment",
+    "sentence1": "We sat on the grassy embankment to watch the parade.",
+    "sentence2": "Workers repaired the river embankment after the heavy rain."
+  },
+  {
+    "id": 195,
+    "word": "embezzle",
+    "sentence1": "The mystery book asked who might embezzle the club's snack money.",
+    "sentence2": "Civics class explained why no one may embezzle public funds."
+  },
+  {
+    "id": 196,
+    "word": "embodiment",
+    "sentence1": "The kind coach was the embodiment of patient teaching.",
+    "sentence2": "That mural is the embodiment of our school's recycling motto."
+  },
+  {
+    "id": 197,
+    "word": "embryo",
+    "sentence1": "The diagram labeled the plant embryo inside the seed.",
+    "sentence2": "Biology class watched a chick embryo develop in a video."
+  },
+  {
+    "id": 198,
+    "word": "emphasis",
+    "sentence1": "She put extra emphasis on safety before the lab began.",
+    "sentence2": "The coach's emphasis this week is passing, not shooting."
+  },
+  {
+    "id": 199,
+    "word": "emporium",
+    "sentence1": "The toy emporium downtown had aisles of puzzles and kites.",
+    "sentence2": "We bought craft paper at a busy emporium near the station."
+  },
+  {
+    "id": 200,
+    "word": "emulsify",
+    "sentence1": "Mustard can help emulsify oil and vinegar into salad dressing.",
+    "sentence2": "The cooking demo showed how to emulsify a smooth sauce."
+  },
+  {
+    "id": 201,
+    "word": "encyclopedia",
+    "sentence1": "I checked the encyclopedia for facts about volcanoes.",
+    "sentence2": "The library's online encyclopedia helped finish our report."
+  },
+  {
+    "id": 202,
+    "word": "endangerment",
+    "sentence1": "Leaving bikes in the street can cause endangerment to riders.",
+    "sentence2": "The poster said river litter is endangerment to fish."
+  },
+  {
+    "id": 203,
+    "word": "engineering",
+    "sentence1": "The engineering team built a bridge from cardboard and tape.",
+    "sentence2": "She wants an engineering career that designs safer bikes."
+  },
+  {
+    "id": 204,
+    "word": "engross",
+    "sentence1": "A good mystery can engross you until the last page.",
+    "sentence2": "Building the robot seemed to engross the whole club."
+  },
+  {
+    "id": 205,
+    "word": "entertainment",
+    "sentence1": "The talent show provided entertainment for the whole school.",
+    "sentence2": "Board games were our rainy-day entertainment at camp."
+  },
+  {
+    "id": 206,
+    "word": "enunciate",
+    "sentence1": "Please enunciate each line so the back row can hear.",
+    "sentence2": "Choir practice taught us to enunciate the lyrics clearly."
+  },
+  {
+    "id": 207,
+    "word": "enviable",
+    "sentence1": "Her calm focus before tests is an enviable habit.",
+    "sentence2": "The garden club grew an enviable row of sunflowers."
+  },
+  {
+    "id": 208,
+    "word": "epilepsy",
+    "sentence1": "The nurse explained epilepsy and how classmates can help.",
+    "sentence2": "A health video showed first aid for a person with epilepsy."
+  },
+  {
+    "id": 209,
+    "word": "epitome",
+    "sentence1": "That tidy binder is the epitome of good organization.",
+    "sentence2": "The kind crossing guard was the epitome of morning patience."
+  },
+  {
+    "id": 210,
+    "word": "equilibrium",
+    "sentence1": "A spinning top stays in equilibrium until it slows down.",
+    "sentence2": "We found the scale's equilibrium when both sides matched."
+  },
+  {
+    "id": 211,
+    "word": "equitable",
+    "sentence1": "An equitable split of chores kept the group project fair.",
+    "sentence2": "The coach made an equitable rotation so everyone played."
+  },
+  {
+    "id": 212,
+    "word": "erratic",
+    "sentence1": "The weather turned erratic, with sun then sudden drizzle.",
+    "sentence2": "The erratic bouncing made the old tennis ball hard to return."
+  },
+  {
+    "id": 213,
+    "word": "escalation",
+    "sentence1": "A quiet talk prevented escalation of the lunch-line argument.",
+    "sentence2": "The graph showed an escalation in recycling after the contest."
+  },
+  {
+    "id": 214,
+    "word": "espousal",
+    "sentence1": "Her speech was an espousal of longer library hours.",
+    "sentence2": "The club's espousal of kindness showed in hallway posters."
+  },
+  {
+    "id": 215,
+    "word": "et cetera",
+    "sentence1": "Bring pencils, erasers, et cetera, for art class tomorrow.",
+    "sentence2": "The packing list included socks, hats, et cetera, for camp."
+  },
+  {
+    "id": 216,
+    "word": "eucalyptus",
+    "sentence1": "Koalas eat eucalyptus leaves in the zoo exhibit.",
+    "sentence2": "A eucalyptus scent filled the cold-and-flu aisle at the store."
+  },
+  {
+    "id": 217,
+    "word": "euphoria",
+    "sentence1": "Winning the relay filled the team with loud euphoria.",
+    "sentence2": "Opening night brought euphoria after months of rehearsal."
+  },
+  {
+    "id": 218,
+    "word": "exasperate",
+    "sentence1": "Lost permission slips exasperate the office every field-trip week.",
+    "sentence2": "A squeaky locker door can exasperate a whole hallway."
+  },
+  {
+    "id": 219,
+    "word": "excavation",
+    "sentence1": "The city excavation for the new pipe blocked one lane.",
+    "sentence2": "Our history club watched an excavation at the old fort."
+  },
+  {
+    "id": 220,
+    "word": "excerpt",
+    "sentence1": "We read a short excerpt from the novel before discussing it.",
+    "sentence2": "The program printed an excerpt of the winning poem."
+  },
+  {
+    "id": 221,
+    "word": "excitable",
+    "sentence1": "The excitable puppy needed a walk before visitors arrived.",
+    "sentence2": "An excitable crowd cheered every free throw in the gym."
+  },
+  {
+    "id": 222,
+    "word": "excruciating",
+    "sentence1": "Waiting for the delayed bus felt excruciating in the heat.",
+    "sentence2": "An excruciating cramp made her stop and stretch on the track."
+  },
+  {
+    "id": 223,
+    "word": "executioner",
+    "sentence1": "The play's executioner was only a painted cardboard figure.",
+    "sentence2": "In the comedy, the executioner forgot a silly fake axe."
+  },
+  {
+    "id": 224,
+    "word": "exemption",
+    "sentence1": "A doctor's note gave her an exemption from swimming that week.",
+    "sentence2": "The tax lesson defined an exemption as an amount you may skip."
+  },
+  {
+    "id": 225,
+    "word": "exonerate",
+    "sentence1": "New camera footage helped exonerate the student who was blamed.",
+    "sentence2": "The club voted to exonerate a member after a fair review."
+  },
+  {
+    "id": 226,
+    "word": "experience",
+    "sentence1": "Camping overnight was a new experience for several scouts.",
+    "sentence2": "Her experience with coding helped the robotics team."
+  },
+  {
+    "id": 227,
+    "word": "expostulate",
+    "sentence1": "Please do not expostulate in the hallway; talk after class.",
+    "sentence2": "Parents may expostulate with the board at the open meeting."
+  },
+  {
+    "id": 228,
+    "word": "extract",
+    "sentence1": "The recipe called for one teaspoon of vanilla extract.",
+    "sentence2": "Scientists extract juice from the plant for the lab test."
+  },
+  {
+    "id": 229,
+    "word": "extrasensory",
+    "sentence1": "The fantasy book gave the hero extrasensory hints about danger.",
+    "sentence2": "Our debate asked whether extrasensory claims have real proof."
+  },
+  {
+    "id": 230,
+    "word": "extrovert",
+    "sentence1": "An extrovert often enjoys starting conversations at lunch.",
+    "sentence2": "The play needed an extrovert to greet guests in the lobby."
+  },
+  {
+    "id": 231,
+    "word": "exuberantly",
+    "sentence1": "The team cheered exuberantly after the final buzzer.",
+    "sentence2": "She waved exuberantly from the bright parade float."
+  },
+  {
+    "id": 232,
+    "word": "face value",
+    "sentence1": "Do not take every rumor at face value without checking.",
+    "sentence2": "The ticket's face value was printed in small type."
+  },
+  {
+    "id": 233,
+    "word": "factitious",
+    "sentence1": "His factitious accent in the skit made the class laugh.",
+    "sentence2": "The display fruit looked factitious beside the real apples."
+  },
+  {
+    "id": 234,
+    "word": "faithfulness",
+    "sentence1": "The dog's faithfulness showed in its daily wait by the door.",
+    "sentence2": "Club faithfulness meant showing up even on rainy Tuesdays."
+  },
+  {
+    "id": 235,
+    "word": "familiarity",
+    "sentence1": "Her familiarity with the trails made the hike feel safer.",
+    "sentence2": "Her familiarity with fractions helped during the group quiz."
+  },
+  {
+    "id": 236,
+    "word": "fantasia",
+    "sentence1": "The orchestra played a bright fantasia based on folk tunes.",
+    "sentence2": "Art class painted a color fantasia of swirling shapes."
+  },
+  {
+    "id": 237,
+    "word": "faultfinder",
+    "sentence1": "A constant faultfinder can slow a friendly group project.",
+    "sentence2": "The editor is a careful faultfinder, not a mean critic."
+  },
+  {
+    "id": 238,
+    "word": "fealty",
+    "sentence1": "Knights in the story pledged fealty to a fair queen.",
+    "sentence2": "Club members showed fealty to the group's kind rules."
+  },
+  {
+    "id": 239,
+    "word": "fedora",
+    "sentence1": "Grandpa tipped his brown fedora at the train station.",
+    "sentence2": "The costume closet held a gray fedora for the detective."
+  },
+  {
+    "id": 240,
+    "word": "felicitate",
+    "sentence1": "We will felicitate the winners with certificates after lunch.",
+    "sentence2": "Cards from neighbors felicitate the family on the new baby."
+  },
+  {
+    "id": 241,
+    "word": "fermentation",
+    "sentence1": "Yeast starts fermentation that makes bread dough rise.",
+    "sentence2": "The science lab smelled of fermentation during the yogurt demo."
+  },
+  {
+    "id": 242,
+    "word": "fervent",
+    "sentence1": "A fervent cheer rose when the last runner entered the gym.",
+    "sentence2": "Her fervent wish was to finish the novel before Friday."
+  },
+  {
+    "id": 243,
+    "word": "festivity",
+    "sentence1": "Paper lanterns added festivity to the courtyard at dusk.",
+    "sentence2": "The winter festivity included cocoa and a short concert."
+  },
+  {
+    "id": 244,
+    "word": "fibula",
+    "sentence1": "The skeleton model labeled the fibula beside the shin bone.",
+    "sentence2": "A bump on her fibula meant she sat out of gym for a week."
+  },
+  {
+    "id": 245,
+    "word": "figurative",
+    "sentence1": "Rain of blessings is figurative language, not real weather.",
+    "sentence2": "We listed figurative phrases from the poem on the board."
+  },
+  {
+    "id": 246,
+    "word": "filament",
+    "sentence1": "The old bulb's thin filament glowed when we flipped the switch.",
+    "sentence2": "A spider's filament stretched from the porch rail to a chair."
+  },
+  {
+    "id": 247,
+    "word": "flabbergast",
+    "sentence1": "The surprise party will flabbergast her after the last bell.",
+    "sentence2": "Magic tricks still flabbergast the visiting first-grade class."
+  },
+  {
+    "id": 248,
+    "word": "flautist",
+    "sentence1": "The flautist stood beside the clarinets during warm-up.",
+    "sentence2": "A guest flautist taught us how to hold the instrument."
+  },
+  {
+    "id": 249,
+    "word": "flirtatious",
+    "sentence1": "The comedy parrot was flirtatious in a silly cartoon way.",
+    "sentence2": "A flirtatious wave in the skit was just a joke for the crowd."
+  },
+  {
+    "id": 250,
+    "word": "fluidity",
+    "sentence1": "Dance class worked on fluidity from one step to the next.",
+    "sentence2": "The essay had fluidity after we moved two paragraphs."
+  },
+  {
+    "id": 251,
+    "word": "fluorescent",
+    "sentence1": "A fluorescent highlighter made the key dates easy to see.",
+    "sentence2": "The lab used a fluorescent lamp to study plant growth."
+  },
+  {
+    "id": 252,
+    "word": "flycatcher",
+    "sentence1": "A flycatcher darted from the fence to grab an insect.",
+    "sentence2": "Bird club spotted a flycatcher near the soccer field."
+  },
+  {
+    "id": 253,
+    "word": "foible",
+    "sentence1": "Forgetting pencils is a small foible we can easily fix.",
+    "sentence2": "The character's foible was talking too fast when nervous."
+  },
+  {
+    "id": 254,
+    "word": "fool's gold",
+    "sentence1": "The rock kit included a shiny chunk of fool's gold.",
+    "sentence2": "Hikers mistook fool's gold for something far more valuable."
+  },
+  {
+    "id": 255,
+    "word": "forebode",
+    "sentence1": "Dark clouds seemed to forebode a short afternoon storm.",
+    "sentence2": "A quiet hallway can forebode a surprise assembly."
+  },
+  {
+    "id": 256,
+    "word": "foreclosure",
+    "sentence1": "The news article explained foreclosure in simple money terms.",
+    "sentence2": "Our civics unit covered foreclosure and ways families get help."
+  },
+  {
+    "id": 257,
+    "word": "forfeiture",
+    "sentence1": "A late start can mean forfeiture of the first tennis set.",
+    "sentence2": "The club rules list forfeiture of points for missed meetings."
+  },
+  {
+    "id": 258,
+    "word": "formaldehyde",
+    "sentence1": "The lab stored specimens in formaldehyde on a high shelf.",
+    "sentence2": "Our teacher explained why formaldehyde needs careful handling."
+  },
+  {
+    "id": 259,
+    "word": "forthwith",
+    "sentence1": "Please return the permission slip forthwith to the office.",
+    "sentence2": "The leak was reported, and the custodian came forthwith."
+  },
+  {
+    "id": 260,
+    "word": "fortunate",
+    "sentence1": "We were fortunate to find shade during the long walk.",
+    "sentence2": "A fortunate bounce sent the ball straight to our goalie."
+  },
+  {
+    "id": 261,
+    "word": "forum",
+    "sentence1": "Student council hosted a forum about longer lunch times.",
+    "sentence2": "The class forum stayed polite even when opinions differed."
+  },
+  {
+    "id": 262,
+    "word": "fragmentary",
+    "sentence1": "Only fragmentary notes survived from last year's experiment.",
+    "sentence2": "The map was fragmentary, so we used a newer trail guide."
+  },
+  {
+    "id": 263,
+    "word": "fraternize",
+    "sentence1": "Teams may fraternize after the game at the snack table.",
+    "sentence2": "Camp groups fraternize during the evening talent mix."
+  },
+  {
+    "id": 264,
+    "word": "fraudulent",
+    "sentence1": "A fraudulent coupon was rejected at the grocery counter.",
+    "sentence2": "The news club warned about fraudulent contest emails."
+  },
+  {
+    "id": 265,
+    "word": "frequency",
+    "sentence1": "The radio station's frequency is posted on the classroom chart.",
+    "sentence2": "We counted the frequency of bird visits at the feeder."
+  },
+  {
+    "id": 266,
+    "word": "friar",
+    "sentence1": "In the play, a kind friar delivered a peaceful message.",
+    "sentence2": "The history mural showed a friar tending a garden."
+  },
+  {
+    "id": 267,
+    "word": "fricassee",
+    "sentence1": "Mom will fricassee the chicken with mild herbs tonight.",
+    "sentence2": "The cooking club learned how to fricassee vegetables in broth."
+  },
+  {
+    "id": 268,
+    "word": "frijole",
+    "sentence1": "Grandma simmered each frijole until the beans were soft.",
+    "sentence2": "The recipe called for one extra frijole in the pot of chili."
+  },
+  {
+    "id": 269,
+    "word": "frivolous",
+    "sentence1": "A frivolous complaint about the pencil color wasted meeting time.",
+    "sentence2": "We skipped frivolous extras and bought only needed craft supplies."
+  },
+  {
+    "id": 270,
+    "word": "frolicsome",
+    "sentence1": "The frolicsome lambs raced across the farm during our visit.",
+    "sentence2": "A frolicsome breeze tossed the picnic napkins into the grass."
+  },
+  {
+    "id": 271,
+    "word": "fruition",
+    "sentence1": "Months of practice came to fruition on concert night.",
+    "sentence2": "The garden plan reached fruition when tomatoes finally ripened."
+  },
+  {
+    "id": 272,
+    "word": "fugue",
+    "sentence1": "The choir learned a short fugue with overlapping voices.",
+    "sentence2": "Piano class compared a simple melody to a denser fugue."
+  },
+  {
+    "id": 273,
+    "word": "fulcrum",
+    "sentence1": "The seesaw's fulcrum sat in the middle of the board.",
+    "sentence2": "We moved the fulcrum to lift a heavier science weight."
+  },
+  {
+    "id": 274,
+    "word": "functional",
+    "sentence1": "The old printer is still functional after a careful cleaning.",
+    "sentence2": "A functional lunchbox does not have to look fancy."
+  },
+  {
+    "id": 275,
+    "word": "furtherance",
+    "sentence1": "The bake sale was for the furtherance of the band trip.",
+    "sentence2": "Tutors work in furtherance of every student's progress."
+  },
+  {
+    "id": 276,
+    "word": "fusillade",
+    "sentence1": "A fusillade of questions followed the science demonstration.",
+    "sentence2": "Cheerful thanks came in a fusillade after the concert."
+  },
+  {
+    "id": 277,
+    "word": "futon",
+    "sentence1": "Guests slept on the futon in our small living room.",
+    "sentence2": "We folded the futon into a couch before the party."
+  },
+  {
+    "id": 278,
+    "word": "fuzziness",
+    "sentence1": "Morning fuzziness faded after breakfast and a short walk.",
+    "sentence2": "The photo's fuzziness came from a smudged camera lens."
+  },
+  {
+    "id": 279,
+    "word": "galore",
+    "sentence1": "The fair had prizes galore at the ring-toss booth.",
+    "sentence2": "After the bake sale, leftovers galore filled the faculty lounge."
+  },
+  {
+    "id": 280,
+    "word": "gamin",
+    "sentence1": "The story's gamin sold newspapers on a busy corner.",
+    "sentence2": "A cheerful gamin in the play darted between market stalls."
+  },
+  {
+    "id": 281,
+    "word": "gargoyle",
+    "sentence1": "A stone gargoyle stared down from the old library roof.",
+    "sentence2": "Art students modeled a clay gargoyle with a funny grin."
+  },
+  {
+    "id": 282,
+    "word": "garrison",
+    "sentence1": "The historic fort's garrison once lived in those stone rooms.",
+    "sentence2": "Our field trip guide described daily life in the garrison."
+  },
+  {
+    "id": 283,
+    "word": "gastropod",
+    "sentence1": "A snail is a gastropod that carries its house along.",
+    "sentence2": "The tide pool held a small gastropod on wet kelp."
+  },
+  {
+    "id": 284,
+    "word": "gazpacho",
+    "sentence1": "Cold gazpacho tasted perfect on the hot picnic afternoon.",
+    "sentence2": "The cooking club blended tomatoes for a bright gazpacho."
+  },
+  {
+    "id": 285,
+    "word": "Gemini",
+    "sentence1": "The constellation Gemini looks like two figures side by side.",
+    "sentence2": "Our planetarium show pointed out Gemini near the twins' stars."
+  },
+  {
+    "id": 286,
+    "word": "genealogy",
+    "sentence1": "Family genealogy charts filled a wall at the reunion.",
+    "sentence2": "The library workshop taught basic genealogy with old census pages."
+  },
+  {
+    "id": 287,
+    "word": "genre",
+    "sentence1": "Mystery is her favorite genre in the school library.",
+    "sentence2": "We compared one genre of music with another in choir."
+  },
+  {
+    "id": 288,
+    "word": "geothermal",
+    "sentence1": "The science park used geothermal heat from underground water.",
+    "sentence2": "Our energy unit compared geothermal plants with wind farms."
+  },
+  {
+    "id": 289,
+    "word": "geriatrics",
+    "sentence1": "A career talk explained geriatrics as care for older adults.",
+    "sentence2": "The clinic's geriatrics wing had extra handrails in the halls."
+  },
+  {
+    "id": 290,
+    "word": "geyser",
+    "sentence1": "A geyser at the park shot steam on a timed schedule.",
+    "sentence2": "The earth-science video showed how a geyser builds pressure."
+  },
+  {
+    "id": 291,
+    "word": "ghostwrite",
+    "sentence1": "Some athletes hire helpers to ghostwrite their life stories.",
+    "sentence2": "Our ethics debate asked whether it is fair to ghostwrite a speech."
+  },
+  {
+    "id": 292,
+    "word": "gigahertz",
+    "sentence1": "The computer label listed speed in gigahertz on the side.",
+    "sentence2": "Tech club explained what one gigahertz means for a processor."
+  },
+  {
+    "id": 293,
+    "word": "gimmick",
+    "sentence1": "The store's flashing gimmick did not make the snack healthier.",
+    "sentence2": "A contest gimmick of extra tickets packed the gym."
+  },
+  {
+    "id": 294,
+    "word": "gingivitis",
+    "sentence1": "The dentist said daily brushing can prevent gingivitis.",
+    "sentence2": "A health poster explained gingivitis in simple mouth-care steps."
+  },
+  {
+    "id": 295,
+    "word": "gizmo",
+    "sentence1": "The inventor's tiny gizmo clipped papers without a staple.",
+    "sentence2": "I still cannot name that kitchen gizmo that cores apples."
+  },
+  {
+    "id": 296,
+    "word": "glass ceiling",
+    "sentence1": "The career talk explained a glass ceiling as an unfair limit.",
+    "sentence2": "History class discussed how people work to break a glass ceiling."
+  },
+  {
+    "id": 297,
+    "word": "glistened",
+    "sentence1": "Wet pavement glistened under the streetlights after the rain.",
+    "sentence2": "Frost glistened on the soccer goals at dawn."
+  },
+  {
+    "id": 298,
+    "word": "gluttonous",
+    "sentence1": "A gluttonous grab at the snacks left little for latecomers.",
+    "sentence2": "The story's gluttonous raccoon emptied the picnic basket."
+  },
+  {
+    "id": 299,
+    "word": "goldenrod",
+    "sentence1": "Tall goldenrod bloomed along the fence in late summer.",
+    "sentence2": "Art class mixed a goldenrod yellow for the prairie mural."
+  },
+  {
+    "id": 300,
+    "word": "gondola",
+    "sentence1": "We rode a gondola up the mountain on the field trip.",
+    "sentence2": "The photo showed a black gondola on a quiet canal."
+  },
+  {
+    "id": 301,
+    "word": "gossamer",
+    "sentence1": "A gossamer thread from a spider shone in the morning sun.",
+    "sentence2": "The costume's gossamer sleeves floated during the dance."
+  },
+  {
+    "id": 302,
+    "word": "Gothic",
+    "sentence1": "The old campus chapel has tall Gothic windows.",
+    "sentence2": "Our architecture walk pointed out a Gothic arch over the door."
+  },
+  {
+    "id": 303,
+    "word": "gouge",
+    "sentence1": "The carpenter used a tool to gouge a shallow groove.",
+    "sentence2": "Shoppers said the extra fee would gouge a small budget."
+  },
+  {
+    "id": 304,
+    "word": "gradient",
+    "sentence1": "The hill's steep gradient made the bike ride extra hard.",
+    "sentence2": "Art class blended a color gradient from blue to green."
+  },
+  {
+    "id": 305,
+    "word": "grandiloquence",
+    "sentence1": "The speech's grandiloquence hid a very simple request.",
+    "sentence2": "Coaches prefer clear plans over empty grandiloquence at meetings."
+  },
+  {
+    "id": 306,
+    "word": "graphology",
+    "sentence1": "A guest speaker introduced graphology as the study of handwriting.",
+    "sentence2": "Our class treated graphology as a curiosity, not proof."
+  },
+  {
+    "id": 307,
+    "word": "gratuity",
+    "sentence1": "A small gratuity was added for the helpful pizza driver.",
+    "sentence2": "The receipt showed a blank line for a gratuity."
+  },
+  {
+    "id": 308,
+    "word": "greasepaint",
+    "sentence1": "Actors smeared greasepaint on their cheeks before the play.",
+    "sentence2": "Cold cream later removed the bright greasepaint from their faces."
+  },
+  {
+    "id": 309,
+    "word": "Grecian",
+    "sentence1": "The museum displayed a Grecian urn with painted athletes.",
+    "sentence2": "Our history notes compared Grecian columns with Roman ones."
+  },
+  {
+    "id": 310,
+    "word": "gregarious",
+    "sentence1": "A gregarious puppy greeted every visitor at the door.",
+    "sentence2": "Her gregarious nature made the new student feel welcome."
+  },
+  {
+    "id": 311,
+    "word": "groomsman",
+    "sentence1": "Uncle served as groomsman and held the rings carefully.",
+    "sentence2": "The groomsman straightened the chairs before the family photos."
+  },
+  {
+    "id": 312,
+    "word": "grotesqueness",
+    "sentence1": "The mask's grotesqueness was funny, not frightening, in the comedy.",
+    "sentence2": "Art students discussed the gargoyle's grotesqueness as design, not meanness."
+  },
+  {
+    "id": 313,
+    "word": "groupie",
+    "sentence1": "The story's groupie followed the band with homemade posters.",
+    "sentence2": "A loyal groupie waited by the gym for autographs after the concert."
+  },
+  {
+    "id": 314,
+    "word": "Gruyère",
+    "sentence1": "The recipe melted Gruyère over the baked potatoes.",
+    "sentence2": "We sampled nutty Gruyère at the school cheese tasting."
+  },
+  {
+    "id": 315,
+    "word": "guarantee",
+    "sentence1": "The store's guarantee covered the backpack for one year.",
+    "sentence2": "I cannot guarantee sunshine, but the picnic plan is ready."
+  },
+  {
+    "id": 316,
+    "word": "gubernatorial",
+    "sentence1": "Our civics class watched a gubernatorial debate on campus.",
+    "sentence2": "The news club summarized the gubernatorial race in simple facts."
+  },
+  {
+    "id": 317,
+    "word": "guiltiness",
+    "sentence1": "A look of guiltiness crossed his face after the spilled paint.",
+    "sentence2": "The story explored guiltiness after a borrowed book went missing."
+  },
+  {
+    "id": 318,
+    "word": "guinea pig",
+    "sentence1": "Our classroom guinea pig nibbled lettuce during quiet reading.",
+    "sentence2": "She volunteered to be the guinea pig for the new lunch recipe."
+  },
+  {
+    "id": 319,
+    "word": "gunnysack",
+    "sentence1": "Potatoes arrived in a rough gunnysack from the farm stand.",
+    "sentence2": "We stuffed the gunnysack with leaves for the fall display."
+  },
+  {
+    "id": 320,
+    "word": "gymnasium",
+    "sentence1": "The gymnasium echoed during early morning basketball practice.",
+    "sentence2": "Folding chairs filled the gymnasium for Saturday's concert."
+  },
+  {
+    "id": 321,
+    "word": "gyrfalcon",
+    "sentence1": "The nature film showed a gyrfalcon gliding over snowy hills.",
+    "sentence2": "A zoo sign described the gyrfalcon as a powerful Arctic bird."
+  },
+  {
+    "id": 322,
+    "word": "habitation",
+    "sentence1": "The cave showed signs of ancient habitation near the river.",
+    "sentence2": "City rules limit habitation in the old warehouse district."
+  },
+  {
+    "id": 323,
+    "word": "hairbreadth",
+    "sentence1": "We won by a hairbreadth in the last second of the race.",
+    "sentence2": "The shelf missed the doorframe by a hairbreadth."
+  },
+  {
+    "id": 324,
+    "word": "harbinger",
+    "sentence1": "Robins can be a harbinger of milder spring weather.",
+    "sentence2": "A quiet hallway was a harbinger of a surprise assembly."
+  },
+  {
+    "id": 325,
+    "word": "hard-boiled",
+    "sentence1": "I packed a hard-boiled egg in my lunchbox.",
+    "sentence2": "The picnic salad used chopped hard-boiled eggs and celery."
+  },
+  {
+    "id": 326,
+    "word": "hardheaded",
+    "sentence1": "A hardheaded refusal to try a new play slowed the team.",
+    "sentence2": "Even a hardheaded mule finally followed the gentle trainer."
+  },
+  {
+    "id": 327,
+    "word": "harmonization",
+    "sentence1": "Choir worked on harmonization of the two melody lines.",
+    "sentence2": "Club officers planned the harmonization of two overlapping events."
+  },
+  {
+    "id": 328,
+    "word": "harpsichord",
+    "sentence1": "The music room's harpsichord clicked softly during the baroque piece.",
+    "sentence2": "A guest played the harpsichord for our history assembly."
+  },
+  {
+    "id": 329,
+    "word": "hassock",
+    "sentence1": "Grandma rested her feet on a round hassock by the sofa.",
+    "sentence2": "We moved the hassock so more chairs could fit."
+  },
+  {
+    "id": 330,
+    "word": "healthier",
+    "sentence1": "Swapping soda for water made our lunches healthier this week.",
+    "sentence2": "The garden salad looked healthier than the fried snacks."
+  },
+  {
+    "id": 331,
+    "word": "heedless",
+    "sentence1": "A heedless dash into the hallway almost caused a collision.",
+    "sentence2": "We still walked the long way home, heedless of the puddle."
+  },
+  {
+    "id": 332,
+    "word": "heinous",
+    "sentence1": "Leaving trash on the field felt heinous to the whole team.",
+    "sentence2": "The coach called skipping homework a heinous habit."
+  },
+  {
+    "id": 333,
+    "word": "heliport",
+    "sentence1": "The hospital heliport sits on a marked rooftop pad.",
+    "sentence2": "From the bus we saw a small heliport beside the clinic."
+  },
+  {
+    "id": 334,
+    "word": "hemisphere",
+    "sentence1": "Texas is in the northern hemisphere of Earth.",
+    "sentence2": "The model showed one hemisphere of the brain in color."
+  },
+  {
+    "id": 335,
+    "word": "henna",
+    "sentence1": "A festival booth painted henna designs on willing hands.",
+    "sentence2": "The art club mixed henna paste for a cultural day display."
+  },
+  {
+    "id": 336,
+    "word": "herbaceous",
+    "sentence1": "Lavender is an herbaceous plant in our school garden.",
+    "sentence2": "The garden map marked herbaceous beds along the path."
+  },
+  {
+    "id": 337,
+    "word": "heretical",
+    "sentence1": "In history, a heretical idea simply went against official teaching.",
+    "sentence2": "The novel's heretical inventor questioned every old rule."
+  },
+  {
+    "id": 338,
+    "word": "heroically",
+    "sentence1": "She heroically finished the relay after cramping on the last lap.",
+    "sentence2": "Volunteers worked heroically to restack books after the leak."
+  },
+  {
+    "id": 339,
+    "word": "herringbone",
+    "sentence1": "The brick path used a herringbone pattern near the library.",
+    "sentence2": "His wool coat had a faint herringbone weave."
+  },
+  {
+    "id": 340,
+    "word": "heterogeneous",
+    "sentence1": "The salad was a heterogeneous mix of fruits and nuts.",
+    "sentence2": "Our group is heterogeneous, with many different strengths."
+  },
+  {
+    "id": 341,
+    "word": "hibernate",
+    "sentence1": "Some bats hibernate in caves through the coldest months.",
+    "sentence2": "The science video showed how ground squirrels hibernate."
+  },
+  {
+    "id": 342,
+    "word": "hieroglyph",
+    "sentence1": "Each hieroglyph on the replica stood for a sound or idea.",
+    "sentence2": "We copied one hieroglyph into our Egypt notebooks."
+  },
+  {
+    "id": 343,
+    "word": "hilarious",
+    "sentence1": "The skit's mix-up at the bakery was hilarious.",
+    "sentence2": "A hilarious caption under the yearbook photo made us smile."
+  },
+  {
+    "id": 344,
+    "word": "hindrance",
+    "sentence1": "A missing charger was a hindrance during the presentation.",
+    "sentence2": "Wet fields were a hindrance to Saturday's soccer game."
+  },
+  {
+    "id": 345,
+    "word": "hobbledehoy",
+    "sentence1": "The play's hobbledehoy tripped, then bowed with a grin.",
+    "sentence2": "In the story, a hobbledehoy learned manners from a kind cook."
+  },
+  {
+    "id": 346,
+    "word": "holistic",
+    "sentence1": "The coach takes a holistic view of rest, food, and practice.",
+    "sentence2": "A holistic garden plan included soil, water, and helpful insects."
+  },
+  {
+    "id": 347,
+    "word": "holocaust",
+    "sentence1": "Our history chapter explained why people remember the holocaust carefully.",
+    "sentence2": "The museum lesson treated the holocaust with quiet respect."
+  },
+  {
+    "id": 348,
+    "word": "Holstein",
+    "sentence1": "A black-and-white Holstein stood near the barn during the tour.",
+    "sentence2": "The farm book labeled that dairy cow as a Holstein."
+  },
+  {
+    "id": 349,
+    "word": "homogenate",
+    "sentence1": "The lab mixed fruit into a smooth homogenate for testing.",
+    "sentence2": "We blended the sample into a homogenate before measuring sugar."
+  },
+  {
+    "id": 350,
+    "word": "honorary",
+    "sentence1": "The principal gave an honorary ribbon to the retiring librarian.",
+    "sentence2": "She became an honorary member of the robotics club."
+  },
+  {
+    "id": 351,
+    "word": "horrendous",
+    "sentence1": "The horrendous traffic made us late for the concert.",
+    "sentence2": "A horrendous mess of papers covered the group table."
+  },
+  {
+    "id": 352,
+    "word": "hors d'oeuvre",
+    "sentence1": "Each hors d'oeuvre on the tray was small enough for one bite.",
+    "sentence2": "We passed a vegetable hors d'oeuvre before the family dinner."
+  },
+  {
+    "id": 353,
+    "word": "hostility",
+    "sentence1": "The debate stayed firm but never slipped into hostility.",
+    "sentence2": "Coaches asked both teams to drop any hostility after the game."
+  },
+  {
+    "id": 354,
+    "word": "hotchpotch",
+    "sentence1": "Lunch was a hotchpotch of leftovers that still tasted fine.",
+    "sentence2": "The mural began as a hotchpotch of sketches and stickers."
+  },
+  {
+    "id": 355,
+    "word": "hourglass",
+    "sentence1": "An hourglass on the teacher's desk timed our quiet reading.",
+    "sentence2": "Sand in the hourglass ran out before we finished the puzzle."
+  },
+  {
+    "id": 356,
+    "word": "humanitarian",
+    "sentence1": "The club packed a humanitarian kit of soap and socks.",
+    "sentence2": "A humanitarian group collected coats after the assembly."
+  },
+  {
+    "id": 357,
+    "word": "humidity",
+    "sentence1": "High humidity made the gym feel sticky after practice.",
+    "sentence2": "The weather chart tracked humidity along with temperature."
+  },
+  {
+    "id": 358,
+    "word": "hyacinth",
+    "sentence1": "A purple hyacinth bloomed in the classroom window box.",
+    "sentence2": "The garden shop sold hyacinth bulbs for early spring."
+  },
+  {
+    "id": 359,
+    "word": "hydraulic",
+    "sentence1": "The shop class lifted the car with a hydraulic jack.",
+    "sentence2": "A hydraulic arm on the robot moved the foam block."
+  },
+  {
+    "id": 360,
+    "word": "hydrography",
+    "sentence1": "The map unit introduced hydrography as the charting of waters.",
+    "sentence2": "Our coastal project used hydrography to label bays and channels."
+  },
+  {
+    "id": 361,
+    "word": "hypersensitive",
+    "sentence1": "A hypersensitive smoke alarm chirped at burnt toast.",
+    "sentence2": "The camera was hypersensitive to small shakes in low light."
+  },
+  {
+    "id": 362,
+    "word": "hypotenuse",
+    "sentence1": "We measured the hypotenuse of the right triangle on paper.",
+    "sentence2": "The ladder against the wall formed a hypotenuse in our sketch."
+  },
+  {
+    "id": 363,
+    "word": "hysterical",
+    "sentence1": "The class turned hysterical with laughter at the unexpected pun.",
+    "sentence2": "A hysterical giggle spread through the back row of the bus."
+  },
+  {
+    "id": 364,
+    "word": "ice hockey",
+    "sentence1": "After school we watched ice hockey at the community rink.",
+    "sentence2": "Her ice hockey stick leaned beside the front door."
+  },
+  {
+    "id": 365,
+    "word": "identification",
+    "sentence1": "Bring identification to pick up tickets at the office.",
+    "sentence2": "Bird identification got easier with the pocket guide."
+  },
+  {
+    "id": 366,
+    "word": "idiosyncrasy",
+    "sentence1": "His idiosyncrasy was lining pencils by color before tests.",
+    "sentence2": "Every family has an idiosyncrasy around holiday pancakes."
+  },
+  {
+    "id": 367,
+    "word": "igneous",
+    "sentence1": "Granite is an igneous rock formed from cooled magma.",
+    "sentence2": "We sorted igneous samples from the sedimentary ones."
+  },
+  {
+    "id": 368,
+    "word": "iguana",
+    "sentence1": "The pet iguana blinked slowly on its warm rock.",
+    "sentence2": "A zoo iguana sat under a heat lamp all afternoon."
+  },
+  {
+    "id": 369,
+    "word": "illicit",
+    "sentence1": "Selling homework answers is illicit and against school rules.",
+    "sentence2": "The news club reported on illicit dumping near the river."
+  },
+  {
+    "id": 370,
+    "word": "immensity",
+    "sentence1": "The immensity of the night sky quieted the whole camp.",
+    "sentence2": "Standing under the stadium lights, we felt the immensity of the field."
+  },
+  {
+    "id": 371,
+    "word": "impassioned",
+    "sentence1": "An impassioned plea saved the after-school art program.",
+    "sentence2": "Her impassioned speech about recycling earned a standing clap."
+  },
+  {
+    "id": 372,
+    "word": "impatient",
+    "sentence1": "An impatient line formed when the copier jammed.",
+    "sentence2": "He grew impatient waiting for the slow oven timer."
+  },
+  {
+    "id": 373,
+    "word": "impediment",
+    "sentence1": "A locked gate was an impediment to the shortcut home.",
+    "sentence2": "Shyness can be an impediment, but practice helps."
+  },
+  {
+    "id": 374,
+    "word": "impervious",
+    "sentence1": "The raincoat was almost impervious to the afternoon drizzle.",
+    "sentence2": "Good notes made her impervious to last-minute panic."
+  },
+  {
+    "id": 375,
+    "word": "implode",
+    "sentence1": "The cooled bottle appeared to implode during the air experiment.",
+    "sentence2": "A crushed soda can seemed to implode under the teacher's hand."
+  },
+  {
+    "id": 376,
+    "word": "impulsive",
+    "sentence1": "An impulsive snack purchase used up her lunch money.",
+    "sentence2": "His impulsive jump into the pool came before checking the depth."
+  },
+  {
+    "id": 377,
+    "word": "inadmissible",
+    "sentence1": "In mock trial, gossip was ruled inadmissible as evidence.",
+    "sentence2": "Late forms were inadmissible after the office deadline."
+  },
+  {
+    "id": 378,
+    "word": "inalienable",
+    "sentence1": "Civics class called free speech an inalienable right.",
+    "sentence2": "The essay named life and liberty as inalienable ideas."
+  },
+  {
+    "id": 379,
+    "word": "incapacitate",
+    "sentence1": "A sprained ankle can incapacitate a runner for days.",
+    "sentence2": "Dead batteries incapacitate the calculator during a quiz."
+  },
+  {
+    "id": 380,
+    "word": "incarnate",
+    "sentence1": "The kind coach seemed patience incarnate on a hard day.",
+    "sentence2": "In the fable, winter incarnate arrived as a silver fox."
+  },
+  {
+    "id": 381,
+    "word": "incitement",
+    "sentence1": "Loud incitement from the stands did not change the referee.",
+    "sentence2": "The poster warned that teasing can become incitement to trouble."
+  },
+  {
+    "id": 382,
+    "word": "incompatibility",
+    "sentence1": "Software incompatibility kept the old printer from working.",
+    "sentence2": "An incompatibility of schedules delayed the group meeting."
+  },
+  {
+    "id": 383,
+    "word": "inconspicuous",
+    "sentence1": "An inconspicuous door led to the quiet music practice rooms.",
+    "sentence2": "She made an inconspicuous note in the margin of her book."
+  },
+  {
+    "id": 384,
+    "word": "inconvenient",
+    "sentence1": "The bus change was inconvenient but got us home safely.",
+    "sentence2": "An inconvenient rain moved the picnic into the cafeteria."
+  },
+  {
+    "id": 385,
+    "word": "incredible",
+    "sentence1": "The science fair robot made an incredible looping path.",
+    "sentence2": "Her recovery after the flu felt incredible by Friday."
+  },
+  {
+    "id": 386,
+    "word": "indecision",
+    "sentence1": "Their indecision over toppings slowed the whole pizza order.",
+    "sentence2": "A moment of indecision cost us the last library computer."
+  },
+  {
+    "id": 387,
+    "word": "indemnity",
+    "sentence1": "The field-trip form mentioned indemnity for the bus company.",
+    "sentence2": "Our civics notes defined indemnity as protection from certain costs."
+  },
+  {
+    "id": 388,
+    "word": "indicate",
+    "sentence1": "Arrows indicate the shortest path to the auditorium.",
+    "sentence2": "A rising line on the graph can indicate faster growth."
+  },
+  {
+    "id": 389,
+    "word": "indolent",
+    "sentence1": "An indolent cat ignored the toy and stayed in the sun.",
+    "sentence2": "Those indolent habits made the project pile up until Sunday night."
+  },
+  {
+    "id": 390,
+    "word": "inducement",
+    "sentence1": "Extra recess was an inducement to finish the hallway cleanup.",
+    "sentence2": "A small coupon was the store's inducement to try a new snack."
+  },
+  {
+    "id": 391,
+    "word": "ineligible",
+    "sentence1": "Without the physical form, he was ineligible for the meet.",
+    "sentence2": "Late entries are ineligible for the art contest."
+  },
+  {
+    "id": 392,
+    "word": "inertia",
+    "sentence1": "A rolling ball shows inertia until friction slows it.",
+    "sentence2": "Morning inertia faded after we started the warm-up laps."
+  },
+  {
+    "id": 393,
+    "word": "inferiority",
+    "sentence1": "A feeling of inferiority faded once she learned the new play.",
+    "sentence2": "The coach said no position has inferiority on this team."
+  },
+  {
+    "id": 394,
+    "word": "infirmary",
+    "sentence1": "Camp sent a camper with a fever to the infirmary.",
+    "sentence2": "Ice packs are kept in the school infirmary."
+  },
+  {
+    "id": 395,
+    "word": "inflexible",
+    "sentence1": "An inflexible deadline meant the posters had to be done Friday.",
+    "sentence2": "The old ruler was too inflexible for measuring the curved vase."
+  },
+  {
+    "id": 396,
+    "word": "infrequent",
+    "sentence1": "The infrequent buses on Saturday made us leave extra early.",
+    "sentence2": "An infrequent visitor still remembered every student's name."
+  },
+  {
+    "id": 397,
+    "word": "inheritance",
+    "sentence1": "In the story, the farm was an inheritance from grandparents.",
+    "sentence2": "A recipe box became her favorite inheritance from Grandma."
+  },
+  {
+    "id": 398,
+    "word": "inscrutable",
+    "sentence1": "The cat's inscrutable stare followed the laser dot.",
+    "sentence2": "An inscrutable puzzle box hid a tiny key inside."
+  },
+  {
+    "id": 399,
+    "word": "insignia",
+    "sentence1": "Each patrol sewed an insignia onto the scout sash.",
+    "sentence2": "The museum case held a faded airline insignia from the 1950s."
+  },
+  {
+    "id": 400,
+    "word": "instigate",
+    "sentence1": "A catchy chant can instigate a friendly wave in the stands.",
+    "sentence2": "Do not instigate an argument over a shared calculator."
+  },
+  {
+    "id": 401,
+    "word": "insubordinate",
+    "sentence1": "An insubordinate remark during drill earned extra cleanup.",
+    "sentence2": "The play's insubordinate sailor later learned to follow orders."
+  },
+  {
+    "id": 402,
+    "word": "insufficiency",
+    "sentence1": "An insufficiency of glue delayed the diorama's finish.",
+    "sentence2": "The coach noted an insufficiency of water bottles on the bench."
+  },
+  {
+    "id": 403,
+    "word": "intermediary",
+    "sentence1": "A counselor acted as intermediary between the two clubs.",
+    "sentence2": "The student council served as an intermediary with the office."
+  },
+  {
+    "id": 404,
+    "word": "invasive",
+    "sentence1": "An invasive vine crowded the native plants along the fence.",
+    "sentence2": "The nurse said the test was quick and not very invasive."
+  },
+  {
+    "id": 405,
+    "word": "ionosphere",
+    "sentence1": "Radio waves can bounce off the ionosphere at night.",
+    "sentence2": "Our earth-science chart labeled the ionosphere above other layers."
+  },
+  {
+    "id": 406,
+    "word": "irredeemable",
+    "sentence1": "The stained shirt looked irredeemable until soap saved it.",
+    "sentence2": "No quiz score is irredeemable if you complete the corrections."
+  },
+  {
+    "id": 407,
+    "word": "irreverent",
+    "sentence1": "An irreverent joke about the mascot still stayed kind.",
+    "sentence2": "The comic strip was irreverent but never mean about teachers."
+  },
+  {
+    "id": 408,
+    "word": "isosceles",
+    "sentence1": "An isosceles triangle has two sides of equal length.",
+    "sentence2": "We cut an isosceles pennant for the pep-rally banner."
+  },
+  {
+    "id": 409,
+    "word": "issuance",
+    "sentence1": "The issuance of new lockers happens during the first week.",
+    "sentence2": "After the issuance of maps, the hike began on time."
+  },
+  {
+    "id": 410,
+    "word": "jabberwocky",
+    "sentence1": "We read Alice's jabberwocky poem and listed the made-up words.",
+    "sentence2": "Drama club acted out jabberwocky with cardboard trees."
+  },
+  {
+    "id": 411,
+    "word": "jackal",
+    "sentence1": "The nature film showed a jackal trotting across dry grass.",
+    "sentence2": "A jackal at the zoo waited near the fence at feeding time."
+  },
+  {
+    "id": 412,
+    "word": "jackstraw",
+    "sentence1": "One jackstraw slipped from the pile during the quiet game.",
+    "sentence2": "Grandpa kept a tin of jackstraw sticks in the hall closet."
+  },
+  {
+    "id": 413,
+    "word": "January",
+    "sentence1": "The science fair is scheduled for late January this year.",
+    "sentence2": "A January freeze turned the puddles into thin ice."
+  },
+  {
+    "id": 414,
+    "word": "jennet",
+    "sentence1": "A small jennet carried packs on the farm tour.",
+    "sentence2": "The story's traveler rode a gentle jennet along the lane."
+  },
+  {
+    "id": 415,
+    "word": "jetsam",
+    "sentence1": "Beach cleanup collected jetsam that had washed ashore.",
+    "sentence2": "The harbor talk defined jetsam as goods thrown from a ship."
+  },
+  {
+    "id": 416,
+    "word": "jittery",
+    "sentence1": "Too much soda made him jittery before the choir solo.",
+    "sentence2": "A jittery kitten hid under the chair, then came out for treats."
+  },
+  {
+    "id": 417,
+    "word": "jockeying",
+    "sentence1": "Students were jockeying for the last window seats on the bus.",
+    "sentence2": "Clubs began jockeying for the best booth at the fair."
+  },
+  {
+    "id": 418,
+    "word": "johnnycake",
+    "sentence1": "We tasted a warm johnnycake with a little maple syrup.",
+    "sentence2": "The history picnic served johnnycake like early settlers made."
+  },
+  {
+    "id": 419,
+    "word": "jokester",
+    "sentence1": "The class jokester saved the funniest pun for the end.",
+    "sentence2": "A kind jokester kept spirits up during the long rehearsal."
+  },
+  {
+    "id": 420,
+    "word": "journalism",
+    "sentence1": "School journalism class wrote a fair story about the new gym.",
+    "sentence2": "She wants a journalism career that checks facts twice."
+  },
+  {
+    "id": 421,
+    "word": "Judaism",
+    "sentence1": "Our world-cultures unit treated Judaism with care and respect.",
+    "sentence2": "A guest speaker explained a holiday in Judaism to the class."
+  },
+  {
+    "id": 422,
+    "word": "judiciary",
+    "sentence1": "Civics class compared the judiciary with the other branches.",
+    "sentence2": "The field trip watched how the local judiciary handles cases."
+  },
+  {
+    "id": 423,
+    "word": "junction",
+    "sentence1": "Turn left at the junction of Main Street and Oak.",
+    "sentence2": "Railroad fans photographed the busy junction from the bridge."
+  },
+  {
+    "id": 424,
+    "word": "junket",
+    "sentence1": "The student council planned a short junket to the state capitol.",
+    "sentence2": "Reporters called the factory tour a press junket."
+  },
+  {
+    "id": 425,
+    "word": "junta",
+    "sentence1": "The current-events article defined a junta as a small ruling group.",
+    "sentence2": "In our simulation, a student junta ran the mock city for a day."
+  },
+  {
+    "id": 426,
+    "word": "Jupiter",
+    "sentence1": "A telescope night let us glimpse Jupiter and its moons.",
+    "sentence2": "The planet model of Jupiter was the largest in the mobile."
+  },
+  {
+    "id": 427,
+    "word": "justification",
+    "sentence1": "She wrote a clear justification for the extra practice time.",
+    "sentence2": "The budget request needed justification in two short sentences."
+  },
+  {
+    "id": 428,
+    "word": "juxtaposed",
+    "sentence1": "The collage juxtaposed old maps with modern photos.",
+    "sentence2": "Two recipes were juxtaposed on the board for comparison."
+  },
+  {
+    "id": 429,
+    "word": "Kabuki",
+    "sentence1": "The arts assembly showed a short Kabuki scene with bold makeup.",
+    "sentence2": "Our world-theater unit compared Kabuki with other stage styles."
+  },
+  {
+    "id": 430,
+    "word": "kale",
+    "sentence1": "We added chopped kale to the soup in cooking club.",
+    "sentence2": "The garden's kale stayed green even after a light frost."
+  },
+  {
+    "id": 431,
+    "word": "kaleidoscope",
+    "sentence1": "A kaleidoscope of fall leaves covered the courtyard.",
+    "sentence2": "She turned the toy kaleidoscope toward the window light."
+  },
+  {
+    "id": 432,
+    "word": "kapok",
+    "sentence1": "The old life vest was stuffed with fluffy kapok fibers.",
+    "sentence2": "A display explained how kapok from seed pods fills cushions."
+  },
+  {
+    "id": 433,
+    "word": "katydid",
+    "sentence1": "A green katydid sang from the porch railing at dusk.",
+    "sentence2": "We found a katydid on the sunflower during garden club."
+  },
+  {
+    "id": 434,
+    "word": "kerf",
+    "sentence1": "The saw left a thin kerf in the scrap of wood.",
+    "sentence2": "Shop class measured the kerf before cutting the next board."
+  },
+  {
+    "id": 435,
+    "word": "kibosh",
+    "sentence1": "Rain put the kibosh on our outdoor pep rally.",
+    "sentence2": "The principal put the kibosh on running in the cafeteria."
+  },
+  {
+    "id": 436,
+    "word": "killdeer",
+    "sentence1": "A killdeer faked a broken wing to lead us from its nest.",
+    "sentence2": "Bird club spotted a killdeer running along the gravel lot."
+  },
+  {
+    "id": 437,
+    "word": "kilometer",
+    "sentence1": "The trail is one kilometer from the school parking lot.",
+    "sentence2": "We converted a mile into a kilometer during math lab."
+  },
+  {
+    "id": 438,
+    "word": "kingship",
+    "sentence1": "The play explored kingship as duty, not just a crown.",
+    "sentence2": "History notes described kingship in a medieval city-state."
+  },
+  {
+    "id": 439,
+    "word": "kitchenette",
+    "sentence1": "The club room has a kitchenette with a sink and microwave.",
+    "sentence2": "We stored leftover pizza in the hotel kitchenette."
+  },
+  {
+    "id": 440,
+    "word": "kiwifruit",
+    "sentence1": "She sliced a kiwifruit for the fruit salad.",
+    "sentence2": "The snack cart offered kiwifruit cups on Friday."
+  },
+  {
+    "id": 441,
+    "word": "kneecap",
+    "sentence1": "A foam pad protected her kneecap during volleyball dives.",
+    "sentence2": "The nurse iced a bumped kneecap after gym class."
+  },
+  {
+    "id": 442,
+    "word": "knockwurst",
+    "sentence1": "Dad grilled knockwurst for the whole neighborhood cookout.",
+    "sentence2": "The deli case held knockwurst next to the mustard jars."
+  },
+  {
+    "id": 443,
+    "word": "Korean",
+    "sentence1": "Our language club tasted mild Korean pancakes after school.",
+    "sentence2": "A Korean folk song was featured in the spring concert."
+  },
+  {
+    "id": 444,
+    "word": "krypton",
+    "sentence1": "The chemistry chart listed krypton among the noble gases.",
+    "sentence2": "Some bright signs use krypton to make a white glow."
+  },
+  {
+    "id": 445,
+    "word": "lackadaisical",
+    "sentence1": "A lackadaisical effort on the mural left gaps in the sky.",
+    "sentence2": "The coach asked us to drop that lackadaisical warm-up."
+  },
+  {
+    "id": 446,
+    "word": "lady-in-waiting",
+    "sentence1": "The play needed a lady-in-waiting to carry the queen's books.",
+    "sentence2": "A lady-in-waiting in the story organized the royal picnic."
+  },
+  {
+    "id": 447,
+    "word": "laggard",
+    "sentence1": "The last laggard caught up after tying a loose shoe.",
+    "sentence2": "A laggard computer slowed the whole group's slideshow."
+  },
+  {
+    "id": 448,
+    "word": "lamentable",
+    "sentence1": "The lamentable shortage of pencils hit us during the test.",
+    "sentence2": "A lamentable mix-up sent the band to the wrong gym."
+  },
+  {
+    "id": 449,
+    "word": "landfall",
+    "sentence1": "The storm made landfall far from our town, so school stayed open.",
+    "sentence2": "Explorers in the book celebrated landfall after weeks at sea."
+  },
+  {
+    "id": 450,
+    "word": "larkspur",
+    "sentence1": "Tall blue larkspur lined the fence in the school garden.",
+    "sentence2": "She painted a larkspur next to the sunflowers on the mural."
+  }
+]
