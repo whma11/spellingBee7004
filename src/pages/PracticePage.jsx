@@ -62,22 +62,12 @@ export default function PracticePage() {
   return (
     <section className="grid gap-6 lg:grid-cols-[1.4fr_0.8fr]">
       <div className="rounded-3xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-200 sm:p-8">
-        <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
-          <div>
-            <h2 className="text-xl font-bold">Spell tab</h2>
-            <p className="mb-3 text-sm text-slate-600">
-              {state.poolMode === 'ALL_WORDS' ? 'all words' : 'unlearned & difficult'}
-            </p>
-            <GradeListPicker compact />
-          </div>
-          <button
-            type="button"
-            onClick={loadNext}
-            disabled={emptyPool}
-            className="rounded-2xl bg-ink px-5 py-3 text-sm font-bold text-amber-50 disabled:opacity-40"
-          >
-            Load next word
-          </button>
+        <div className="mb-6">
+          <h2 className="text-xl font-bold">Spell tab</h2>
+          <p className="mb-3 text-sm text-slate-600">
+            {state.poolMode === 'ALL_WORDS' ? 'all words' : 'unlearned & difficult'}
+          </p>
+          <GradeListPicker compact />
         </div>
 
         {emptyPool ? (
@@ -188,6 +178,14 @@ export default function PracticePage() {
                 Pass marks the word mastered. Fail increases its wrong count and
                 keeps it in the unlearned pool. Load the next word after you score.
               </p>
+              <button
+                type="button"
+                onClick={loadNext}
+                disabled={emptyPool}
+                className="mt-4 w-full rounded-2xl bg-honey px-5 py-4 text-base font-bold text-ink shadow-sm disabled:opacity-40 sm:w-auto"
+              >
+                Load next word
+              </button>
             </fieldset>
           </>
         )}
