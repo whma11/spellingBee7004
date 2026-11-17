@@ -11,7 +11,7 @@ export const DEFAULT_SPEECH = {
   espeakVoice: 'en-us',
   rate: 0.85,
   pitch: 1,
-  autoSpeakWord: false,
+  autoSpeakWord: true,
 }
 
 const ESPEAK_VOICES = [
